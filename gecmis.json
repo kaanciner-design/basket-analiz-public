@@ -1,5 +1,166 @@
 {
-  "guncelleme_utc": "2026-11-21T00:42:32Z",
-  "mac_sayisi": 0,
-  "maclar": []
+  "guncelleme_utc": "2026-11-21T03:45:04Z",
+  "mac_sayisi": 5,
+  "maclar": [
+    {
+      "mac_id": "086d2fe80483ffcc280994fe2e12d4f4",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Denver Nuggets",
+      "deplasman": "Houston Rockets",
+      "baslama_utc": "2026-11-21T03:10:00Z",
+      "gece": "2026-11-20",
+      "olasiliklar": {
+        "1": 0.53,
+        "2": 0.47
+      },
+      "tahmin": "1",
+      "guven": 0.06,
+      "sayi": {
+        "toplam": 227.5,
+        "toplam_kaynak": 16,
+        "fark": 1.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 114,
+        "dep_sayi": 113
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "55c3096b11f501ffb6d8bccbb2cd319d",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Los Angeles Lakers",
+      "deplasman": "Sacramento Kings",
+      "baslama_utc": "2026-11-21T03:10:00Z",
+      "gece": "2026-11-20",
+      "olasiliklar": {
+        "1": 0.8586,
+        "2": 0.1414
+      },
+      "tahmin": "1",
+      "guven": 0.7172,
+      "sayi": {
+        "toplam": 229.5,
+        "toplam_kaynak": 16,
+        "fark": 14.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 122,
+        "dep_sayi": 108
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ee204ae35d677450476eab6ad6a146a7",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Utah Jazz",
+      "deplasman": "Phoenix Suns",
+      "baslama_utc": "2026-11-21T02:40:00Z",
+      "gece": "2026-11-20",
+      "olasiliklar": {
+        "1": 0.3716,
+        "2": 0.6284
+      },
+      "tahmin": "2",
+      "guven": 0.2568,
+      "sayi": {
+        "toplam": 225.5,
+        "toplam_kaynak": 16,
+        "fark": -4.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 110,
+        "dep_sayi": 115
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d6ed1e97c331fc604506e4c354ab1cdc",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Chicago Bulls",
+      "deplasman": "Washington Wizards",
+      "baslama_utc": "2026-11-21T01:10:00Z",
+      "gece": "2026-11-20",
+      "olasiliklar": {
+        "1": 0.5426,
+        "2": 0.4574
+      },
+      "tahmin": "1",
+      "guven": 0.0852,
+      "sayi": {
+        "toplam": 237.5,
+        "toplam_kaynak": 16,
+        "fark": 2.0,
+        "fark_kaynak": 14,
+        "ev_sayi": 120,
+        "dep_sayi": 118
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "17e3a8dc71275a88b19d0d6750a5052c",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Oklahoma City Thunder",
+      "deplasman": "New Orleans Pelicans",
+      "baslama_utc": "2026-11-21T01:10:00Z",
+      "gece": "2026-11-20",
+      "olasiliklar": {
+        "1": 0.7948,
+        "2": 0.2052
+      },
+      "tahmin": "1",
+      "guven": 0.5896,
+      "sayi": {
+        "toplam": 229.5,
+        "toplam_kaynak": 16,
+        "fark": 11.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 120,
+        "dep_sayi": 109
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    }
+  ]
 }
