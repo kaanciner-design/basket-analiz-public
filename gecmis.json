@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-21T19:22:54Z",
+  "guncelleme_utc": "2026-11-21T23:17:15Z",
   "mac_sayisi": 6,
   "maclar": [
     {
@@ -32,13 +32,30 @@
         "it": "I 76ers di Philadelphia sono nettamente favoriti in casa, con una probabilità di vittoria dell'81%. Il totale punti atteso di circa 229 suggerisce uno scenario di gioco veloce, mentre il margine di vittoria atteso di circa 11 punti indica una vittoria che dovrebbe arrivare con una certa tranquillità. Le assenze di Jaylen Brown, Dominick Barlow, Dean Wade e Adem Bona potrebbero mettere alla prova la profondità del roster dei 76ers, mentre dal lato dei Milwaukee l'assenza di Ousmane Dieng sembra destinata ad avere un impatto limitato. La probabilità di una sorpresa si attesta al 19%: un dato basso, ma che non va comunque ignorato.",
         "pt": "O Philadelphia 76ers é claramente o favorito como anfitrião, com uma probabilidade de vitória de 81%; o total de pontos esperado para a partida, em torno de 229, sugere a possibilidade de um jogo de ritmo acelerado, enquanto a diferença esperada de cerca de 11 pontos aponta para um cenário em que a vitória deve ser tranquila. A ausência de Jaylen Brown, Dominick Barlow, Dean Wade e Adem Bona na lista de lesionados pode testar a profundidade do elenco do 76ers, enquanto do lado do Milwaukee a falta de Ousmane Dieng parece ter um impacto limitado. A probabilidade de surpresa está em 19%; baixa, mas não totalmente descartável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "132-129",
+      "toplam": 261,
+      "fark": 3,
+      "periyotlar": [
+        [
+          29,
+          30
+        ],
+        [
+          31,
+          29
+        ],
+        [
+          38,
+          33
+        ],
+        [
+          34,
+          37
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {

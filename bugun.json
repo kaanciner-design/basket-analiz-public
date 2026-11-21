@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-21T19:22:54Z",
+  "guncelleme_utc": "2026-11-21T23:17:15Z",
   "slot": "aksam",
   "mac_sayisi": 5,
   "maclar": [
@@ -42,6 +42,14 @@
       },
       "sakatlik": {
         "ev_sahibi": [
+          {
+            "oyuncu": "Karl-Anthony Towns",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "OG Anunoby",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Jordan Clarkson",
             "durum": "oynamayacak"
@@ -446,7 +454,20 @@
             "durum": "oynamayacak"
           }
         ],
-        "deplasman": []
+        "deplasman": [
+          {
+            "oyuncu": "Mitchell Robinson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Derrick White",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jayson Tatum",
+            "durum": "oynamayacak"
+          }
+        ]
       },
       "hareket": null,
       "ucretsiz": false
@@ -490,12 +511,12 @@
             "tahmin": "1",
             "olasilik": 0.8053,
             "guven": 0.6106,
-            "skor": null,
-            "tuttu": null
+            "skor": "132-129",
+            "tuttu": true
           }
         ],
-        "tutan": 0,
-        "sonuclanan": 0
+        "tutan": 1,
+        "sonuclanan": 1
       }
     ],
     "dun": null,
