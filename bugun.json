@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-21T03:45:04Z",
+  "guncelleme_utc": "2026-11-21T11:03:57Z",
   "slot": "sabah",
   "mac_sayisi": 11,
   "maclar": [
@@ -18,7 +18,7 @@
       "dinlenme": null,
       "ai_metin": null,
       "ai_metinler": null,
-      "kilit_utc": "2026-11-21T03:45:04Z",
+      "kilit_utc": "2026-11-21T11:03:57Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -181,6 +181,10 @@
           }
         ],
         "deplasman": [
+          {
+            "oyuncu": "Jerami Grant",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Javon Small",
             "durum": "oynamayacak"

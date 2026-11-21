@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-21T03:45:04Z",
+  "guncelleme_utc": "2026-11-21T11:03:57Z",
   "mac_sayisi": 5,
   "maclar": [
     {
@@ -25,13 +25,30 @@
       },
       "ai_metin": null,
       "ai_metinler": null,
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "133-124",
+      "toplam": 257,
+      "fark": 9,
+      "periyotlar": [
+        [
+          31,
+          33
+        ],
+        [
+          31,
+          27
+        ],
+        [
+          37,
+          42
+        ],
+        [
+          34,
+          22
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -57,13 +74,30 @@
       },
       "ai_metin": null,
       "ai_metinler": null,
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "106-104",
+      "toplam": 210,
+      "fark": 2,
+      "periyotlar": [
+        [
+          28,
+          28
+        ],
+        [
+          26,
+          34
+        ],
+        [
+          28,
+          22
+        ],
+        [
+          24,
+          20
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -89,13 +123,30 @@
       },
       "ai_metin": null,
       "ai_metinler": null,
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "101-111",
+      "toplam": 212,
+      "fark": -10,
+      "periyotlar": [
+        [
+          23,
+          26
+        ],
+        [
+          26,
+          35
+        ],
+        [
+          27,
+          28
+        ],
+        [
+          25,
+          22
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -121,13 +172,30 @@
       },
       "ai_metin": null,
       "ai_metinler": null,
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "94-98",
+      "toplam": 192,
+      "fark": -4,
+      "periyotlar": [
+        [
+          29,
+          22
+        ],
+        [
+          31,
+          30
+        ],
+        [
+          9,
+          23
+        ],
+        [
+          25,
+          23
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -153,13 +221,30 @@
       },
       "ai_metin": null,
       "ai_metinler": null,
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "126-120",
+      "toplam": 246,
+      "fark": 6,
+      "periyotlar": [
+        [
+          33,
+          36
+        ],
+        [
+          23,
+          28
+        ],
+        [
+          36,
+          34
+        ],
+        [
+          34,
+          22
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     }
   ]
