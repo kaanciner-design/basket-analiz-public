@@ -1,7 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-21T12:23:18Z",
-  "slot": "sabah",
-  "mac_sayisi": 11,
+  "guncelleme_utc": "2026-11-21T16:06:54Z",
+  "slot": "aksam",
+  "mac_sayisi": 6,
   "maclar": [
     {
       "mac_id": "6cd4587453e4da55317b2c1e3576e75b",
@@ -10,15 +10,32 @@
       "deplasman": "Milwaukee Bucks",
       "baslama_utc": "2026-11-21T18:10:00Z",
       "gece": "2026-11-21",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8053,
+        "2": 0.1947
+      },
+      "tahmin": "1",
+      "guven": 0.6106,
+      "sayi": {
+        "toplam": 229.0,
+        "toplam_kaynak": 18,
+        "fark": 11.0,
+        "fark_kaynak": 16,
+        "ev_sayi": 120,
+        "dep_sayi": 109
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-21T12:23:18Z",
+      "ai_metin": "Philadelphia 76ers, %81 kazanma olasılığıyla ev sahibi olarak belirgin bir favori; maçın yaklaşık 229 olan beklenen toplam sayısı tempolu bir oyun ihtimalini düşündürürken, yaklaşık 11 sayılık beklenen fark galibiyetin rahat geçeceği bir senaryoya işaret ediyor. Jaylen Brown, Dominick Barlow, Dean Wade ve Adem Bona'nın sakatlık listesinde olması 76ers'ın rotasyon derinliğini sınayabilir, Milwaukee tarafında ise Ousmane Dieng'in yokluğu sınırlı bir etki yaratacak gibi görünüyor. Sürpriz ihtimali %19 seviyesinde; düşük olmakla birlikte tamamen göz ardı edilmeyecek bir ihtimal.",
+      "ai_metinler": {
+        "en": "Philadelphia 76ers are clear home favorites with an 81% probability of winning. The expected total points of roughly 229 suggest a fast-paced game is likely, while the expected margin of about 11 points points to a comfortable win scenario. Jaylen Brown, Dominick Barlow, Dean Wade and Adem Bona are on the injury list, which could test the 76ers' rotation depth, while Ousmane Dieng's absence appears likely to have a limited impact on Milwaukee. The upset probability sits at 19%; low, but not one to dismiss entirely.",
+        "es": "Los Philadelphia 76ers son los claros favoritos como equipo local, con una probabilidad de victoria del 81%. El total de puntos esperado, de aproximadamente 229, sugiere un escenario de juego a ritmo alto, mientras que la diferencia esperada de unos 11 puntos apunta a una victoria cómoda. La ausencia de Jaylen Brown, Dominick Barlow, Dean Wade y Adem Bona en la lista de lesionados podría poner a prueba la profundidad de rotación de los 76ers, mientras que en el lado de Milwaukee la falta de Ousmane Dieng parece tener un impacto limitado. La probabilidad de una sorpresa se sitúa en el 19%: es baja, pero no es una posibilidad que deba descartarse por completo.",
+        "de": "Philadelphia 76ers sind mit einer Wahrscheinlichkeit von 81% als Heimmannschaft ein klarer Favorit; die erwartete Gesamtpunktzahl von etwa 229 deutet auf ein temporeiches Spiel hin, während ein erwarteter Vorsprung von rund 11 Punkten auf einen komfortablen Sieg hindeutet. Dass Jaylen Brown, Dominick Barlow, Dean Wade und Adem Bona auf der Verletztenliste stehen, könnte die Rotationstiefe der 76ers auf die Probe stellen, während auf Seiten der Milwaukee Bucks das Fehlen von Ousmane Dieng nur begrenzte Auswirkungen zu haben scheint. Die Wahrscheinlichkeit einer Überraschung liegt bei 19%; niedrig, aber keineswegs zu vernachlässigen.",
+        "fr": "Philadelphia 76ers ont clairement la faveur de la rencontre à domicile, avec une probabilité de victoire de 81 %. Le total de points attendu, d'environ 229, laisse penser à un match rythmé, tandis qu'un écart attendu d'environ 11 points indique un scénario de victoire confortable. Les absences de Jaylen Brown, Dominick Barlow, Dean Wade et Adem Bona sur la liste des blessés pourraient mettre à l'épreuve la profondeur de rotation des 76ers, alors que l'absence d'Ousmane Dieng semble n'avoir qu'un impact limité côté Milwaukee. La probabilité d'une surprise est de 19 % : faible, mais pas à négliger totalement.",
+        "it": "I 76ers di Philadelphia sono nettamente favoriti in casa, con una probabilità di vittoria dell'81%. Il totale punti atteso di circa 229 suggerisce uno scenario di gioco veloce, mentre il margine di vittoria atteso di circa 11 punti indica una vittoria che dovrebbe arrivare con una certa tranquillità. Le assenze di Jaylen Brown, Dominick Barlow, Dean Wade e Adem Bona potrebbero mettere alla prova la profondità del roster dei 76ers, mentre dal lato dei Milwaukee l'assenza di Ousmane Dieng sembra destinata ad avere un impatto limitato. La probabilità di una sorpresa si attesta al 19%: un dato basso, ma che non va comunque ignorato.",
+        "pt": "O Philadelphia 76ers é claramente o favorito como anfitrião, com uma probabilidade de vitória de 81%; o total de pontos esperado para a partida, em torno de 229, sugere a possibilidade de um jogo de ritmo acelerado, enquanto a diferença esperada de cerca de 11 pontos aponta para um cenário em que a vitória deve ser tranquila. A ausência de Jaylen Brown, Dominick Barlow, Dean Wade e Adem Bona na lista de lesionados pode testar a profundidade do elenco do 76ers, enquanto do lado do Milwaukee a falta de Ousmane Dieng parece ter um impacto limitado. A probabilidade de surpresa está em 19%; baixa, mas não totalmente descartável."
+      },
+      "kilit_utc": "2026-11-21T16:06:57Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -53,7 +70,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-21T16:06:55Z",
+        "ilk": {
+          "1": 0.8328,
+          "2": 0.1672
+        },
+        "son": {
+          "1": 0.8053,
+          "2": 0.1947
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -63,15 +91,32 @@
       "deplasman": "Portland Trail Blazers",
       "baslama_utc": "2026-11-22T00:40:00Z",
       "gece": "2026-11-21",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6078,
+        "2": 0.3922
+      },
+      "tahmin": "1",
+      "guven": 0.2156,
+      "sayi": {
+        "toplam": 216.5,
+        "toplam_kaynak": 17,
+        "fark": 4.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 110,
+        "dep_sayi": 106
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-21T18:45:00Z",
+      "ai_metin": "New York Knicks, ev sahibi avantajıyla belirgin biçimde önde: %61'lik kazanma olasılığı ve yaklaşık 4 sayılık beklenen fark, maçın yakın ama Knicks lehine dengeli bir seyredeceğini gösteriyor. Beklenen toplam sayının 216 civarında olması, skorun orta tempoda ve son çeyreğe kadar açık kalabilecek bir maç olabileceğine işaret ediyor. Portland tarafında Ja Morant ve Shaedon Sharpe'ın sakatlık listesinde görünmesi, deplasman ekibinin rotasyonunu etkileyebilir. Portland'ın %39'luk olasılığı göz ardı edilemez; ancak olası bir sürpriz ihtimali %20'nin altında olmadığı için bu ihtimali yüksek bir olasılık gibi değerlendirmek gerekir.",
+      "ai_metinler": {
+        "en": "New York Knicks holds a clear advantage from home court: a 61% probability of winning and an expected margin of about 4 points, which points to a close game that should remain balanced in the Knicks' favor. An expected total of around 216 points suggests a moderate pace, and the game could stay open until the final quarter. On the Portland side, Ja Morant and Shaedon Sharpe appearing on the injury report could affect the visitors' rotation. Portland's 39% probability cannot be ignored; still, since the chance of an upset is not below 20%, it should be viewed as a real possibility rather than a remote one.",
+        "es": "Los New York Knicks están claramente por delante gracias a la ventaja de jugar en casa: una probabilidad de victoria del 61% y una diferencia esperada de unos 4 puntos indican que el partido será cerrado, aunque con un equilibrio que favorece a los Knicks. Un total de puntos esperado de alrededor de 216 sugiere un ritmo medio y un encuentro que podría mantenerse abierto hasta el último cuarto. En el lado de Portland, la aparición de Ja Morant y Shaedon Sharpe en la lista de lesionados podría afectar la rotación del equipo visitante. La probabilidad del 39% de Portland no debe ignorarse; además, como la posibilidad de una sorpresa no es inferior al 20%, conviene considerarla una probabilidad alta.",
+        "de": "New York Knicks liegt dank des Heimvorteils deutlich vorne: Mit einer Siegwahrscheinlichkeit von 61% und einem erwarteten Vorsprung von etwa 4 Punkten deutet vieles darauf hin, dass das Spiel eng wird, die Knicks aber insgesamt ausgeglichen die Oberhand behalten. Eine erwartete Gesamtpunktzahl von rund 216 spricht für ein Spiel mit mittlerem Tempo, das bis ins letzte Viertel offen bleiben kann. Auf Seiten der Portland Trail Blazers stehen Ja Morant und Shaedon Sharpe auf der Verletztenliste, was die Rotation der Gastmannschaft beeinflussen könnte. Die Siegwahrscheinlichkeit von 39% für Portland ist nicht zu vernachlässigen; da die Chance auf eine Überraschung aber nicht unter 20% liegt, sollte man sie nicht als gering einstufen.",
+        "fr": "New York Knicks, avantage du terrain, est nettement en tête : une probabilité de victoire de 61 % et un écart attendu d'environ 4 points indiquent un match serré mais équilibré, en faveur des Knicks. Un total de points attendu autour de 216 laisse penser à un rythme moyen et à une rencontre qui pourrait rester ouverte jusqu'au dernier quart-temps. Côté Portland, la présence de Ja Morant et de Shaedon Sharpe sur la liste des blessés pourrait perturber la rotation de l'équipe visiteuse. La probabilité de 39 % de Portland ne peut pas être ignorée ; comme la probabilité d'une surprise n'est pas inférieure à 20 %, il convient de la considérer comme une issue plausible plutôt que comme une hypothèse marginale.",
+        "it": "New York Knicks è nettamente in vantaggio grazie al fattore campo: probabilità di vittoria del 61% e un margine atteso di circa 4 punti indicano una partita equilibrata ma favorevole ai Knicks. Il totale punti atteso di circa 216 suggerisce un ritmo medio e una gara che potrebbe restare aperta fino all'ultimo quarto. Sul fronte di Portland, la presenza di Ja Morant e Shaedon Sharpe nella lista degli infortunati potrebbe incidere sulla rotazione della squadra ospite. La probabilità del 39% di Portland non va trascurata: una sorpresa non è da escludere, poiché la possibilità che accada è superiore al 20%, e va quindi considerata come un esito tutt'altro che improbabile.",
+        "pt": "New York Knicks está nitidamente à frente com a vantagem de jogar em casa: uma probabilidade de vitória de 61% e uma diferença esperada de cerca de 4 pontos, o que indica um jogo equilibrado, porém favorável ao Knicks. O total de pontos esperado em torno de 216 sugere uma partida de ritmo médio, que pode permanecer aberta até o último quarto. Do lado do Portland, a presença de Ja Morant e Shaedon Sharpe na lista de lesionados pode afetar a rotação da equipe visitante. A probabilidade de 39% do Portland não deve ser ignorada; como a chance de uma surpresa não fica abaixo de 20%, essa possibilidade deve ser vista como uma probabilidade relevante."
+      },
+      "kilit_utc": "2026-11-21T16:06:59Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -102,7 +147,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-21T16:06:55Z",
+        "ilk": {
+          "1": 0.6518,
+          "2": 0.3482
+        },
+        "son": {
+          "1": 0.6078,
+          "2": 0.3922
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -112,21 +168,42 @@
       "deplasman": "Los Angeles Clippers",
       "baslama_utc": "2026-11-22T01:10:00Z",
       "gece": "2026-11-21",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6566,
+        "2": 0.3434
+      },
+      "tahmin": "1",
+      "guven": 0.3132,
+      "sayi": {
+        "toplam": 230.5,
+        "toplam_kaynak": 18,
+        "fark": 5.5,
+        "fark_kaynak": 18,
+        "ev_sayi": 118,
+        "dep_sayi": 112
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-21T18:45:00Z",
+      "ai_metin": "Dallas Mavericks, Los Angeles Clippers karşısında belirgin biçimde önde görünüyor; ev sahibi %66 kazanma olasılığıyla maçın favorisi. Beklenen yaklaşık 230 toplam sayı ve Mavericks lehine yaklaşık 6 sayılık fark, rahat bir galibiyetten çok son çeyreğe kadar sürebilecek, orta tempolu ve dengeli bir senaryoya işaret ediyor. Sakatlık listesindeki Tobi Lawal, Dereck Lively II, Sergio de Larrea ve Tarik Biberovic'in oynamayacak olması Dallas'ın rotasyon tercihlerini sınırlayabilir. Sürpriz ihtimali %34 olduğu için Clippers'ın galibiyeti de gerçekçi bir senaryo olarak masada kalıyor.",
+      "ai_metinler": {
+        "en": "The Dallas Mavericks look clearly ahead of the Los Angeles Clippers; the home side is the favorite with a 66% probability of winning. An expected total of about 230 points and a margin of roughly 6 points in Dallas's favor point to a balanced, medium-paced game that could stay close into the final quarter rather than a comfortable win. With Tobi Lawal, Dereck Lively II, Sergio de Larrea and Tarik Biberovic all out of the lineup, Dallas's rotation options may be limited. Because the upset probability is 34%, a Clippers win remains a realistic scenario.",
+        "es": "Dallas Mavericks claramente parece tener la ventaja frente a Los Angeles Clippers; el equipo local es el favorito del partido con un 66% de probabilidad de ganar. El total de puntos esperado ronda los 230 puntos, y la ventaja de aproximadamente 6 puntos a favor de los Mavericks apunta a un escenario equilibrado de ritmo medio, en el que el partido podría mantenerse abierto hasta el último cuarto en lugar de convertirse en una victoria cómoda. La lista de bajas, con Tobi Lawal, Dereck Lively II, Sergio de Larrea y Tarik Biberovic fuera del partido, podría limitar las opciones de rotación de Dallas. Como la probabilidad de sorpresa es del 34%, una victoria de los Clippers también se mantiene como un escenario realista.",
+        "de": "Dallas Mavericks wirkt im Duell gegen die Los Angeles Clippers deutlich im Vorteil; der Gastgeber ist mit einer Siegwahrscheinlichkeit von 66% der Favorit der Partie. Für die erwarteten rund 230 total points und einen Vorsprung von etwa 6 Punkten zugunsten der Mavericks ergibt sich ein Szenario mit mittlerem Tempo und ausgeglichenen Phasen, das eher bis ins letzte Viertel offen bleiben könnte als in einem klaren Sieg endet. Dass Tobi Lawal, Dereck Lively II, Sergio de Larrea und Tarik Biberovic verletzt fehlen werden, könnte die Rotationsmöglichkeiten der Mavericks einschränken. Da die Überraschungswahrscheinlichkeit bei 34% liegt, bleibt ein Sieg der Clippers ebenfalls ein realistisches Szenario.",
+        "fr": "Les Dallas Mavericks semblent nettement en avance face aux Los Angeles Clippers ; l'équipe à domicile est la favorite du match avec une probabilité de victoire de 66 %. Le scénario attendu, d'environ 230 points au total et un avantage d'environ 6 points pour les Mavericks, évoque un match à rythme modéré et équilibré, qui pourrait rester serré jusqu'au dernier quart-temps plutôt qu'une victoire facile. L'absence de Tobi Lawal, Dereck Lively II, Sergio de Larrea et Tarik Biberovic, tous sur la liste des blessés, pourrait limiter les choix de rotation de Dallas. Comme la probabilité de surprise est de 34 %, une victoire des Clippers reste un scénario réaliste.",
+        "it": "Dallas Mavericks, Los Angeles Clippers karşısında belirgin biçimde avanti appare; la squadra di casa è la favorita con una probabilità di vittoria del 66%. Il totale punti atteso è di circa 230 e il margine previsto a favore dei Mavericks è di circa 6 punti, un quadro che suggerisce una partita di ritmo medio ed equilibrata, che potrebbe restare aperta fino all'ultimo quarto piuttosto che concludersi con una vittoria netta. Le assenze per infortunio di Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic non giocheranno, e ciò potrebbe limitare le scelte di rotazione di Dallas. Poiché la probabilità di una sorpresa è del 34%, anche la vittoria dei Clippers resta uno scenario realistico.",
+        "pt": "Dallas Mavericks, Los Angeles Clippers diante claramente em vantagem; o time da casa é o favorito do jogo, com probabilidade de vitória de 66%. O total de pontos esperado é de cerca de 230 pontos, e a vantagem de aproximadamente 6 pontos para o Mavericks aponta para um cenário de ritmo moderado e equilibrado, que pode permanecer indefinido até o último quarto, em vez de uma vitória tranquila. Com Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic na lista de lesionados e fora da partida, as opções de rotação do Dallas podem ficar limitadas. Como a probabilidade de uma surpresa é de 34%, a vitória do Clippers também continua sendo um cenário realista."
+      },
+      "kilit_utc": "2026-11-21T16:07:01Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
       },
       "sakatlik": {
         "ev_sahibi": [
+          {
+            "oyuncu": "Tobi Lawal",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Dereck Lively II",
             "durum": "oynamayacak"
@@ -142,7 +219,18 @@
         ],
         "deplasman": []
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-21T16:06:55Z",
+        "ilk": {
+          "1": 0.6426,
+          "2": 0.3574
+        },
+        "son": {
+          "1": 0.6566,
+          "2": 0.3434
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -152,15 +240,32 @@
       "deplasman": "Memphis Grizzlies",
       "baslama_utc": "2026-11-22T01:10:00Z",
       "gece": "2026-11-21",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6706,
+        "2": 0.3294
+      },
+      "tahmin": "1",
+      "guven": 0.3412,
+      "sayi": {
+        "toplam": 229.5,
+        "toplam_kaynak": 18,
+        "fark": 6.5,
+        "fark_kaynak": 18,
+        "ev_sayi": 118,
+        "dep_sayi": 112
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-21T18:45:00Z",
+      "ai_metin": "Minnesota Timberwolves, %67 kazanma olasılığıyla belirgin biçimde önde; yaklaşık 6 sayılık beklenen farkla ev sahibinin rahat bir galibiyete yönelmesi bekleniyor. Yaklaşık 230 olan beklenen toplam sayı, maçın tempolu ve skorun yüksek seyredeceği bir senaryoya işaret ediyor. Anthony Edwards, Jaylen Clark ve Donte DiVincenzo'nun sakatlık listesinde oynamayacak görünmesi, Timberwolves'ın rotasyonunu etkileyebilecek bir unsur olarak öne çıkıyor. Grizzlies'ta Jerami Grant'in de yer almaması, konuk ekibin hücum üretimini sınırlayabilir. Sürpriz ihtimali %33 olsa da, favorinin son çeyreğe kadar açık bir üstünlük kurması bu ihtimali zayıflatır.",
+      "ai_metinler": {
+        "en": "Minnesota Timberwolves hold a clear edge, with a 67% probability of winning; the home side is expected to secure a comfortable victory by an expected margin of about 6 points. The expected total points of around 230 points to a fast-paced game with high scoring. The absence of Anthony Edwards, Jaylen Clark and Donte DiVincenzo from the injury report stands out as a factor that could affect the Timberwolves' rotation. Jerami Grant's absence for the Grizzlies may limit the visitors' offensive production. Although the probability of an upset is 33%, the favorite building a clear lead before the final quarter would weaken that possibility.",
+        "es": "Minnesota Timberwolves, %67 kazanma olasılığıyla belirgin biçimde önde; yaklaşık 6 sayılık beklenen farkla ev sahibinin rahat bir galibiyete yönelmesi bekleniyor. Yaklaşık 230 olan beklenen total points, maçın tempolu ve skorun yüksek seyredeceği bir senaryoya işaret ediyor. Anthony Edwards, Jaylen Clark ve Donte DiVincenzo'nun sakatlık listesinde oynamayacak görünmesi, Timberwolves'ın rotasyonunu etkileyebilecek bir unsur olarak öne çıkıyor. Grizzlies'ta Jerami Grant'in de yer almaması, konuk ekibin hücum üretimini sınırlayabilir. Sürpriz ihtimali %33 olsa da, favorinin son çeyreğe kadar açık bir üstünlük kurması bu ihtimali zayıflatır.",
+        "de": "Minnesota Timberwolves liegen mit einer Siegwahrscheinlichkeit von 67% deutlich vorn; bei einem erwarteten Vorsprung von etwa 6 Punkten wird ein klarer Heimsieg erwartet. Die erwarteten total points von rund 230 deuten auf ein schnelles Spiel mit hohen Punktzahlen hin. Dass Anthony Edwards, Jaylen Clark und Donte DiVincenzo auf der Verletztenliste stehen und voraussichtlich nicht spielen werden, fällt besonders ins Gewicht, da dies die Rotation der Timberwolves beeinflussen könnte. Auch das Fehlen von Jerami Grant bei den Grizzlies könnte die Offensivleistung des Gästeteams einschränken. Die Überraschungswahrscheinlichkeit liegt bei 33%, doch da der Favorit bis ins letzte Viertel einen deutlichen Vorsprung halten dürfte, wird diese Möglichkeit geschwächt.",
+        "fr": "Minnesota Timberwolves, 67 % de probabilité de victoire, est nettement favori ; avec un écart attendu d'environ 6 points, l'équipe à domicile devrait s'imposer confortablement. Le nombre total de points attendu, proche de 230, laisse présager un match au rythme soutenu et à scoring élevé. L'absence annoncée d'Anthony Edwards, de Jaylen Clark et de Donte DiVincenzo sur la liste des blessés constitue un facteur important susceptible d'affecter la rotation des Timberwolves. Chez les Grizzlies, l'absence de Jerami Grant pourrait limiter la production offensive de l'équipe visiteuse. La probabilité d'une surprise est de 33 %, mais la domination du favori, si elle s'installe clairement avant le dernier quart-temps, affaiblira nettement cette éventualité.",
+        "it": "Minnesota Timberwolves, %67 kazanma probability ile belirgin biçimde önde; yaklaşık 6 sayılık beklenen farkla ev sahibinin rahat bir galibiyete yönelmesi bekleniyor. Yaklaşık 230 olan beklenen total points, maçın tempolu ve skorun yüksek seyredeceği bir senaryoya işaret ediyor. Anthony Edwards, Jaylen Clark ve Donte DiVincenzo'nun sakatlık listesinde oynamayacak görünmesi, Timberwolves'ın rotasyonunu etkileyebilecek bir unsur olarak öne çıkıyor. Grizzlies'ta Jerami Grant'in de yer almaması, konuk ekibin hücum üretimini sınırlayabilir. Sürpriz probability %33 olsa da, favorinin son çeyreğe kadar açık bir üstünlük kurması bu probability'yi zayıflatır.",
+        "pt": "O Minnesota Timberwolves aparece claramente na frente, com 67% de probabilidade de vencer; espera-se uma vitória tranquila do time da casa, com uma diferença prevista de cerca de 6 pontos. O total de pontos esperado, em torno de 230, aponta para um cenário de jogo acelerado e com placar alto. O fato de Anthony Edwards, Jaylen Clark e Donte DiVincenzo aparecerem na lista de lesionados e não devem jogar se destaca como um fator que pode afetar a rotação do Timberwolves. A ausência de Jerami Grant no Grizzlies também pode limitar a produção ofensiva da equipe visitante. A probabilidade de zebra é de 33%, mas uma vantagem clara do favorito até o último quarto enfraquece essa possibilidade."
+      },
+      "kilit_utc": "2026-11-21T16:07:03Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -211,180 +316,269 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-21T16:06:55Z",
+        "ilk": {
+          "1": 0.6466,
+          "2": 0.3534
+        },
+        "son": {
+          "1": 0.6706,
+          "2": 0.3294
+        }
+      },
       "ucretsiz": false
     },
     {
-      "mac_id": "3e065ed32915a4afefae3a851f6df12a",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Beşiktaş",
-      "deplasman": "Paris",
-      "baslama_utc": "2026-11-24T17:00:00Z",
-      "gece": "2026-11-24",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-24T08:15:00Z",
+      "mac_id": "1139ffb82856378723c5465df4e13d96",
+      "lig": "basketball_nba",
+      "ev_sahibi": "San Antonio Spurs",
+      "deplasman": "New Orleans Pelicans",
+      "baslama_utc": "2026-11-22T01:10:00Z",
+      "gece": "2026-11-21",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8974,
+        "2": 0.1026
+      },
+      "tahmin": "1",
+      "guven": 0.7948,
+      "sayi": {
+        "toplam": 228.5,
+        "toplam_kaynak": 18,
+        "fark": 18.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 124,
+        "dep_sayi": 105
+      },
+      "dinlenme": {
+        "dep": {
+          "gun": 1,
+          "arka_arkaya": true
+        }
+      },
+      "ai_metin": "San Antonio Spurs, %90 kazanma olasılığıyla maçın açık favorisi ve bu üstünlük oldukça belirgin. Beklenen toplam sayının yaklaşık 228 ve beklenen farkın Spurs lehine yaklaşık 18 sayı olması, tempolu ama tek taraflı ilerleyebilecek bir senaryoya işaret ediyor. New Orleans Pelicans'ın arka arkaya ikinci gece sahaya çıkması ve Dejounte Murray ile Bryce McGowens'ın da listede yer alması, rakibin rotasyonunu daraltabilir. Yine de Spurs'ın Dylan Harper, Tobias Harris ve Jayden Quaintance'ın yokluğunu da hesaba katması gerekiyor. Sürpriz ihtimali %10 olduğundan, Pelicans'ın galibiyeti düşük bir olasılık olarak kalıyor.",
+      "ai_metinler": {
+        "en": "San Antonio Spurs are the clear favorite to win the match with a 90% probability, and this advantage is quite pronounced. An expected total points figure of around 228 and an expected margin of around 18 points in favor of the Spurs point to a scenario that could be fast-paced but one-sided. The New Orleans Pelicans playing their second game in a row, with Dejounte Murray and Bryce McGowens also on the list, could tighten the opponent's rotation. Even so, the Spurs must also account for the absence of Dylan Harper, Tobias Harris and Jayden Quaintance. Since the upset probability is 10%, a Pelicans victory remains a low-probability outcome.",
+        "es": "San Antonio Spurs, %90 de probabilidad de ganar, es el claro favorito del partido y esa ventaja es bastante notable. Un total de puntos esperado de alrededor de 228 y una diferencia esperada de unos 18 puntos a favor de los Spurs apuntan a un escenario de ritmo alto pero de dominio claro de un lado. Que los New Orleans Pelicans jueguen por segunda noche consecutiva y que Dejounte Murray y Bryce McGowens figuren en la lista podrían reducir la rotación del rival. Aun así, los Spurs también deben tener en cuenta las ausencias de Dylan Harper, Tobias Harris y Jayden Quaintance. Como la probabilidad de sorpresa es del %10, una victoria de los Pelicans se mantiene como un resultado poco probable.",
+        "de": "San Antonio Spurs ist mit einer Siegeswahrscheinlichkeit von 90% der klare Favorit für dieses Spiel, und diese Überlegenheit ist deutlich ausgeprägt. Die erwartete Gesamtpunktzahl von rund 228 und ein erwarteter Vorsprung von etwa 18 Punkten für die Spurs deuten auf ein temporeiches, aber einseitig verlaufendes Szenario hin. Dass die New Orleans Pelicans in der zweiten Nacht in Folge auflaufen und Dejounte Murray sowie Bryce McGowens auf der Liste stehen, könnte die Rotation des Gegners einschränken. Dennoch muss das Spurs-Team die Abwesenheit von Dylan Harper, Tobias Harris und Jayden Quaintance berücksichtigen. Da die Überraschungswahrscheinlichkeit bei 10% liegt, bleibt ein Pelicans-Sieg eine geringe Wahrscheinlichkeit.",
+        "fr": "San Antonio Spurs, %90 de probabilité de victoire, est nettement le grand favori de cette rencontre, et cet avantage est très marqué. Un total de points attendu d'environ 228 et un écart attendu d'environ 18 points en faveur des Spurs laissent entrevoir un scénario rythmé mais probablement à sens unique. Le fait que les New Orleans Pelicans jouent pour la deuxième soirée consécutive, avec Dejounte Murray et Bryce McGowens sur la feuille de match, pourrait toutefois restreindre la rotation de l'adversaire. Il faut néanmoins tenir compte de l'absence de Dylan Harper, Tobias Harris et Jayden Quaintance côté Spurs. Comme la probabilité de surprise est de %10, une victoire des Pelicans reste une éventualité peu probable.",
+        "it": "San Antonio Spurs, %90 probabilità di vittoria, è nettamente il favorito della partita e questo vantaggio è molto evidente. Il totale di punti atteso di circa 228 e il margine previsto di circa 18 punti a favore degli Spurs delineano uno scenario ad alto ritmo ma con un andamento probabilmente a senso unico. Il fatto che i New Orleans Pelicans scendano in campo per la seconda sera consecutiva, con Dejounte Murray e Bryce McGowens anch'essi nella lista, potrebbe limitare le rotazioni dell'avversario. Tuttavia, gli Spurs devono tenere conto anche delle assenze di Dylan Harper, Tobias Harris e Jayden Quaintance. Poiché la probabilità di una sorpresa è del 10%, la vittoria dei Pelicans resta un esito a bassa probabilità.",
+        "pt": "San Antonio Spurs, 90% de probabilidade de vitória, é o claro favorito para o jogo, e essa vantagem é bastante evidente. O total de pontos esperado de cerca de 228 e a diferença esperada de cerca de 18 pontos a favor dos Spurs apontam para um cenário de ritmo intenso, mas com domínio de um lado só. O New Orleans Pelicans jogando pela segunda noite consecutiva e a presença de Dejounte Murray e Bryce McGowens na lista podem reduzir a rotação do adversário. Ainda assim, o Spurs precisa levar em conta a ausência de Dylan Harper, Tobias Harris e Jayden Quaintance. Como a chance de surpresa é de 10%, a vitória do Pelicans continua sendo uma probabilidade baixa."
+      },
+      "kilit_utc": "2026-11-21T16:07:05Z",
       "form": {
         "ev_sahibi": null,
-        "deplasman": null
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Oklahoma City Thunder",
+              "ic_saha": false,
+              "atilan": 120,
+              "yenilen": 126,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 120.0,
+            "yenilen_ort": 126.0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 120.0,
+            "yenilen_ort": 126.0
+          }
+        }
       },
-      "sakatlik": null,
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Dylan Harper",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Tobias Harris",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jayden Quaintance",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Bryce McGowens",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Trendon Watford",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Bennedict Mathurin",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Dejounte Murray",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
       "hareket": null,
-      "ucretsiz": false
+      "ucretsiz": true
     },
     {
-      "mac_id": "d563569f19780b306d14d3c29b67f3bf",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Kızılyıldız",
-      "deplasman": "Virtus Bologna",
-      "baslama_utc": "2026-11-24T18:00:00Z",
-      "gece": "2026-11-24",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-24T08:15:00Z",
+      "mac_id": "b754a1bf84af81d45d4a3a16398daa44",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Sacramento Kings",
+      "deplasman": "Boston Celtics",
+      "baslama_utc": "2026-11-22T03:10:00Z",
+      "gece": "2026-11-21",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1517,
+        "2": 0.8483
+      },
+      "tahmin": "2",
+      "guven": 0.6966,
+      "sayi": {
+        "toplam": 217.5,
+        "toplam_kaynak": 18,
+        "fark": -13.5,
+        "fark_kaynak": 18,
+        "ev_sayi": 102,
+        "dep_sayi": 116
+      },
+      "dinlenme": {
+        "ev": {
+          "gun": 1,
+          "arka_arkaya": true
+        }
+      },
+      "ai_metin": "Boston Celtics, Sacramento Kings karşısında belirgin biçimde önde: %85 kazanma olasılığı ve yaklaşık 14 sayılık beklenen fark, maçın büyük ölçüde deplasman takımının kontrolünde ilerleyeceğine işaret ediyor. Yaklaşık 218 olan beklenen toplam sayı orta tempolu, sayıların dengeli dağıldığı bir senaryoyu gösteriyor. Kings'in arka arkaya ikinci gece sahaya çıkması ve Maxime Raynaud ile Ben Simmons'ın eksikliği, ev sahibi için ek bir yük oluşturuyor. Yine de %15'lik sürpriz ihtimali, Kings'in sahasında maçın son bölümlere kadar uzamasını engellemiyor.",
+      "ai_metinler": {
+        "es": "Boston Celtics tienen una clara ventaja sobre los Sacramento Kings: una probabilidad de victoria del 85% y una diferencia esperada de unos 14 puntos, lo que apunta a que el partido estará controlado en gran medida por el equipo visitante. Los total points esperados, alrededor de 218, describen un escenario de ritmo medio con una distribución equilibrada de los puntos. Que los Kings jueguen su segunda noche consecutiva y la ausencia de Maxime Raynaud y Ben Simmons suponen una carga adicional para el equipo local. Aun así, la probabilidad de sorpresa del 15% no descarta que el encuentro se prolongue hasta los últimos minutos en la cancha de Sacramento.",
+        "de": "Die Boston Celtics liegen gegenüber den Sacramento Kings deutlich vorn: 85% Siegwahrscheinlichkeit und ein erwarteter Vorsprung von etwa 14 Punkten deuten darauf hin, dass das Spiel größtenteils unter der Kontrolle der Gastmannschaft verlaufen wird. Die erwartete Gesamtpunktzahl von rund 218 Punkten spricht für ein Spiel mit mittlerem Tempo, in dem die Punkte ausgewogen verteilt sind. Dass die Kings am zweiten Abend in Folge auflaufen und Maxime Raynaud sowie Ben Simmons fehlen, stellt für den Gastgeber eine zusätzliche Belastung dar. Dennoch schließt die 15%-Überraschungswahrscheinlichkeit nicht aus, dass das Spiel in Sacramento bis in die Schlussphase offen bleibt.",
+        "fr": "Les Boston Celtics sont nettement favoris face aux Sacramento Kings : probabilité de victoire de 85 %, et un écart attendu d'environ 14 points indique que la rencontre devrait être largement contrôlée par l'équipe visiteuse. Le total de points attendu, d'environ 218, correspond à un scénario à rythme modéré, avec une répartition équilibrée des points. Le fait que les Kings disputent leur deuxième match consécutif à domicile, et l'absence de Maxime Raynaud et de Ben Simmons, constituent une charge supplémentaire pour l'équipe locale. Cela dit, la probabilité de surprise de 15 % ne exclut pas une rencontre disputée jusqu'aux dernières minutes sur le parquet de Sacramento.",
+        "it": "I Boston Celtics sono nettamente favoriti contro i Sacramento Kings: probabilità di vittoria dell'85% e un margine atteso di circa 14 punti indicano che la partita dovrebbe svolgersi in gran parte sotto il controllo della squadra ospite. Il totale punti atteso, pari a circa 218, descrive uno scenario a ritmo medio, con punti distribuiti in modo equilibrato. Per i Kings, che scendono in campo per la seconda sera consecutiva e senza Maxime Raynaud e Ben Simmons, il carico aggiuntivo è evidente. Tuttavia, la probabilità di sorpresa del 15% non esclude che la sfida possa restare aperta fino ai minuti finali sul parquet di Sacramento.",
+        "pt": "O Boston Celtics está em clara vantagem sobre o Sacramento Kings: probabilidade de vitória de 85% e uma diferença esperada de cerca de 14 pontos, o que indica que a partida deve ser controlada em grande parte pela equipe visitante. O total de pontos esperado, em torno de 218, aponta para um cenário de ritmo médio, com a pontuação bem distribuída. O fato de o Kings jogar pela segunda noite seguida e a ausência de Maxime Raynaud e Ben Simmons representam um peso extra para o time da casa. Ainda assim, a probabilidade de uma surpresa, de 15%, não descarta que o jogo se prolongue até os minutos finais na quadra do Kings."
+      },
+      "kilit_utc": "2026-11-21T16:07:08Z",
       "form": {
-        "ev_sahibi": null,
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Los Angeles Lakers",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 106,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 104.0,
+            "yenilen_ort": 106.0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 104.0,
+            "yenilen_ort": 106.0
+          }
+        },
         "deplasman": null
       },
-      "sakatlik": null,
-      "hareket": null,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "6bcef0e5f7b2a021b7e07514cdfa6493",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Bayern Münih",
-      "deplasman": "Maccabi Tel Aviv",
-      "baslama_utc": "2026-11-24T19:00:00Z",
-      "gece": "2026-11-24",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-24T08:15:00Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Maxime Raynaud",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Ben Simmons",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": []
       },
-      "sakatlik": null,
-      "hareket": null,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "767cda572a9aefe0c057a4fe3199dfa4",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Valencia",
-      "deplasman": "Panathinaikos",
-      "baslama_utc": "2026-11-24T19:30:00Z",
-      "gece": "2026-11-24",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-24T08:15:00Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": null,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "1707b8c728b9116472624aa8178ebfce",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "ASVEL",
-      "deplasman": "Olimpia Milano",
-      "baslama_utc": "2026-11-24T19:45:00Z",
-      "gece": "2026-11-24",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-24T08:15:00Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": null,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "0f9b0defd0a6c9603d7c70e7962bb628",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Barcelona",
-      "deplasman": "Fenerbahçe",
-      "baslama_utc": "2026-11-24T20:00:00Z",
-      "gece": "2026-11-24",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-24T08:15:00Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": null,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "40589eed5e6894d5b8598ee721b9d57b",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Dubai",
-      "deplasman": "Partizan",
-      "baslama_utc": "2026-11-25T16:00:00Z",
-      "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
-      "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T08:15:00Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
       "hareket": null,
       "ucretsiz": false
     }
   ],
   "en_guclu_3": {
-    "gunler": [],
+    "gunler": [
+      {
+        "tarih": "2026-11-21",
+        "maclar": [
+          {
+            "mac_id": "1139ffb82856378723c5465df4e13d96",
+            "lig": "basketball_nba",
+            "ev_sahibi": "San Antonio Spurs",
+            "deplasman": "New Orleans Pelicans",
+            "baslama_utc": "2026-11-22T01:10:00Z",
+            "tahmin": "1",
+            "olasilik": 0.8974,
+            "guven": 0.7948,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "b754a1bf84af81d45d4a3a16398daa44",
+            "lig": "basketball_nba",
+            "ev_sahibi": "Sacramento Kings",
+            "deplasman": "Boston Celtics",
+            "baslama_utc": "2026-11-22T03:10:00Z",
+            "tahmin": "2",
+            "olasilik": 0.8483,
+            "guven": 0.6966,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "6cd4587453e4da55317b2c1e3576e75b",
+            "lig": "basketball_nba",
+            "ev_sahibi": "Philadelphia 76ers",
+            "deplasman": "Milwaukee Bucks",
+            "baslama_utc": "2026-11-21T18:10:00Z",
+            "tahmin": "1",
+            "olasilik": 0.8053,
+            "guven": 0.6106,
+            "skor": null,
+            "tuttu": null
+          }
+        ],
+        "tutan": 0,
+        "sonuclanan": 0
+      }
+    ],
     "dun": null,
     "genel": {
       "gun": 0,
