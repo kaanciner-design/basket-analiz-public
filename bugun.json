@@ -1,89 +1,8 @@
 {
-  "guncelleme_utc": "2026-11-21T16:06:54Z",
+  "guncelleme_utc": "2026-11-21T19:22:54Z",
   "slot": "aksam",
-  "mac_sayisi": 6,
+  "mac_sayisi": 5,
   "maclar": [
-    {
-      "mac_id": "6cd4587453e4da55317b2c1e3576e75b",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Philadelphia 76ers",
-      "deplasman": "Milwaukee Bucks",
-      "baslama_utc": "2026-11-21T18:10:00Z",
-      "gece": "2026-11-21",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.8053,
-        "2": 0.1947
-      },
-      "tahmin": "1",
-      "guven": 0.6106,
-      "sayi": {
-        "toplam": 229.0,
-        "toplam_kaynak": 18,
-        "fark": 11.0,
-        "fark_kaynak": 16,
-        "ev_sayi": 120,
-        "dep_sayi": 109
-      },
-      "dinlenme": null,
-      "ai_metin": "Philadelphia 76ers, %81 kazanma olasılığıyla ev sahibi olarak belirgin bir favori; maçın yaklaşık 229 olan beklenen toplam sayısı tempolu bir oyun ihtimalini düşündürürken, yaklaşık 11 sayılık beklenen fark galibiyetin rahat geçeceği bir senaryoya işaret ediyor. Jaylen Brown, Dominick Barlow, Dean Wade ve Adem Bona'nın sakatlık listesinde olması 76ers'ın rotasyon derinliğini sınayabilir, Milwaukee tarafında ise Ousmane Dieng'in yokluğu sınırlı bir etki yaratacak gibi görünüyor. Sürpriz ihtimali %19 seviyesinde; düşük olmakla birlikte tamamen göz ardı edilmeyecek bir ihtimal.",
-      "ai_metinler": {
-        "en": "Philadelphia 76ers are clear home favorites with an 81% probability of winning. The expected total points of roughly 229 suggest a fast-paced game is likely, while the expected margin of about 11 points points to a comfortable win scenario. Jaylen Brown, Dominick Barlow, Dean Wade and Adem Bona are on the injury list, which could test the 76ers' rotation depth, while Ousmane Dieng's absence appears likely to have a limited impact on Milwaukee. The upset probability sits at 19%; low, but not one to dismiss entirely.",
-        "es": "Los Philadelphia 76ers son los claros favoritos como equipo local, con una probabilidad de victoria del 81%. El total de puntos esperado, de aproximadamente 229, sugiere un escenario de juego a ritmo alto, mientras que la diferencia esperada de unos 11 puntos apunta a una victoria cómoda. La ausencia de Jaylen Brown, Dominick Barlow, Dean Wade y Adem Bona en la lista de lesionados podría poner a prueba la profundidad de rotación de los 76ers, mientras que en el lado de Milwaukee la falta de Ousmane Dieng parece tener un impacto limitado. La probabilidad de una sorpresa se sitúa en el 19%: es baja, pero no es una posibilidad que deba descartarse por completo.",
-        "de": "Philadelphia 76ers sind mit einer Wahrscheinlichkeit von 81% als Heimmannschaft ein klarer Favorit; die erwartete Gesamtpunktzahl von etwa 229 deutet auf ein temporeiches Spiel hin, während ein erwarteter Vorsprung von rund 11 Punkten auf einen komfortablen Sieg hindeutet. Dass Jaylen Brown, Dominick Barlow, Dean Wade und Adem Bona auf der Verletztenliste stehen, könnte die Rotationstiefe der 76ers auf die Probe stellen, während auf Seiten der Milwaukee Bucks das Fehlen von Ousmane Dieng nur begrenzte Auswirkungen zu haben scheint. Die Wahrscheinlichkeit einer Überraschung liegt bei 19%; niedrig, aber keineswegs zu vernachlässigen.",
-        "fr": "Philadelphia 76ers ont clairement la faveur de la rencontre à domicile, avec une probabilité de victoire de 81 %. Le total de points attendu, d'environ 229, laisse penser à un match rythmé, tandis qu'un écart attendu d'environ 11 points indique un scénario de victoire confortable. Les absences de Jaylen Brown, Dominick Barlow, Dean Wade et Adem Bona sur la liste des blessés pourraient mettre à l'épreuve la profondeur de rotation des 76ers, alors que l'absence d'Ousmane Dieng semble n'avoir qu'un impact limité côté Milwaukee. La probabilité d'une surprise est de 19 % : faible, mais pas à négliger totalement.",
-        "it": "I 76ers di Philadelphia sono nettamente favoriti in casa, con una probabilità di vittoria dell'81%. Il totale punti atteso di circa 229 suggerisce uno scenario di gioco veloce, mentre il margine di vittoria atteso di circa 11 punti indica una vittoria che dovrebbe arrivare con una certa tranquillità. Le assenze di Jaylen Brown, Dominick Barlow, Dean Wade e Adem Bona potrebbero mettere alla prova la profondità del roster dei 76ers, mentre dal lato dei Milwaukee l'assenza di Ousmane Dieng sembra destinata ad avere un impatto limitato. La probabilità di una sorpresa si attesta al 19%: un dato basso, ma che non va comunque ignorato.",
-        "pt": "O Philadelphia 76ers é claramente o favorito como anfitrião, com uma probabilidade de vitória de 81%; o total de pontos esperado para a partida, em torno de 229, sugere a possibilidade de um jogo de ritmo acelerado, enquanto a diferença esperada de cerca de 11 pontos aponta para um cenário em que a vitória deve ser tranquila. A ausência de Jaylen Brown, Dominick Barlow, Dean Wade e Adem Bona na lista de lesionados pode testar a profundidade do elenco do 76ers, enquanto do lado do Milwaukee a falta de Ousmane Dieng parece ter um impacto limitado. A probabilidade de surpresa está em 19%; baixa, mas não totalmente descartável."
-      },
-      "kilit_utc": "2026-11-21T16:06:57Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Dominick Barlow",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Dean Wade",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Adem Bona",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jaylen Brown",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Ariel Hukporti",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": [
-          {
-            "oyuncu": "Ousmane Dieng",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-21T00:42:33Z",
-        "son_utc": "2026-11-21T16:06:55Z",
-        "ilk": {
-          "1": 0.8328,
-          "2": 0.1672
-        },
-        "son": {
-          "1": 0.8053,
-          "2": 0.1947
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "232f705eea406644ff14ad17bcf9aea6",
       "lig": "basketball_nba",
@@ -299,10 +218,6 @@
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Ty Jerome",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "GG Jackson",
             "durum": "oynamayacak"
           },
@@ -422,11 +337,15 @@
         ],
         "deplasman": [
           {
-            "oyuncu": "Bryce McGowens",
+            "oyuncu": "Trey Murphy III",
             "durum": "oynamayacak"
           },
           {
             "oyuncu": "Trendon Watford",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Bryce McGowens",
             "durum": "oynamayacak"
           },
           {
