@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-22T03:16:10Z",
+  "guncelleme_utc": "2026-11-22T08:11:16Z",
   "mac_sayisi": 11,
   "maclar": [
     {
@@ -31,13 +31,30 @@
         "it": "I Boston Celtics sono nettamente favoriti contro i Sacramento Kings: probabilità di vittoria dell'85% e un margine atteso di circa 14 punti indicano che la partita dovrebbe svolgersi in gran parte sotto il controllo della squadra ospite. Il totale punti atteso, pari a circa 218, descrive uno scenario a ritmo medio, con punti distribuiti in modo equilibrato. Per i Kings, che scendono in campo per la seconda sera consecutiva e senza Maxime Raynaud e Ben Simmons, il carico aggiuntivo è evidente. Tuttavia, la probabilità di sorpresa del 15% non esclude che la sfida possa restare aperta fino ai minuti finali sul parquet di Sacramento.",
         "pt": "O Boston Celtics está em clara vantagem sobre o Sacramento Kings: probabilidade de vitória de 85% e uma diferença esperada de cerca de 14 pontos, o que indica que a partida deve ser controlada em grande parte pela equipe visitante. O total de pontos esperado, em torno de 218, aponta para um cenário de ritmo médio, com a pontuação bem distribuída. O fato de o Kings jogar pela segunda noite seguida e a ausência de Maxime Raynaud e Ben Simmons representam um peso extra para o time da casa. Ainda assim, a probabilidade de uma surpresa, de 15%, não descarta que o jogo se prolongue até os minutos finais na quadra do Kings."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "97-96",
+      "toplam": 193,
+      "fark": 1,
+      "periyotlar": [
+        [
+          25,
+          27
+        ],
+        [
+          16,
+          27
+        ],
+        [
+          35,
+          13
+        ],
+        [
+          21,
+          29
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -70,13 +87,30 @@
         "it": "Dallas Mavericks, Los Angeles Clippers karşısında belirgin biçimde avanti appare; la squadra di casa è la favorita con una probabilità di vittoria del 66%. Il totale punti atteso è di circa 230 e il margine previsto a favore dei Mavericks è di circa 6 punti, un quadro che suggerisce una partita di ritmo medio ed equilibrata, che potrebbe restare aperta fino all'ultimo quarto piuttosto che concludersi con una vittoria netta. Le assenze per infortunio di Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic non giocheranno, e ciò potrebbe limitare le scelte di rotazione di Dallas. Poiché la probabilità di una sorpresa è del 34%, anche la vittoria dei Clippers resta uno scenario realistico.",
         "pt": "Dallas Mavericks, Los Angeles Clippers diante claramente em vantagem; o time da casa é o favorito do jogo, com probabilidade de vitória de 66%. O total de pontos esperado é de cerca de 230 pontos, e a vantagem de aproximadamente 6 pontos para o Mavericks aponta para um cenário de ritmo moderado e equilibrado, que pode permanecer indefinido até o último quarto, em vez de uma vitória tranquila. Com Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic na lista de lesionados e fora da partida, as opções de rotação do Dallas podem ficar limitadas. Como a probabilidade de uma surpresa é de 34%, a vitória do Clippers também continua sendo um cenário realista."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "110-100",
+      "toplam": 210,
+      "fark": 10,
+      "periyotlar": [
+        [
+          23,
+          26
+        ],
+        [
+          29,
+          18
+        ],
+        [
+          26,
+          30
+        ],
+        [
+          32,
+          26
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -109,13 +143,30 @@
         "it": "Minnesota Timberwolves, %67 kazanma probability ile belirgin biçimde önde; yaklaşık 6 sayılık beklenen farkla ev sahibinin rahat bir galibiyete yönelmesi bekleniyor. Yaklaşık 230 olan beklenen total points, maçın tempolu ve skorun yüksek seyredeceği bir senaryoya işaret ediyor. Anthony Edwards, Jaylen Clark ve Donte DiVincenzo'nun sakatlık listesinde oynamayacak görünmesi, Timberwolves'ın rotasyonunu etkileyebilecek bir unsur olarak öne çıkıyor. Grizzlies'ta Jerami Grant'in de yer almaması, konuk ekibin hücum üretimini sınırlayabilir. Sürpriz probability %33 olsa da, favorinin son çeyreğe kadar açık bir üstünlük kurması bu probability'yi zayıflatır.",
         "pt": "O Minnesota Timberwolves aparece claramente na frente, com 67% de probabilidade de vencer; espera-se uma vitória tranquila do time da casa, com uma diferença prevista de cerca de 6 pontos. O total de pontos esperado, em torno de 230, aponta para um cenário de jogo acelerado e com placar alto. O fato de Anthony Edwards, Jaylen Clark e Donte DiVincenzo aparecerem na lista de lesionados e não devem jogar se destaca como um fator que pode afetar a rotação do Timberwolves. A ausência de Jerami Grant no Grizzlies também pode limitar a produção ofensiva da equipe visitante. A probabilidade de zebra é de 33%, mas uma vantagem clara do favorito até o último quarto enfraquece essa possibilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "104-95",
+      "toplam": 199,
+      "fark": 9,
+      "periyotlar": [
+        [
+          28,
+          34
+        ],
+        [
+          28,
+          12
+        ],
+        [
+          27,
+          16
+        ],
+        [
+          21,
+          33
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -148,13 +199,30 @@
         "it": "San Antonio Spurs, %90 probabilità di vittoria, è nettamente il favorito della partita e questo vantaggio è molto evidente. Il totale di punti atteso di circa 228 e il margine previsto di circa 18 punti a favore degli Spurs delineano uno scenario ad alto ritmo ma con un andamento probabilmente a senso unico. Il fatto che i New Orleans Pelicans scendano in campo per la seconda sera consecutiva, con Dejounte Murray e Bryce McGowens anch'essi nella lista, potrebbe limitare le rotazioni dell'avversario. Tuttavia, gli Spurs devono tenere conto anche delle assenze di Dylan Harper, Tobias Harris e Jayden Quaintance. Poiché la probabilità di una sorpresa è del 10%, la vittoria dei Pelicans resta un esito a bassa probabilità.",
         "pt": "San Antonio Spurs, 90% de probabilidade de vitória, é o claro favorito para o jogo, e essa vantagem é bastante evidente. O total de pontos esperado de cerca de 228 e a diferença esperada de cerca de 18 pontos a favor dos Spurs apontam para um cenário de ritmo intenso, mas com domínio de um lado só. O New Orleans Pelicans jogando pela segunda noite consecutiva e a presença de Dejounte Murray e Bryce McGowens na lista podem reduzir a rotação do adversário. Ainda assim, o Spurs precisa levar em conta a ausência de Dylan Harper, Tobias Harris e Jayden Quaintance. Como a chance de surpresa é de 10%, a vitória do Pelicans continua sendo uma probabilidade baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "114-91",
+      "toplam": 205,
+      "fark": 23,
+      "periyotlar": [
+        [
+          32,
+          29
+        ],
+        [
+          29,
+          16
+        ],
+        [
+          28,
+          21
+        ],
+        [
+          25,
+          25
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": true
     },
     {
@@ -187,13 +255,30 @@
         "it": "New York Knicks è nettamente in vantaggio grazie al fattore campo: probabilità di vittoria del 61% e un margine atteso di circa 4 punti indicano una partita equilibrata ma favorevole ai Knicks. Il totale punti atteso di circa 216 suggerisce un ritmo medio e una gara che potrebbe restare aperta fino all'ultimo quarto. Sul fronte di Portland, la presenza di Ja Morant e Shaedon Sharpe nella lista degli infortunati potrebbe incidere sulla rotazione della squadra ospite. La probabilità del 39% di Portland non va trascurata: una sorpresa non è da escludere, poiché la possibilità che accada è superiore al 20%, e va quindi considerata come un esito tutt'altro che improbabile.",
         "pt": "New York Knicks está nitidamente à frente com a vantagem de jogar em casa: uma probabilidade de vitória de 61% e uma diferença esperada de cerca de 4 pontos, o que indica um jogo equilibrado, porém favorável ao Knicks. O total de pontos esperado em torno de 216 sugere uma partida de ritmo médio, que pode permanecer aberta até o último quarto. Do lado do Portland, a presença de Ja Morant e Shaedon Sharpe na lista de lesionados pode afetar a rotação da equipe visitante. A probabilidade de 39% do Portland não deve ser ignorada; como a chance de uma surpresa não fica abaixo de 20%, essa possibilidade deve ser vista como uma probabilidade relevante."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "97-96",
+      "toplam": 193,
+      "fark": 1,
+      "periyotlar": [
+        [
+          40,
+          23
+        ],
+        [
+          26,
+          20
+        ],
+        [
+          15,
+          29
+        ],
+        [
+          16,
+          24
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
