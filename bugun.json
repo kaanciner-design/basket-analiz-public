@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-22T12:23:14Z",
-  "slot": "sabah",
+  "guncelleme_utc": "2026-11-22T16:14:00Z",
+  "slot": "aksam",
   "mac_sayisi": 7,
   "maclar": [
     {
@@ -10,11 +10,21 @@
       "deplasman": "Detroit Pistons",
       "baslama_utc": "2026-11-22T20:40:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.46,
+        "2": 0.54
+      },
+      "tahmin": "2",
+      "guven": 0.08,
+      "sayi": {
+        "toplam": 223.5,
+        "toplam_kaynak": 17,
+        "fark": -1.5,
+        "fark_kaynak": 17,
+        "ev_sayi": 111,
+        "dep_sayi": 112
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -25,9 +35,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "Detroit Pistons deplasmanda hafif bir önde, ancak tablo oldukça dengeli: olasılıklar %54'e %46 ve beklenen fark yalnızca 2 sayı. Beklenen toplam sayı 224 civarında olduğu için tempolu ve son çeyreğe kadar çekişmeli bir maç senaryosu öne çıkıyor. Atlanta'nın CJ McCollum ve Jock Landale'in yokluğu, Detroit'ın ise Taurean Prince ile Duncan Robinson'ın sahada olmamasıyla rotasyonlarda ciddi değişiklik yaratabilir. Sürpriz ihtimali yaklaşık %46 olduğundan, Atlanta'nın galibiyeti kesinlikle uzak bir ihtimal değil.",
+      "ai_metinler": {
+        "en": "The Detroit Pistons hold a slight edge on the road, but the matchup is quite balanced: the probabilities stand at 54% to 46%, and the expected margin is only 2 points. With the expected total points sitting around 224, a fast-paced game that stays competitive until the final quarter looks likely. Atlanta's absence of CJ McCollum and Jock Landale, and Detroit's lack of Taurean Prince and Duncan Robinson on the court, could bring significant changes to the rotations. Since the probability of an upset is around 46%, an Atlanta victory is by no means a remote possibility.",
+        "es": "El Detroit Pistons tiene una ligera ventaja como visitante, pero el panorama es bastante equilibrado: las probabilidades son de 54% frente a 46% y la diferencia esperada es de solo 2 puntos. Como el total de puntos esperado ronda los 224, se perfila un escenario de partido con ritmo alto y muy disputado hasta el último cuarto. La ausencia de CJ McCollum y Jock Landale en Atlanta, así como la de Taurean Prince y Duncan Robinson en Detroit, podría provocar cambios importantes en las rotaciones. Dado que la probabilidad de sorpresa es de aproximadamente 46%, una victoria de Atlanta no es en absoluto un escenario remoto.",
+        "de": "Die Detroit Pistons sind auswärts leicht im Vorteil, die Ausgangslage ist jedoch recht ausgeglichen: Die Wahrscheinlichkeiten liegen bei 54% zu 46%, und der erwartete Abstand beträgt nur 2 Punkte. Da die erwartete Gesamtpunktzahl bei etwa 224 liegt, zeichnet sich ein temporeiches Spiel ab, das bis ins letzte Viertel eng bleiben könnte. Die Abwesenheit von CJ McCollum und Jock Landale bei Atlanta sowie das Fehlen von Taurean Prince und Duncan Robinson bei Detroit könnte die Rotationen beider Teams spürbar verändern. Da die Wahrscheinlichkeit einer Überraschung bei etwa 46% liegt, ist ein Sieg Atlantas keineswegs unwahrscheinlich.",
+        "fr": "Les Detroit Pistons ont un léger avantage à l'extérieur, mais le tableau reste assez équilibré : les probabilités sont de 54 % contre 46 % et l'écart attendu n'est que de 2 points. Le total de points attendu étant d'environ 224, un scénario de match rythmé et disputé jusqu'au dernier quart-temps se dessine. L'absence de CJ McCollum et de Jock Landale chez Atlanta, ainsi que celle de Taurean Prince et Duncan Robinson chez Detroit, pourrait entraîner des changements importants dans les rotations. La probabilité d'une surprise étant d'environ 46 %, une victoire d'Atlanta n'est absolument pas un scénario lointain.",
+        "it": "I Detroit Pistons sono leggermente favoriti in trasferta, ma il quadro è piuttosto equilibrato: la probabilità è del 54% contro il 46%, e il margine atteso è di appena 2 punti. Con un totale di punti atteso intorno a 224, si profila uno scenario di partita veloce e combattuta fino agli ultimi minuti. Le assenze di CJ McCollum e Jock Landale per Atlanta, e quelle di Taurean Prince e Duncan Robinson per Detroit, potrebbero produrre cambiamenti significativi nelle rotazioni. Poiché la probabilità di una sorpresa è di circa il 46%, una vittoria di Atlanta non è affatto un'ipotesi remota.",
+        "pt": "O Detroit Pistons joga fora com ligeira vantagem, mas o quadro está bastante equilibrado: a probabilidade é de 54% contra 46%, e a diferença esperada é de apenas 2 pontos. Como o total de pontos esperado gira em torno de 224, desponta um cenário de jogo acelerado e disputado até o último quarto. A ausência de CJ McCollum e Jock Landale no Atlanta, assim como a de Taurean Prince e Duncan Robinson no Detroit, pode provocar mudanças significativas nas rotações. Como a probabilidade de surpresa é de cerca de 46%, uma vitória do Atlanta está longe de ser uma possibilidade remota."
+      },
+      "kilit_utc": "2026-11-22T16:14:03Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -148,7 +165,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.4488,
+          "2": 0.5512
+        },
+        "son": {
+          "1": 0.46,
+          "2": 0.54
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -158,20 +186,37 @@
       "deplasman": "Oklahoma City Thunder",
       "baslama_utc": "2026-11-22T23:10:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5985,
+        "2": 0.4015
+      },
+      "tahmin": "1",
+      "guven": 0.197,
+      "sayi": {
+        "toplam": 231.5,
+        "toplam_kaynak": 18,
+        "fark": 3.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 118,
+        "dep_sayi": 114
+      },
       "dinlenme": {
         "dep": {
           "gun": 1,
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "Miami Heat, ev sahibi avantajıyla Oklahoma City Thunder karşısında %60'a karşı %40 ile hafif önde; bu, dengeli ama net bir favorilik. Beklenen toplam sayının yaklaşık 232 ve Heat lehine yaklaşık 4 sayı fark olması, son çeyreğe kadar sürebilecek yakın bir maç senaryosuna işaret ediyor. Thunder'da Nikola Topic, Jaylin Williams, Alex Caruso ve Thomas Sorber'in sakatlık listesinde olması, rotasyonun daralacağını ve Heat'in bu avantajı kullanabileceğini düşündürüyor. Sürpriz ihtimali %40 olduğundan düşük sayılmaz; maçın açık bir sonuca gitme olasılığı yüksek.",
+      "ai_metinler": {
+        "en": "Miami Heat holds a slight edge over the Oklahoma City Thunder with home-court advantage, at 60% versus 40%; this is a balanced but clear favorite. The expected total points of around 232 and a Heat lead of roughly 4 points suggest a close game that could remain undecided until the final quarter. With Nikola Topic, Jaylin Williams, Alex Caruso and Thomas Sorber on the Thunder's injury list, the rotation may be limited, which could give the Heat an opportunity to capitalize. An upset probability of 40% is not considered low; there is a high likelihood that the game will be decided late.",
+        "es": "Miami Heat, ventaja de local, está ligeramente por delante de Oklahoma City Thunder con un 60% frente a un 40%; se trata de un favoritismo equilibrado pero claro. El total de puntos esperado es de aproximadamente 232 y una diferencia de unos 4 puntos a favor del Heat, lo que apunta a un escenario de partido reñido que podría mantenerse en igualdad hasta el último cuarto. En el Thunder, las bajas de Nikola Topic, Jaylin Williams, Alex Caruso y Thomas Sorber reducen la rotación, lo que sugiere que el Heat podría aprovechar esa ventaja. Una probabilidad de sorpresa del 40% no es baja; el partido tiene una alta probabilidad de terminar en un desenlace abierto.",
+        "de": "Miami Heat liegt mit Heimvorteil leicht vorn gegenüber den Oklahoma City Thunder, 60% zu 40%; das ist eine ausgewogene, aber klare Favoritenrolle. Die erwarteten total points liegen bei etwa 232, und ein Vorsprung der Heat von etwa 4 Punkten deutet auf ein knappes Spiel hin, das bis ins letzte Viertel offen bleiben kann. Da Nikola Topic, Jaylin Williams, Alex Caruso und Thomas Sorber auf der Verletztenliste der Thunder stehen, dürfte die Rotation enger werden, und die Heat könnten diesen Vorteil nutzen. Eine Überraschung mit 40% Wahrscheinlichkeit ist keineswegs gering; ein offenes Ergebnis ist durchaus wahrscheinlich.",
+        "fr": "Le Miami Heat, avec l'avantage du terrain, est légèrement en tête face à l'Oklahoma City Thunder, avec 60 % contre 40 % ; il s'agit d'un favori équilibré mais net. Le total points attendu d'environ 232 et une avance d'environ 4 points pour le Heat laissent présager un match serré, pouvant rester indécis jusqu'au dernier quart-temps. Avec Nikola Topic, Jaylin Williams, Alex Caruso et Thomas Sorber sur la liste des blessés, la rotation du Thunder risque d'être réduite, ce qui pourrait permettre au Heat de tirer parti de cet avantage. Une surprise n'est pas à exclure, avec une probabilité de 40 % ; le match a de fortes chances de se conclure de manière ouverte.",
+        "it": "Miami Heat, il vantaggio di giocare in casa, è leggermente avanti contro gli Oklahoma City Thunder con il 60% contro il 40%; si tratta di un favore equilibrato ma netto. Il totale di punti atteso di circa 232 e un margine di circa 4 punti a favore degli Heat indicano uno scenario di partita equilibrata, che potrebbe restare aperta fino all'ultimo quarto. Con Nikola Topic, Jaylin Williams, Alex Caruso e Thomas Sorber nella lista degli infortunati, la rotazione dei Thunder si restringe, e ciò suggerisce che gli Heat possano sfruttare questo vantaggio. Una sorpresa con il 40% di probabilità non è da considerare improbabile; è molto plausibile che la partita si concluda con un esito aperto.",
+        "pt": "O Miami Heat, a vantagem de mando de quadra, está ligeiramente à frente do Oklahoma City Thunder por 60% a 40%; é uma favorita equilibrada, mas clara. O total de pontos esperado de cerca de 232 e uma diferença de aproximadamente 4 pontos a favor do Heat apontam para um jogo disputado, que pode permanecer em aberto até o último quarto. Com Nikola Topic, Jaylin Williams, Alex Caruso e Thomas Sorber na lista de lesionados do Thunder, a rotação deve encolher, e o Heat pode explorar essa vantagem. A chance de uma zebra não é baixa, com 40%; a probabilidade de o confronto terminar em um resultado indefinido é alta."
+      },
+      "kilit_utc": "2026-11-22T16:14:05Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": {
@@ -242,7 +287,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.563,
+          "2": 0.437
+        },
+        "son": {
+          "1": 0.5985,
+          "2": 0.4015
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -252,11 +308,21 @@
       "deplasman": "Denver Nuggets",
       "baslama_utc": "2026-11-23T00:10:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2284,
+        "2": 0.7716
+      },
+      "tahmin": "2",
+      "guven": 0.5432,
+      "sayi": {
+        "toplam": 236.0,
+        "toplam_kaynak": 18,
+        "fark": -9.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 113,
+        "dep_sayi": 123
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -267,9 +333,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "Denver Nuggets, %77 kazanma olasılığıyla maçın açık favorisi ve bu üstünlük net bir tablo çiziyor. Beklenen toplam sayının yaklaşık 236 ve sayı farkının Denver lehine yaklaşık 10 olması, rahat bir deplasman galibiyetine işaret ediyor; yüksek tempolu ama son çeyreğe kadar dengesini koruyabilecek bir senaryo öne çıkıyor. Chicago tarafında Norman Powell, Tobe Awaka ve Caleb Wilson'ın oynamayacak görünmesi, ev sahibinin rotasyon derinliğini sınırlıyor. Sürpriz ihtimali %23 olup düşük sayılmaz, ancak bu ihtimalin gerçekleşmesi Chicago'nun galibiyet senaryosunu zorlamak için gereken ciddi bir sapmayı gerektiriyor.",
+      "ai_metinler": {
+        "en": "Denver Nuggets, 77% win probability, are clear favorites to win this game, and that advantage paints a clear picture. An expected total of about 236 points and a projected margin of about 10 points in Denver's favor point to a comfortable road victory; the most likely scenario is a high-tempo game that stays balanced until the final quarter. On the Chicago side, Norman Powell, Tobe Awaka, and Caleb Wilson appear unlikely to play, which limits the home team's rotation depth. The probability of an upset is 23%, which is not negligible, but for it to happen Chicago would need a significant deviation from the expected course of the game to challenge the win scenario.",
+        "es": "Denver Nuggets, 77% de probabilidad de ganar, es el claro favorito del partido, y esta ventaja dibuja un panorama muy definido. El total de puntos esperado de alrededor de 236 y una diferencia de puntos a favor de Denver de aproximadamente 10 apuntan a una victoria cómoda como visitante; surge un escenario de ritmo alto que, sin embargo, podría mantener el equilibrio hasta el último cuarto. En el lado de Chicago, que Norman Powell, Tobe Awaka y Caleb Wilson no parezcan disponibles limita la profundidad de rotación del local. La probabilidad de sorpresa es del 23%, que no es baja, pero que se produzca requeriría una desviación considerable para que Chicago pudiera forzar el escenario de victoria.",
+        "de": "Denver Nuggets sind mit einer Siegwahrscheinlichkeit von 77% klar der Favorit für dieses Spiel, und diese Überlegenheit zeichnet ein deutliches Bild. Eine erwartete Gesamtpunktzahl von etwa 236 und ein erwarteter Punkteunterschied von rund 10 zugunsten von Denver deuten auf einen souveränen Auswärtssieg hin; am wahrscheinlichsten ist ein Szenario mit hohem Tempo, in dem die Partie jedoch bis ins letzte Viertel ausgeglichen bleiben kann. Auf Seiten der Chicago Bulls scheinen Norman Powell, Tobe Awaka und Caleb Wilson nicht einsatzbereit zu sein, was die Rotationstiefe des Gastgebers einschränkt. Die Überraschungswahrscheinlichkeit liegt bei 23%, was nicht gering ist, doch damit die Chicago Bulls ihr Siegszenario ernsthaft erzwingen könnten, wäre eine erhebliche Abweichung vom erwarteten Spielverlauf nötig.",
+        "fr": "Denver Nuggets, 77 % de probabilité de victoire, est le grand favori du match, et cet avantage dessine un tableau net. Un total de points attendu d'environ 236 et un écart de points estimé à environ 10 en faveur de Denver laissent présager une victoire aisée à l'extérieur ; le scénario qui ressort est celui d'un match à rythme élevé, mais dans lequel Denver peut conserver son équilibre jusqu'au dernier quart-temps. Du côté de Chicago, l'absence probable de Norman Powell, Tobe Awaka et Caleb Wilson limite la profondeur de rotation de l'équipe à domicile. La probabilité de surprise est de 23 %, ce qui n'est pas négligeable, mais pour que Chicago parvienne à mettre en difficulté le scénario de victoire, il faudrait un écart important par rapport aux prévisions.",
+        "it": "I Denver Nuggets sono i chiari favoriti per la vittoria con una probabilità del 77%, e questo vantaggio disegna un quadro netto. Il totale punti atteso di circa 236 e uno scarto a favore di Denver di circa 10 punti indicano una comoda vittoria in trasferta; lo scenario più probabile è quello di un match ad alto ritmo che però può mantenere l'equilibrio fino all'ultimo quarto. Dal lato dei Chicago, l'assenza probabile di Norman Powell, Tobe Awaka e Caleb Wilson limita la profondità di rotazione della squadra di casa. La probabilità di una sorpresa è del 23%, non trascurabile, ma per realizzarsi richiederebbe una deviazione significativa dal percorso necessario a Chicago per costruire una vittoria.",
+        "pt": "O Denver Nuggets, com 77% de probabilidade de vitória, é o favorito claro para a partida, e essa vantagem desenha um quadro nítido. O total de pontos esperado de cerca de 236 e a diferença de pontos de aproximadamente 10 a favor do Denver apontam para uma vitória tranquila como visitante; surge um cenário de ritmo alto que, ainda assim, consegue manter o equilíbrio até o último quarto. Do lado do Chicago, a ausência de Norman Powell, Tobe Awaka e Caleb Wilson parece limitar a profundidade de rotação do mandante. A probabilidade de surpresa é de 23%, o que não é baixa, mas para que ela se concretize o Chicago precisaria de um desvio significativo para forçar um cenário de vitória."
+      },
+      "kilit_utc": "2026-11-22T16:14:10Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -343,6 +416,10 @@
       "sakatlik": {
         "ev_sahibi": [
           {
+            "oyuncu": "Norman Powell",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Tobe Awaka",
             "durum": "oynamayacak"
           },
@@ -358,8 +435,19 @@
           }
         ]
       },
-      "hareket": null,
-      "ucretsiz": false
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.2464,
+          "2": 0.7536
+        },
+        "son": {
+          "1": 0.2284,
+          "2": 0.7716
+        }
+      },
+      "ucretsiz": true
     },
     {
       "mac_id": "1e7b9477c6c55aea5efd9c1a47039f5c",
@@ -368,11 +456,21 @@
       "deplasman": "Dallas Mavericks",
       "baslama_utc": "2026-11-23T00:10:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4979,
+        "2": 0.5021
+      },
+      "tahmin": "2",
+      "guven": 0.0042,
+      "sayi": {
+        "toplam": 225.0,
+        "toplam_kaynak": 18,
+        "fark": -1.0,
+        "fark_kaynak": 16,
+        "ev_sayi": 112,
+        "dep_sayi": 113
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -383,9 +481,16 @@
           "arka_arkaya": true
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "Maç, iki takımın kazanma olasılığının %50 olduğu dengeli bir karşılaşma; deplasman takımı Dallas Mavericks yalnızca çok hafif önde. Beklenen toplam sayı 225 civarında ve Dallas lehine yaklaşık 1 sayılık fark öngörülüyor, bu yüzden son çeyreğe kadar sürecek, yakın bir maç senaryosu öne çıkıyor. Dallas'ın arka arkaya ikinci gece sahaya çıkması ve Dereck Lively II'nin sakatlık listesinde görünmesi, ayrıntıların belirleyici olabileceği bir tabloya işaret ediyor. Utah tarafında Nurkic, Markkanen ve Jackson Jr.'ın eksikliği de benzer bir dengeyi koruyor. Sürpriz ihtimali bu tabloda yüksek görünüyor, yani %50'lik olasılıklar gerçek bir belirsizliğe işaret ediyor.",
+      "ai_metinler": {
+        "en": "The match is a balanced contest in which each team has a 50% probability of winning; the away side, Dallas Mavericks, holds only a very slight edge. The expected total points is around 225, and Dallas is projected to win by roughly 1 point, so a close game that goes down to the final quarter is the most likely scenario. Dallas playing for the second night in a row, with Dereck Lively II listed on the injury report, points to a situation where small details could be decisive. On the Utah side, the absence of Nurkic, Markkanen and Jackson Jr. keeps the balance similar. The probability of an upset looks high in this picture, meaning that the 50% probabilities signal genuine uncertainty.",
+        "es": "El partido es un enfrentamiento equilibrado en el que cada equipo tiene una probabilidad de victoria del 50%; el visitante, Dallas Mavericks, solo está ligeramente por delante. Se prevé un total de puntos de alrededor de 225 y una diferencia de aproximadamente 1 punto a favor de Dallas, por lo que destaca un escenario de partido muy reñido que se decidirá hasta el último cuarto. El hecho de que Dallas juegue su segunda noche seguida y que Dereck Lively II aparezca en la lista de lesionados apunta a un panorama en el que los detalles pueden resultar decisivos. Por el lado de Utah, la ausencia de Nurkic, Markkanen y Jackson Jr. mantiene un equilibrio similar. La posibilidad de una sorpresa parece alta en este escenario, es decir, las probabilidades del 50% reflejan una incertidumbre real.",
+        "de": "Das Spiel ist eine ausgeglichene Begegnung, bei der beide Teams eine Gewinnwahrscheinlichkeit von 50% haben; das Auswärtsteam Dallas Mavericks liegt nur ganz knapp vorne. Die erwarteten total points liegen bei etwa 225, und für Dallas wird ein Vorsprung von rund 1 Punkt prognostiziert. Deshalb zeichnet sich ein enges Spiel ab, das bis ins letzte Viertel offen bleiben dürfte. Dass Dallas den zweiten Abend in Folge spielt und Dereck Lively II auf der Verletztenliste steht, deutet auf eine Konstellation hin, in der Details entscheidend sein können. Auf Seiten von Utah halten das Fehlen von Nurkic, Markkanen und Jackson Jr. das Kräfteverhältnis ähnlich ausgeglichen. Die Wahrscheinlichkeit einer Überraschung erscheint in dieser Konstellation hoch; die 50%-Wahrscheinlichkeiten zeigen eine echte Unsicherheit.",
+        "fr": "Le match est une rencontre équilibrée où chaque équipe a une probabilité de victoire de 50 %. L'équipe en déplacement, les Dallas Mavericks, n'est que très légèrement favorite. Le total de points attendu est d'environ 225, avec un écart prévu d'environ 1 point en faveur de Dallas, ce qui laisse présager un match serré qui pourrait se jouer jusqu'au dernier quart-temps. Le fait que Dallas joue son deuxième match consécutif et que Dereck Lively II figure sur la liste des blessés indique que les détails pourraient être déterminants. Du côté de l'Utah, l'absence de Nurkic, Markkanen et Jackson Jr. maintient un équilibre similaire. La probabilité d'une surprise paraît élevée dans ce contexte, les probabilités de 50 % traduisant une réelle incertitude.",
+        "it": "La partita è un incontro equilibrato in cui entrambe le squadre hanno una probabilità di vittoria del 50%; la squadra ospite, i Dallas Mavericks, è solo leggermente avanti. Il totale punti previsto è di circa 225, con Dallas favorita di circa 1 punto, quindi emerge uno scenario di partita combattuta che potrebbe decidersi solo nell'ultimo quarto. Il fatto che Dallas scenda in campo per la seconda sera consecutiva e che Dereck Lively II compaia nella lista degli infortunati indica un quadro in cui i dettagli potrebbero risultare decisivi. Dal lato di Utah, l'assenza di Nurkic, Markkanen e Jackson Jr. mantiene un equilibrio simile. La possibilità di una sorpresa appare alta in questo quadro: le probabilità del 50% indicano una vera incertezza.",
+        "pt": "O jogo é um confronto equilibrado, com probabilidade de vitória de 50% para cada time; o Dallas Mavericks, como visitante, está apenas levemente à frente. O total de pontos esperado gira em torno de 225, com uma diferença prevista de cerca de 1 ponto a favor do Dallas, o que aponta para um cenário de jogo próximo, que deve se decidir somente no último quarto. O fato de o Dallas entrar em quadra na segunda noite consecutiva e de Dereck Lively II aparecer na lista de lesionados sugere um equilíbrio em que os detalhes podem ser decisivos. Do lado do Utah, a ausência de Nurkic, Markkanen e Jackson Jr. também mantém um equilíbrio semelhante. A possibilidade de surpresa parece alta nesse cenário, ou seja, as probabilidades de 50% indicam uma incerteza real."
+      },
+      "kilit_utc": "2026-11-22T16:14:12Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -473,14 +578,6 @@
         ],
         "deplasman": [
           {
-            "oyuncu": "P.J. Washington",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Tobi Lawal",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "Dereck Lively II",
             "durum": "oynamayacak"
           },
@@ -494,7 +591,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.4714,
+          "2": 0.5286
+        },
+        "son": {
+          "1": 0.4979,
+          "2": 0.5021
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -504,11 +612,21 @@
       "deplasman": "Orlando Magic",
       "baslama_utc": "2026-11-23T00:10:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3599,
+        "2": 0.6401
+      },
+      "tahmin": "2",
+      "guven": 0.2802,
+      "sayi": {
+        "toplam": 219.5,
+        "toplam_kaynak": 18,
+        "fark": -5.0,
+        "fark_kaynak": 16,
+        "ev_sayi": 107,
+        "dep_sayi": 112
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -519,9 +637,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "Orlando Magic, deplasmanda %64 kazanma olasılığıyla belirgin biçimde önde; yaklaşık 5 sayılık beklenen farkla ve 220 civarındaki toplam sayıyla dengeli, kontrollü bir maç senaryosu öne çıkıyor. Washington'da Tristan Vukcevic, Reece Beekman, Justin Champagnie ve Jamir Watkins'in oynamayacak görünmesi ev sahibi tarafın rotasyonunu daraltıyor. Orlando tarafında Jonathan Isaac, Izaiyah Nelson, Noah Penda ve Paolo Banchero'nun da sakatlık listesinde görünmesi, bu eşleşmede iki takımın da eksiklerle sahaya çıkacağını gösteriyor. Sürpriz ihtimali %36 olduğundan, Washington'ın galip gelmesi de olasılık dahilinde.",
+      "ai_metinler": {
+        "en": "Orlando Magic holds a clear lead on the road, with a 64% probability of winning. The expected margin is around 5 points, and a total points figure near 220 points to a balanced, controlled game script. In Washington, Tristan Vukcevic, Reece Beekman, Justin Champagnie and Jamir Watkins appear unlikely to play, which narrows the home side's rotation. On the Orlando side, Jonathan Isaac, Izaiyah Nelson, Noah Penda and Paolo Banchero also appear on the injury report, meaning both teams are likely to take the court with key absences. Because the probability of an upset is 36%, a Washington win is still within reach.",
+        "es": "El Orlando Magic parte como favorito claro en calidad de visitante, con una probabilidad del 64 %; se perfila un escenario de partido equilibrado y controlado, con una diferencia esperada de unos 5 puntos y un total de puntos cercano a 220. En Washington, la ausencia previsible de Tristan Vukcevic, Reece Beekman, Justin Champagnie y Jamir Watkins reduce la rotación del equipo local. Por el lado de Orlando, que Jonathan Isaac, Izaiyah Nelson, Noah Penda y Paolo Banchero aparezcan en la lista de lesionados indica que ambos equipos saldrán a la cancha con bajas. Dado que la probabilidad de sorpresa es del 36 %, una victoria de Washington también está dentro de lo posible.",
+        "de": "Orlando Magic ist auswärts mit einer Siegwahrscheinlichkeit von 64% deutlich im Vorteil; ein kontrolliertes Spielszenario mit einem erwarteten Vorsprung von etwa 5 Punkten und rund 220 total points tritt dabei in den Vordergrund. In Washington dürften Tristan Vukcevic, Reece Beekman, Justin Champagnie und Jamir Watkins nicht spielen, wodurch sich die Rotation des Heimteams verengt. Auch auf Seiten der Orlando Magic stehen Jonathan Isaac, Izaiyah Nelson, Noah Penda und Paolo Banchero auf der Verletztenliste, was zeigt, dass beide Mannschaften in dieser Begegnung mit Ausfällen antreten werden. Da die Überraschungswahrscheinlichkeit bei 36% liegt, ist auch ein Sieg von Washington im Rahmen des Möglichen.",
+        "fr": "Le Orlando Magic est nettement favori lors de ce déplacement, avec une probabilité de victoire de 64 %, et le scénario d'un match maîtrisé et équilibré, avec un écart attendu d'environ 5 points et un total points proche de 220, se dégage. À Washington, l'absence probable de Tristan Vukcevic, Reece Beekman, Justin Champagnie et Jamir Watkins réduit la rotation de l'équipe locale. Du côté d'Orlando, Jonathan Isaac, Izaiyah Nelson, Noah Penda et Paolo Banchero figurent également sur la liste des blessés, ce qui indique que les deux équipes se présenteront avec des effectifs amoindris. Comme la probabilité de surprise est de 36 %, une victoire de Washington reste également envisageable.",
+        "it": "Orlando Magic è nettamente favorita in trasferta, con una probabilità di vittoria del 64%; lo scenario di gara più probabile è equilibrato e controllato, con un margine atteso di circa 5 punti e un totale punti intorno a 220. A Washington, l'assenza prevista di Tristan Vukcevic, Reece Beekman, Justin Champagnie e Jamir Watkins restringe la rotazione della squadra di casa. Anche sul fronte Orlando, Jonathan Isaac, Izaiyah Nelson, Noah Penda e Paolo Banchero risultano nella lista infortuni, quindi entrambe le squadre scenderanno in campo con diverse assenze. La probabilità di una sorpresa è del 36%, perciò una vittoria di Washington resta nel novero delle possibilità.",
+        "pt": "O Orlando Magic está claramente à frente como visitante, com uma probabilidade de vitória de 64%; o cenário de jogo mais provável é equilibrado e controlado, com uma diferença média esperada de cerca de 5 pontos e um total de pontos em torno de 220. Em Washington, a ausência prevista de Tristan Vukcevic, Reece Beekman, Justin Champagnie e Jamir Watkins restringe a rotação do time da casa. Do lado do Orlando, Jonathan Isaac, Izaiyah Nelson, Noah Penda e Paolo Banchero também aparecem na lista de lesionados, o que indica que as duas equipes entrarão em quadra com desfalques. Como a probabilidade de uma surpresa é de 36%, uma vitória do Washington também está dentro das possibilidades."
+      },
+      "kilit_utc": "2026-11-22T16:14:14Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -630,7 +755,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.3353,
+          "2": 0.6647
+        },
+        "son": {
+          "1": 0.3599,
+          "2": 0.6401
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -640,11 +776,21 @@
       "deplasman": "Indiana Pacers",
       "baslama_utc": "2026-11-23T01:10:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7451,
+        "2": 0.2549
+      },
+      "tahmin": "1",
+      "guven": 0.4902,
+      "sayi": {
+        "toplam": 214.5,
+        "toplam_kaynak": 18,
+        "fark": 8.5,
+        "fark_kaynak": 18,
+        "ev_sayi": 112,
+        "dep_sayi": 103
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -655,9 +801,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "New York Knicks, Indiana Pacers karşısında %75 kazanma olasılığıyla net bir favori konumunda. Beklenen toplam sayının yaklaşık 214 ve New York lehine yaklaşık 8 sayılık farkın, maçı tempolu ama kontrollü bir senaryoya işaret ettiğini söyleyebiliriz. Knicks'in ardı ardına ikinci gece çıkması, bu üstünlüğün son çeyrekte ne kadar sürdürülebileceği sorusunu akıllarda tutmayı gerektiriyor. Indiana'da T.J. McConnell, Tyrese Haliburton, Johnny Furphy ve Ben Sheppard'ın sakat listesinde olması, deplasman ekibinin rotasyonunu daraltıyor. Sürpriz ihtimali %25 olduğundan, Pacers'ın bir sonuç alması düşük olasılıkta değil.",
+      "ai_metinler": {
+        "en": "New York Knicks enjoys a clear favorite status against the Indiana Pacers with a 75% probability of winning. We can say that the expected total points of around 214 and a margin of roughly 8 points in New York's favor point to a fast-paced but controlled game script. With the Knicks coming out for their second night in a row, the question of how sustainable this advantage will be in the final quarter deserves attention. On Indiana's side, T.J. McConnell, Tyrese Haliburton, Johnny Furphy and Ben Sheppard being on the injury list narrows the away team's rotation. Since the chance of an upset is 25%, a result for the Pacers is not an unlikely outcome.",
+        "es": "Los New York Knicks se perfilan como claros favoritos frente a los Indiana Pacers, con una probabilidad de victoria del 75%. Podemos decir que el total de puntos esperado ronda los 214 y que la ventaja de unos 8 puntos a favor de New York apunta a un partido de ritmo alto pero controlado. Que los Knicks jueguen su segunda noche consecutiva hace que valga la pena seguir de cerca hasta qué punto podrán mantener esa superioridad en el último cuarto. En Indiana, la lista de lesionados con T.J. McConnell, Tyrese Haliburton, Johnny Furphy y Ben Sheppard reduce la rotación del equipo visitante. Como la probabilidad de sorpresa es del 25%, un resultado favorable para los Pacers no es improbable.",
+        "de": "New York Knicks, Indiana Pacers karşısında %75 kazanma olasılığıyla net bir favori konumunda. Beklenen total points yaklaşık 214 ve New York lehine yaklaşık 8 sayılık farkın, maçı tempolu ama kontrollü bir senaryoya işaret ettiğini söyleyebiliriz. Knicks'in ardı ardına ikinci gece çıkması, bu üstünlüğün son çeyrekte ne kadar sürdürülebileceği sorusunu akıllarda tutmayı gerektiriyor. Indiana'da T.J. McConnell, Tyrese Haliburton, Johnny Furphy ve Ben Sheppard'ın sakat listesinde olması, deplasman ekibinin rotasyonunu daraltıyor. Sürpriz ihtimali %25 olduğundan, Pacers'ın bir sonuç alması düşük olasılıkta değil.",
+        "fr": "Les New York Knicks sont nettement favoris face aux Indiana Pacers, avec une probabilité de victoire de 75 %. Nous pouvons dire que le total de points attendu, d'environ 214, et l'avance d'environ 8 points en faveur de New York, laissent présager un match rythmé mais maîtrisé. Le fait que les Knicks enchaînent une deuxième soirée consécutive invite à garder à l'esprit la question de savoir jusqu'où cette supériorité pourra se maintenir dans le dernier quart-temps. Du côté d'Indiana, la présence de T.J. McConnell, Tyrese Haliburton, Johnny Furphy et Ben Sheppard sur la liste des blessés réduit la rotation de l'équipe visiteuse. Comme la probabilité d'une surprise est de 25 %, un résultat positif pour les Pacers n'est pas à exclure.",
+        "it": "New York Knicks, Indiana Pacers karşısında %75 kazanma probabilità ile netta favorita. Il totale punti atteso è di circa 214 e il vantaggio di circa 8 punti per New York suggerisce una partita ritmata ma controllata.\n\nIl fatto che i Knicks scendano in campo per la seconda sera consecutiva rende importante chiedersi fino a che punto questo vantaggio potrà essere mantenuto nell'ultimo quarto. In casa Indiana, la presenza di T.J. McConnell, Tyrese Haliburton, Johnny Furphy e Ben Sheppard nella lista degli infortunati restringe le rotazioni della squadra ospite. Poiché la probabilità di una sorpresa è del 25%, un risultato positivo per i Pacers non è affatto improbabile.",
+        "pt": "New York Knicks, Indiana Pacers karşısında %75 probabilidade de vitória, o que o coloca como um claro favorito. Podemos dizer que o total de pontos esperado de cerca de 214 e a vantagem de aproximadamente 8 pontos para New York apontam para um jogo de ritmo intenso, mas controlado. Como o Knicks joga pela segunda noite consecutiva, vale acompanhar até que ponto essa superioridade pode ser mantida no último quarto. No Indiana, a ausência de T.J. McConnell, Tyrese Haliburton, Johnny Furphy e Ben Sheppard, todos na lista de lesionados, reduz a rotação da equipe visitante. Como a probabilidade de surpresa é de %25, uma vitória dos Pacers não é algo de baixa probabilidade."
+      },
+      "kilit_utc": "2026-11-22T16:14:17Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -749,7 +902,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.7607,
+          "2": 0.2393
+        },
+        "son": {
+          "1": 0.7451,
+          "2": 0.2549
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -759,20 +923,37 @@
       "deplasman": "Boston Celtics",
       "baslama_utc": "2026-11-23T01:40:00Z",
       "gece": "2026-11-22",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2549,
+        "2": 0.7451
+      },
+      "tahmin": "2",
+      "guven": 0.4902,
+      "sayi": {
+        "toplam": 210.5,
+        "toplam_kaynak": 18,
+        "fark": -8.5,
+        "fark_kaynak": 18,
+        "ev_sayi": 101,
+        "dep_sayi": 110
+      },
       "dinlenme": {
         "dep": {
           "gun": 0,
           "arka_arkaya": true
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-22T18:45:00Z",
+      "ai_metin": "Boston Celtics, sahasında Golden State Warriors'ı ağırlayan rakibine karşı net bir favori; %75 kazanma olasılığı ve yaklaşık 8 sayılık beklenen fark, deplasman ekibinin rahat bir galibiyete yakın olduğunu gösteriyor. Yaklaşık 210 olan beklenen toplam sayı orta tempolu, dengeli bir maç senaryosuna işaret ediyor. Boston'un bu maça arka arkaya ikinci gece çıkması ve Warriors'ta Stephen Curry, Kristaps Porzingis ve Brandon Williams'ın sakatlık listesinde görünmesi, favorinin avantajını daha da belirgin kılıyor. Yine de %25'lik ev sahibi ihtimali, Golden State'in maçı son çeyreğe kadar yakın tutabileceğini hesaba katmak gerektiğini gösteriyor.",
+      "ai_metinler": {
+        "en": "Boston Celtics is a clear favorite against the visiting Golden State Warriors at home, with a 75% probability of winning and an expected margin of about 8 points, suggesting a comfortable victory for the home side. The expected total points of around 210 points to a balanced, medium-paced game. Boston playing its second night in a row and Golden State having Stephen Curry, Kristaps Porzingis and Brandon Williams on the injury report further strengthen the favorite's advantage. Still, the 25% probability for the Warriors means Golden State could keep the game close into the final quarter, so that possibility should be taken into account.",
+        "es": "Boston Celtics, sahasında Golden State Warriors'ı ağırlayan rakibine karşı net bir favori; %75 kazanma probabilidad y un margen esperado de unos 8 puntos, lo que indica que el equipo visitante se acerca a una victoria cómoda. El total de puntos esperado, de unos 210, apunta a un escenario de partido de ritmo medio y equilibrado. El hecho de que Boston juegue esta noche por segunda vez consecutiva y que Stephen Curry, Kristaps Porzingis y Brandon Williams aparezcan en la lista de lesionados de los Warriors hace que la ventaja del favorito sea todavía más clara. Aun así, la probabilidad del 25% para el equipo local muestra que hay que tener en cuenta que Golden State puede mantener el partido cerca hasta el último cuarto.",
+        "de": "Boston Celtics ist im Heimspiel gegen die Golden State Warriors ein klarer Favorit: Die Wahrscheinlichkeit für einen Sieg liegt bei 75 %, und der erwartete Vorsprung von etwa 8 Punkten deutet darauf hin, dass die Gäste einen komfortablen Erfolg anstreben. Die erwarteten total points von rund 210 sprechen für ein Spiel mit mittlerem Tempo und ausgeglichenem Verlauf. Dass Boston diesem Spiel bereits die zweite Nacht in Folge bestreitet und bei den Warriors Stephen Curry, Kristaps Porzingis und Brandon Williams auf der Verletztenliste stehen, verstärkt den Vorteil des Favoriten zusätzlich. Dennoch zeigt die Wahrscheinlichkeit von 25 % für Golden State, dass die Warriors das Spiel bis ins letzte Viertel offen halten können.",
+        "fr": "Boston Celtics est un favori net face aux Golden State Warriors, qui jouent à domicile : une probabilité de victoire de 75 % et un écart attendu d'environ 8 points indiquent qu'une victoire assez confortable des visiteurs est l'issue la plus vraisemblable. Le total points attendu, d'environ 210, dessine un scénario de match à rythme modéré et équilibré. Le fait que Boston joue ce soir pour la deuxième nuit consécutive, et que Stephen Curry, Kristaps Porzingis et Brandon Williams figurent sur la liste des blessés chez les Warriors, renforce encore l'avantage du favori. Cela dit, la probabilité de 25 % pour l'équipe à domicile montre qu'il faut tenir compte de la possibilité que Golden State reste dans le match jusqu'au dernier quart-temps.",
+        "it": "I Boston Celtics sono nettamente favoriti contro i Golden State Warriors, che fanno visita al loro avversario; una probabilità di vittoria del 75% e una differenza attesa di circa 8 punti indicano che la squadra ospite dovrebbe imporsi con una certa tranquillità. Il numero di total points atteso, circa 210, suggerisce uno scenario di gara a ritmo medio ed equilibrato. Il fatto che Boston scenda in campo per la seconda sera consecutiva e che Stephen Curry, Kristaps Porzingis e Brandon Williams risultino nell'elenco degli infortunati dei Warriors rende ancora più evidente il vantaggio dei Celtics. Tuttavia, la probabilità del 25% per la squadra di casa indica che Golden State potrebbe comunque tenere in partita il confronto fino agli ultimi minuti dell'ultimo quarto.",
+        "pt": "O Boston Celtics é claramente o favorito contra o Golden State Warriors, que visitam a arena do adversário; a probabilidade de vitória é de 75%, e a diferença esperada de cerca de 8 pontos indica que a equipe visitante deve vencer com folga. O total de pontos esperado, em torno de 210, aponta para um cenário de jogo equilibrado e de ritmo moderado. O fato de o Boston jogar pela segunda noite consecutiva e de Stephen Curry, Kristaps Porzingis e Brandon Williams estarem no relatório de lesões do Warriors torna a vantagem do favorito ainda mais evidente. Ainda assim, a probabilidade de 25% para o mandante mostra que o Golden State pode manter o jogo equilibrado até o último quarto, e isso deve ser levado em conta."
+      },
+      "kilit_utc": "2026-11-22T16:14:19Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": {
@@ -833,27 +1014,69 @@
             "durum": "oynamayacak"
           }
         ],
-        "deplasman": [
-          {
-            "oyuncu": "Mitchell Robinson",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Derrick White",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jayson Tatum",
-            "durum": "oynamayacak"
-          }
-        ]
+        "deplasman": []
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-22T08:11:17Z",
+        "son_utc": "2026-11-22T16:14:01Z",
+        "ilk": {
+          "1": 0.2381,
+          "2": 0.7619
+        },
+        "son": {
+          "1": 0.2549,
+          "2": 0.7451
+        }
+      },
       "ucretsiz": false
     }
   ],
   "en_guclu_3": {
-    "gunler": [],
+    "gunler": [
+      {
+        "tarih": "2026-11-22",
+        "maclar": [
+          {
+            "mac_id": "15a079f55e23d26237844224f258c972",
+            "lig": "basketball_nba",
+            "ev_sahibi": "Chicago Bulls",
+            "deplasman": "Denver Nuggets",
+            "baslama_utc": "2026-11-23T00:10:00Z",
+            "tahmin": "2",
+            "olasilik": 0.7716,
+            "guven": 0.5432,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "031fa761cc38e1b5afd9309b731b38b2",
+            "lig": "basketball_nba",
+            "ev_sahibi": "New York Knicks",
+            "deplasman": "Indiana Pacers",
+            "baslama_utc": "2026-11-23T01:10:00Z",
+            "tahmin": "1",
+            "olasilik": 0.7451,
+            "guven": 0.4902,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "b8c5bdb50209c7d050400c7d28c32e30",
+            "lig": "basketball_nba",
+            "ev_sahibi": "Golden State Warriors",
+            "deplasman": "Boston Celtics",
+            "baslama_utc": "2026-11-23T01:40:00Z",
+            "tahmin": "2",
+            "olasilik": 0.7451,
+            "guven": 0.4902,
+            "skor": null,
+            "tuttu": null
+          }
+        ],
+        "tutan": 0,
+        "sonuclanan": 0
+      }
+    ],
     "dun": {
       "tarih": "2026-11-21",
       "maclar": [
