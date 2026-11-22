@@ -1,298 +1,8 @@
 {
-  "guncelleme_utc": "2026-11-22T19:47:04Z",
+  "guncelleme_utc": "2026-11-22T23:17:22Z",
   "slot": "aksam",
-  "mac_sayisi": 12,
+  "mac_sayisi": 11,
   "maclar": [
-    {
-      "mac_id": "222a2887819bb18d9b9572aef63d9b9e",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Atlanta Hawks",
-      "deplasman": "Detroit Pistons",
-      "baslama_utc": "2026-11-22T20:40:00Z",
-      "gece": "2026-11-22",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.46,
-        "2": 0.54
-      },
-      "tahmin": "2",
-      "guven": 0.08,
-      "sayi": {
-        "toplam": 223.5,
-        "toplam_kaynak": 17,
-        "fark": -1.5,
-        "fark_kaynak": 17,
-        "ev_sayi": 111,
-        "dep_sayi": 112
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 1,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 1,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "Detroit Pistons deplasmanda hafif bir önde, ancak tablo oldukça dengeli: olasılıklar %54'e %46 ve beklenen fark yalnızca 2 sayı. Beklenen toplam sayı 224 civarında olduğu için tempolu ve son çeyreğe kadar çekişmeli bir maç senaryosu öne çıkıyor. Atlanta'nın CJ McCollum ve Jock Landale'in yokluğu, Detroit'ın ise Taurean Prince ile Duncan Robinson'ın sahada olmamasıyla rotasyonlarda ciddi değişiklik yaratabilir. Sürpriz ihtimali yaklaşık %46 olduğundan, Atlanta'nın galibiyeti kesinlikle uzak bir ihtimal değil.",
-      "ai_metinler": {
-        "en": "The Detroit Pistons hold a slight edge on the road, but the matchup is quite balanced: the probabilities stand at 54% to 46%, and the expected margin is only 2 points. With the expected total points sitting around 224, a fast-paced game that stays competitive until the final quarter looks likely. Atlanta's absence of CJ McCollum and Jock Landale, and Detroit's lack of Taurean Prince and Duncan Robinson on the court, could bring significant changes to the rotations. Since the probability of an upset is around 46%, an Atlanta victory is by no means a remote possibility.",
-        "es": "El Detroit Pistons tiene una ligera ventaja como visitante, pero el panorama es bastante equilibrado: las probabilidades son de 54% frente a 46% y la diferencia esperada es de solo 2 puntos. Como el total de puntos esperado ronda los 224, se perfila un escenario de partido con ritmo alto y muy disputado hasta el último cuarto. La ausencia de CJ McCollum y Jock Landale en Atlanta, así como la de Taurean Prince y Duncan Robinson en Detroit, podría provocar cambios importantes en las rotaciones. Dado que la probabilidad de sorpresa es de aproximadamente 46%, una victoria de Atlanta no es en absoluto un escenario remoto.",
-        "de": "Die Detroit Pistons sind auswärts leicht im Vorteil, die Ausgangslage ist jedoch recht ausgeglichen: Die Wahrscheinlichkeiten liegen bei 54% zu 46%, und der erwartete Abstand beträgt nur 2 Punkte. Da die erwartete Gesamtpunktzahl bei etwa 224 liegt, zeichnet sich ein temporeiches Spiel ab, das bis ins letzte Viertel eng bleiben könnte. Die Abwesenheit von CJ McCollum und Jock Landale bei Atlanta sowie das Fehlen von Taurean Prince und Duncan Robinson bei Detroit könnte die Rotationen beider Teams spürbar verändern. Da die Wahrscheinlichkeit einer Überraschung bei etwa 46% liegt, ist ein Sieg Atlantas keineswegs unwahrscheinlich.",
-        "fr": "Les Detroit Pistons ont un léger avantage à l'extérieur, mais le tableau reste assez équilibré : les probabilités sont de 54 % contre 46 % et l'écart attendu n'est que de 2 points. Le total de points attendu étant d'environ 224, un scénario de match rythmé et disputé jusqu'au dernier quart-temps se dessine. L'absence de CJ McCollum et de Jock Landale chez Atlanta, ainsi que celle de Taurean Prince et Duncan Robinson chez Detroit, pourrait entraîner des changements importants dans les rotations. La probabilité d'une surprise étant d'environ 46 %, une victoire d'Atlanta n'est absolument pas un scénario lointain.",
-        "it": "I Detroit Pistons sono leggermente favoriti in trasferta, ma il quadro è piuttosto equilibrato: la probabilità è del 54% contro il 46%, e il margine atteso è di appena 2 punti. Con un totale di punti atteso intorno a 224, si profila uno scenario di partita veloce e combattuta fino agli ultimi minuti. Le assenze di CJ McCollum e Jock Landale per Atlanta, e quelle di Taurean Prince e Duncan Robinson per Detroit, potrebbero produrre cambiamenti significativi nelle rotazioni. Poiché la probabilità di una sorpresa è di circa il 46%, una vittoria di Atlanta non è affatto un'ipotesi remota.",
-        "pt": "O Detroit Pistons joga fora com ligeira vantagem, mas o quadro está bastante equilibrado: a probabilidade é de 54% contra 46%, e a diferença esperada é de apenas 2 pontos. Como o total de pontos esperado gira em torno de 224, desponta um cenário de jogo acelerado e disputado até o último quarto. A ausência de CJ McCollum e Jock Landale no Atlanta, assim como a de Taurean Prince e Duncan Robinson no Detroit, pode provocar mudanças significativas nas rotações. Como a probabilidade de surpresa é de cerca de 46%, uma vitória do Atlanta está longe de ser uma possibilidade remota."
-      },
-      "kilit_utc": "2026-11-22T16:14:03Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Charlotte Hornets",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 97,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 111.0,
-            "yenilen_ort": 97.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 111.0,
-            "yenilen_ort": 97.0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Toronto Raptors",
-              "ic_saha": true,
-              "atilan": 102,
-              "yenilen": 105,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 102.0,
-            "yenilen_ort": 105.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 102.0,
-            "yenilen_ort": 105.0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Jock Landale",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Asa Newell",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "CJ McCollum",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Mouhamed Gueye",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Henri Veesaar",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": [
-          {
-            "oyuncu": "Ebuka Okorie",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Taurean Prince",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Duncan Robinson",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jalen Duren",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-22T08:11:17Z",
-        "son_utc": "2026-11-22T16:14:01Z",
-        "ilk": {
-          "1": 0.4488,
-          "2": 0.5512
-        },
-        "son": {
-          "1": 0.46,
-          "2": 0.54
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "90da1cde4144fac00d41f2c0db2cc921",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Miami Heat",
-      "deplasman": "Oklahoma City Thunder",
-      "baslama_utc": "2026-11-22T23:10:00Z",
-      "gece": "2026-11-22",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5985,
-        "2": 0.4015
-      },
-      "tahmin": "1",
-      "guven": 0.197,
-      "sayi": {
-        "toplam": 231.5,
-        "toplam_kaynak": 18,
-        "fark": 3.5,
-        "fark_kaynak": 16,
-        "ev_sayi": 118,
-        "dep_sayi": 114
-      },
-      "dinlenme": {
-        "dep": {
-          "gun": 1,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "Miami Heat, ev sahibi avantajıyla Oklahoma City Thunder karşısında %60'a karşı %40 ile hafif önde; bu, dengeli ama net bir favorilik. Beklenen toplam sayının yaklaşık 232 ve Heat lehine yaklaşık 4 sayı fark olması, son çeyreğe kadar sürebilecek yakın bir maç senaryosuna işaret ediyor. Thunder'da Nikola Topic, Jaylin Williams, Alex Caruso ve Thomas Sorber'in sakatlık listesinde olması, rotasyonun daralacağını ve Heat'in bu avantajı kullanabileceğini düşündürüyor. Sürpriz ihtimali %40 olduğundan düşük sayılmaz; maçın açık bir sonuca gitme olasılığı yüksek.",
-      "ai_metinler": {
-        "en": "Miami Heat holds a slight edge over the Oklahoma City Thunder with home-court advantage, at 60% versus 40%; this is a balanced but clear favorite. The expected total points of around 232 and a Heat lead of roughly 4 points suggest a close game that could remain undecided until the final quarter. With Nikola Topic, Jaylin Williams, Alex Caruso and Thomas Sorber on the Thunder's injury list, the rotation may be limited, which could give the Heat an opportunity to capitalize. An upset probability of 40% is not considered low; there is a high likelihood that the game will be decided late.",
-        "es": "Miami Heat, ventaja de local, está ligeramente por delante de Oklahoma City Thunder con un 60% frente a un 40%; se trata de un favoritismo equilibrado pero claro. El total de puntos esperado es de aproximadamente 232 y una diferencia de unos 4 puntos a favor del Heat, lo que apunta a un escenario de partido reñido que podría mantenerse en igualdad hasta el último cuarto. En el Thunder, las bajas de Nikola Topic, Jaylin Williams, Alex Caruso y Thomas Sorber reducen la rotación, lo que sugiere que el Heat podría aprovechar esa ventaja. Una probabilidad de sorpresa del 40% no es baja; el partido tiene una alta probabilidad de terminar en un desenlace abierto.",
-        "de": "Miami Heat liegt mit Heimvorteil leicht vorn gegenüber den Oklahoma City Thunder, 60% zu 40%; das ist eine ausgewogene, aber klare Favoritenrolle. Die erwarteten total points liegen bei etwa 232, und ein Vorsprung der Heat von etwa 4 Punkten deutet auf ein knappes Spiel hin, das bis ins letzte Viertel offen bleiben kann. Da Nikola Topic, Jaylin Williams, Alex Caruso und Thomas Sorber auf der Verletztenliste der Thunder stehen, dürfte die Rotation enger werden, und die Heat könnten diesen Vorteil nutzen. Eine Überraschung mit 40% Wahrscheinlichkeit ist keineswegs gering; ein offenes Ergebnis ist durchaus wahrscheinlich.",
-        "fr": "Le Miami Heat, avec l'avantage du terrain, est légèrement en tête face à l'Oklahoma City Thunder, avec 60 % contre 40 % ; il s'agit d'un favori équilibré mais net. Le total points attendu d'environ 232 et une avance d'environ 4 points pour le Heat laissent présager un match serré, pouvant rester indécis jusqu'au dernier quart-temps. Avec Nikola Topic, Jaylin Williams, Alex Caruso et Thomas Sorber sur la liste des blessés, la rotation du Thunder risque d'être réduite, ce qui pourrait permettre au Heat de tirer parti de cet avantage. Une surprise n'est pas à exclure, avec une probabilité de 40 % ; le match a de fortes chances de se conclure de manière ouverte.",
-        "it": "Miami Heat, il vantaggio di giocare in casa, è leggermente avanti contro gli Oklahoma City Thunder con il 60% contro il 40%; si tratta di un favore equilibrato ma netto. Il totale di punti atteso di circa 232 e un margine di circa 4 punti a favore degli Heat indicano uno scenario di partita equilibrata, che potrebbe restare aperta fino all'ultimo quarto. Con Nikola Topic, Jaylin Williams, Alex Caruso e Thomas Sorber nella lista degli infortunati, la rotazione dei Thunder si restringe, e ciò suggerisce che gli Heat possano sfruttare questo vantaggio. Una sorpresa con il 40% di probabilità non è da considerare improbabile; è molto plausibile che la partita si concluda con un esito aperto.",
-        "pt": "O Miami Heat, a vantagem de mando de quadra, está ligeiramente à frente do Oklahoma City Thunder por 60% a 40%; é uma favorita equilibrada, mas clara. O total de pontos esperado de cerca de 232 e uma diferença de aproximadamente 4 pontos a favor do Heat apontam para um jogo disputado, que pode permanecer em aberto até o último quarto. Com Nikola Topic, Jaylin Williams, Alex Caruso e Thomas Sorber na lista de lesionados do Thunder, a rotação deve encolher, e o Heat pode explorar essa vantagem. A chance de uma zebra não é baixa, com 40%; a probabilidade de o confronto terminar em um resultado indefinido é alta."
-      },
-      "kilit_utc": "2026-11-22T16:14:05Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "New Orleans Pelicans",
-              "ic_saha": true,
-              "atilan": 126,
-              "yenilen": 120,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 126.0,
-            "yenilen_ort": 120.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 126.0,
-            "yenilen_ort": 120.0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [],
-        "deplasman": [
-          {
-            "oyuncu": "Nikola Topic",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jaylin Williams",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Alex Caruso",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Thomas Sorber",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Cason Wallace",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Chet Holmgren",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jalen Williams",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-22T08:11:17Z",
-        "son_utc": "2026-11-22T16:14:01Z",
-        "ilk": {
-          "1": 0.563,
-          "2": 0.437
-        },
-        "son": {
-          "1": 0.5985,
-          "2": 0.4015
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "15a079f55e23d26237844224f258c972",
       "lig": "basketball_nba",
@@ -407,6 +117,10 @@
       },
       "sakatlik": {
         "ev_sahibi": [
+          {
+            "oyuncu": "Nic Claxton",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Norman Powell",
             "durum": "oynamayacak"
@@ -565,6 +279,10 @@
           }
         ],
         "deplasman": [
+          {
+            "oyuncu": "P.J. Washington",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Tobi Lawal",
             "durum": "oynamayacak"
@@ -1015,7 +733,16 @@
             "durum": "oynamayacak"
           }
         ],
-        "deplasman": []
+        "deplasman": [
+          {
+            "oyuncu": "Mitchell Robinson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Paul George",
+            "durum": "oynamayacak"
+          }
+        ]
       },
       "hareket": {
         "ilk_utc": "2026-11-22T08:11:17Z",
@@ -1133,6 +860,30 @@
       "ev_sahibi": "ASVEL",
       "deplasman": "Olimpia Milano",
       "baslama_utc": "2026-11-24T19:45:00Z",
+      "gece": "2026-11-24",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-24T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "0f9b0defd0a6c9603d7c70e7962bb628",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Barcelona",
+      "deplasman": "Fenerbahçe",
+      "baslama_utc": "2026-11-24T20:00:00Z",
       "gece": "2026-11-24",
       "durum": "kilit_bekliyor",
       "olasiliklar": null,
