@@ -1,7 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-22T16:14:00Z",
+  "guncelleme_utc": "2026-11-22T19:47:04Z",
   "slot": "aksam",
-  "mac_sayisi": 7,
+  "mac_sayisi": 12,
   "maclar": [
     {
       "mac_id": "222a2887819bb18d9b9572aef63d9b9e",
@@ -118,10 +118,6 @@
       "sakatlik": {
         "ev_sahibi": [
           {
-            "oyuncu": "Kingston Flemings",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "Jock Landale",
             "durum": "oynamayacak"
           },
@@ -143,10 +139,6 @@
           }
         ],
         "deplasman": [
-          {
-            "oyuncu": "Ronald Holland II",
-            "durum": "oynamayacak"
-          },
           {
             "oyuncu": "Ebuka Okorie",
             "durum": "oynamayacak"
@@ -420,10 +412,6 @@
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Tobe Awaka",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "Caleb Wilson",
             "durum": "oynamayacak"
           }
@@ -577,6 +565,10 @@
           }
         ],
         "deplasman": [
+          {
+            "oyuncu": "Tobi Lawal",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Dereck Lively II",
             "durum": "oynamayacak"
@@ -882,7 +874,16 @@
         }
       },
       "sakatlik": {
-        "ev_sahibi": [],
+        "ev_sahibi": [
+          {
+            "oyuncu": "OG Anunoby",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jordan Clarkson",
+            "durum": "oynamayacak"
+          }
+        ],
         "deplasman": [
           {
             "oyuncu": "T.J. McConnell",
@@ -1028,6 +1029,126 @@
           "2": 0.7451
         }
       },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3e065ed32915a4afefae3a851f6df12a",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Beşiktaş",
+      "deplasman": "Paris",
+      "baslama_utc": "2026-11-24T17:00:00Z",
+      "gece": "2026-11-24",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-24T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d563569f19780b306d14d3c29b67f3bf",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Kızılyıldız",
+      "deplasman": "Virtus Bologna",
+      "baslama_utc": "2026-11-24T18:00:00Z",
+      "gece": "2026-11-24",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-24T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "6bcef0e5f7b2a021b7e07514cdfa6493",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Bayern Münih",
+      "deplasman": "Maccabi Tel Aviv",
+      "baslama_utc": "2026-11-24T19:00:00Z",
+      "gece": "2026-11-24",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-24T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "767cda572a9aefe0c057a4fe3199dfa4",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Valencia",
+      "deplasman": "Panathinaikos",
+      "baslama_utc": "2026-11-24T19:30:00Z",
+      "gece": "2026-11-24",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-24T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1707b8c728b9116472624aa8178ebfce",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "ASVEL",
+      "deplasman": "Olimpia Milano",
+      "baslama_utc": "2026-11-24T19:45:00Z",
+      "gece": "2026-11-24",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-24T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
       "ucretsiz": false
     }
   ],
