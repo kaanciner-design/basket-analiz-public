@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-23T23:17:18Z",
+  "guncelleme_utc": "2026-11-23T23:58:54Z",
   "slot": "aksam",
   "mac_sayisi": 20,
   "maclar": [
@@ -136,11 +136,11 @@
         ],
         "deplasman": [
           {
-            "oyuncu": "Jerami Grant",
+            "oyuncu": "Cameron Boozer",
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Cameron Boozer",
+            "oyuncu": "Jerami Grant",
             "durum": "oynamayacak"
           },
           {
