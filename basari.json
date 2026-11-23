@@ -1,96 +1,96 @@
 {
-  "guncelleme_utc": "2026-11-22T23:17:22Z",
-  "toplam_tahmin": 11,
-  "tutan": 9,
-  "isabet_orani": 0.8182,
-  "beklenen_isabet": 0.7128,
-  "sonuc_bekleyen": 7,
+  "guncelleme_utc": "2026-11-23T03:46:29Z",
+  "toplam_tahmin": 16,
+  "tutan": 12,
+  "isabet_orani": 0.75,
+  "beklenen_isabet": 0.6808,
+  "sonuc_bekleyen": 2,
   "lig_bazinda": {
     "basketball_nba": {
-      "toplam_tahmin": 11,
-      "tutan": 9,
-      "isabet_orani": 0.8182,
-      "beklenen_isabet": 0.7128,
-      "sonuc_bekleyen": 7
+      "toplam_tahmin": 16,
+      "tutan": 12,
+      "isabet_orani": 0.75,
+      "beklenen_isabet": 0.6808,
+      "sonuc_bekleyen": 2
     }
   },
   "guven_araligi_bazinda": {
     "0-0.20": {
-      "toplam_tahmin": 2,
-      "tutan": 1,
-      "isabet_orani": 0.5,
-      "beklenen_isabet": 0.5363,
-      "sonuc_bekleyen": 3
+      "toplam_tahmin": 5,
+      "tutan": 3,
+      "isabet_orani": 0.6,
+      "beklenen_isabet": 0.5426,
+      "sonuc_bekleyen": 0
     },
     "0.20-0.40": {
-      "toplam_tahmin": 4,
-      "tutan": 4,
-      "isabet_orani": 1.0,
-      "beklenen_isabet": 0.6408,
-      "sonuc_bekleyen": 1
-    },
-    "0.40+": {
       "toplam_tahmin": 5,
       "tutan": 4,
       "isabet_orani": 0.8,
-      "beklenen_isabet": 0.8409,
-      "sonuc_bekleyen": 3
+      "beklenen_isabet": 0.6407,
+      "sonuc_bekleyen": 0
+    },
+    "0.40+": {
+      "toplam_tahmin": 6,
+      "tutan": 5,
+      "isabet_orani": 0.8333,
+      "beklenen_isabet": 0.8293,
+      "sonuc_bekleyen": 2
     }
   },
   "lig_guven_bazinda": {
     "basketball_nba": {
       "0-0.20": {
-        "toplam_tahmin": 2,
-        "tutan": 1,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.5363,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 5,
+        "tutan": 3,
+        "isabet_orani": 0.6,
+        "beklenen_isabet": 0.5426,
+        "sonuc_bekleyen": 0
       },
       "0.20-0.40": {
-        "toplam_tahmin": 4,
-        "tutan": 4,
-        "isabet_orani": 1.0,
-        "beklenen_isabet": 0.6408,
-        "sonuc_bekleyen": 1
-      },
-      "0.40+": {
         "toplam_tahmin": 5,
         "tutan": 4,
         "isabet_orani": 0.8,
-        "beklenen_isabet": 0.8409,
-        "sonuc_bekleyen": 3
+        "beklenen_isabet": 0.6407,
+        "sonuc_bekleyen": 0
+      },
+      "0.40+": {
+        "toplam_tahmin": 6,
+        "tutan": 5,
+        "isabet_orani": 0.8333,
+        "beklenen_isabet": 0.8293,
+        "sonuc_bekleyen": 2
       }
     }
   },
   "aylik": {
     "2026-11": {
       "genel": {
-        "toplam_tahmin": 11,
-        "tutan": 9,
-        "isabet_orani": 0.8182,
-        "beklenen_isabet": 0.7128,
-        "sonuc_bekleyen": 7
+        "toplam_tahmin": 16,
+        "tutan": 12,
+        "isabet_orani": 0.75,
+        "beklenen_isabet": 0.6808,
+        "sonuc_bekleyen": 2
       },
       "0-0.20": {
-        "toplam_tahmin": 2,
-        "tutan": 1,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.5363,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 5,
+        "tutan": 3,
+        "isabet_orani": 0.6,
+        "beklenen_isabet": 0.5426,
+        "sonuc_bekleyen": 0
       },
       "0.20-0.40": {
-        "toplam_tahmin": 4,
-        "tutan": 4,
-        "isabet_orani": 1.0,
-        "beklenen_isabet": 0.6408,
-        "sonuc_bekleyen": 1
-      },
-      "0.40+": {
         "toplam_tahmin": 5,
         "tutan": 4,
         "isabet_orani": 0.8,
-        "beklenen_isabet": 0.8409,
-        "sonuc_bekleyen": 3
+        "beklenen_isabet": 0.6407,
+        "sonuc_bekleyen": 0
+      },
+      "0.40+": {
+        "toplam_tahmin": 6,
+        "tutan": 5,
+        "isabet_orani": 0.8333,
+        "beklenen_isabet": 0.8293,
+        "sonuc_bekleyen": 2
       }
     }
   },
@@ -98,22 +98,22 @@
     {
       "alt": 0.5,
       "ust": 0.6,
-      "mac": 2,
-      "soylenen": 0.5363,
-      "gerceklesen": 0.5
+      "mac": 5,
+      "soylenen": 0.5426,
+      "gerceklesen": 0.6
     },
     {
       "alt": 0.6,
       "ust": 0.7,
-      "mac": 4,
-      "soylenen": 0.6408,
-      "gerceklesen": 1.0
+      "mac": 5,
+      "soylenen": 0.6407,
+      "gerceklesen": 0.8
     },
     {
       "alt": 0.7,
       "ust": 0.8,
-      "mac": 1,
-      "soylenen": 0.7948,
+      "mac": 2,
+      "soylenen": 0.7832,
       "gerceklesen": 1.0
     },
     {
@@ -132,10 +132,10 @@
     }
   ],
   "sayi_isabeti": {
-    "toplam_mac": 11,
-    "toplam_ort_sapma": 25.4,
-    "toplam_10_icinde": 0.0,
-    "fark_mac": 11,
-    "fark_ort_sapma": 6.8
+    "toplam_mac": 16,
+    "toplam_ort_sapma": 23.5,
+    "toplam_10_icinde": 0.1875,
+    "fark_mac": 16,
+    "fark_ort_sapma": 7.6
   }
 }
