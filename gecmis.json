@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-23T03:46:29Z",
+  "guncelleme_utc": "2026-11-23T08:11:15Z",
   "mac_sayisi": 18,
   "maclar": [
     {
@@ -32,13 +32,30 @@
         "it": "I Boston Celtics sono nettamente favoriti contro i Golden State Warriors, che fanno visita al loro avversario; una probabilità di vittoria del 75% e una differenza attesa di circa 8 punti indicano che la squadra ospite dovrebbe imporsi con una certa tranquillità. Il numero di total points atteso, circa 210, suggerisce uno scenario di gara a ritmo medio ed equilibrato. Il fatto che Boston scenda in campo per la seconda sera consecutiva e che Stephen Curry, Kristaps Porzingis e Brandon Williams risultino nell'elenco degli infortunati dei Warriors rende ancora più evidente il vantaggio dei Celtics. Tuttavia, la probabilità del 25% per la squadra di casa indica che Golden State potrebbe comunque tenere in partita il confronto fino agli ultimi minuti dell'ultimo quarto.",
         "pt": "O Boston Celtics é claramente o favorito contra o Golden State Warriors, que visitam a arena do adversário; a probabilidade de vitória é de 75%, e a diferença esperada de cerca de 8 pontos indica que a equipe visitante deve vencer com folga. O total de pontos esperado, em torno de 210, aponta para um cenário de jogo equilibrado e de ritmo moderado. O fato de o Boston jogar pela segunda noite consecutiva e de Stephen Curry, Kristaps Porzingis e Brandon Williams estarem no relatório de lesões do Warriors torna a vantagem do favorito ainda mais evidente. Ainda assim, a probabilidade de 25% para o mandante mostra que o Golden State pode manter o jogo equilibrado até o último quarto, e isso deve ser levado em conta."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "88-87",
+      "toplam": 175,
+      "fark": 1,
+      "periyotlar": [
+        [
+          27,
+          20
+        ],
+        [
+          17,
+          22
+        ],
+        [
+          25,
+          33
+        ],
+        [
+          19,
+          12
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -71,13 +88,30 @@
         "it": "New York Knicks, Indiana Pacers karşısında %75 kazanma probabilità ile netta favorita. Il totale punti atteso è di circa 214 e il vantaggio di circa 8 punti per New York suggerisce una partita ritmata ma controllata.\n\nIl fatto che i Knicks scendano in campo per la seconda sera consecutiva rende importante chiedersi fino a che punto questo vantaggio potrà essere mantenuto nell'ultimo quarto. In casa Indiana, la presenza di T.J. McConnell, Tyrese Haliburton, Johnny Furphy e Ben Sheppard nella lista degli infortunati restringe le rotazioni della squadra ospite. Poiché la probabilità di una sorpresa è del 25%, un risultato positivo per i Pacers non è affatto improbabile.",
         "pt": "New York Knicks, Indiana Pacers karşısında %75 probabilidade de vitória, o que o coloca como um claro favorito. Podemos dizer que o total de pontos esperado de cerca de 214 e a vantagem de aproximadamente 8 pontos para New York apontam para um jogo de ritmo intenso, mas controlado. Como o Knicks joga pela segunda noite consecutiva, vale acompanhar até que ponto essa superioridade pode ser mantida no último quarto. No Indiana, a ausência de T.J. McConnell, Tyrese Haliburton, Johnny Furphy e Ben Sheppard, todos na lista de lesionados, reduz a rotação da equipe visitante. Como a probabilidade de surpresa é de %25, uma vitória dos Pacers não é algo de baixa probabilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "113-106",
+      "toplam": 219,
+      "fark": 7,
+      "periyotlar": [
+        [
+          26,
+          26
+        ],
+        [
+          29,
+          25
+        ],
+        [
+          34,
+          27
+        ],
+        [
+          24,
+          28
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
