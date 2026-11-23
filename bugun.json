@@ -1,7 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-23T18:41:14Z",
+  "guncelleme_utc": "2026-11-23T23:17:18Z",
   "slot": "aksam",
-  "mac_sayisi": 17,
+  "mac_sayisi": 20,
   "maclar": [
     {
       "mac_id": "35ca45d3e548dc7207fd7f1696ab16f5",
@@ -286,7 +286,7 @@
       "sakatlik": {
         "ev_sahibi": [
           {
-            "oyuncu": "Adem Bona",
+            "oyuncu": "Joel Embiid",
             "durum": "oynamayacak"
           },
           {
@@ -630,6 +630,26 @@
         ],
         "deplasman": [
           {
+            "oyuncu": "Jaylin Williams",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Nikola Topic",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Aday Mara",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jalen Williams",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Alex Caruso",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Thomas Sorber",
             "durum": "oynamayacak"
           },
@@ -639,10 +659,6 @@
           },
           {
             "oyuncu": "Chet Holmgren",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jalen Williams",
             "durum": "oynamayacak"
           }
         ]
@@ -1067,10 +1083,6 @@
       "sakatlik": {
         "ev_sahibi": [
           {
-            "oyuncu": "Bryce McGowens",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "Trendon Watford",
             "durum": "oynamayacak"
           },
@@ -1340,6 +1352,10 @@
           }
         ],
         "deplasman": [
+          {
+            "oyuncu": "Jaxson Hayes",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Jusuf Nurkic",
             "durum": "oynamayacak"
@@ -1657,6 +1673,78 @@
       "ev_sahibi": "Dubai",
       "deplasman": "Partizan",
       "baslama_utc": "2026-11-25T16:00:00Z",
+      "gece": "2026-11-25",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-25T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a1ee21718811e522957cf904fb3ec31f",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Olympiakos",
+      "deplasman": "Hapoel Tel Aviv",
+      "baslama_utc": "2026-11-25T19:15:00Z",
+      "gece": "2026-11-25",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-25T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c9a675960fa0ad6070fe3e6b378809a0",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Baskonia",
+      "deplasman": "Anadolu Efes",
+      "baslama_utc": "2026-11-25T19:30:00Z",
+      "gece": "2026-11-25",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-25T08:15:00Z",
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "sakatlik": null,
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b9ad9b132e4fd83592ee6cb62ea5cd46",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Real Madrid",
+      "deplasman": "Žalgiris",
+      "baslama_utc": "2026-11-25T19:45:00Z",
       "gece": "2026-11-25",
       "durum": "kilit_bekliyor",
       "olasiliklar": null,
