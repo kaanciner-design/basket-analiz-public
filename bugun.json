@@ -1,216 +1,8 @@
 {
-  "guncelleme_utc": "2026-11-24T18:41:21Z",
+  "guncelleme_utc": "2026-11-24T22:32:16Z",
   "slot": "aksam",
-  "mac_sayisi": 15,
+  "mac_sayisi": 11,
   "maclar": [
-    {
-      "mac_id": "6bcef0e5f7b2a021b7e07514cdfa6493",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Bayern Münih",
-      "deplasman": "Maccabi Tel Aviv",
-      "baslama_utc": "2026-11-24T19:00:00Z",
-      "gece": "2026-11-24",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.6066,
-        "2": 0.3934
-      },
-      "tahmin": "1",
-      "guven": 0.2132,
-      "sayi": {
-        "toplam": 180.0,
-        "toplam_kaynak": 14,
-        "fark": 3.5,
-        "fark_kaynak": 15,
-        "ev_sayi": 92,
-        "dep_sayi": 88
-      },
-      "dinlenme": null,
-      "ai_metin": "Bayern Münih, Maccabi Tel Aviv karşısında belirgin biçimde önde görünüyor; ev sahibinin kazanma olasılığı %61. Yaklaşık 180 olarak beklenen toplam sayı ve Bayern lehine yaklaşık 4 sayılık fark, maçın dengeli ama tempolu seyredebileceğine ve son bölümlere kadar yakın kalabileceğine işaret ediyor. Konuk takımın %39'luk olasılığı, sürprizi tamamen dışarıda bırakmadığını gösteriyor, ancak bu ihtimal düşük değil. Yine de sonucun en olası senaryosu ev sahibinin üstünlüğünü koruduğu bir karşılaşma.",
-      "ai_metinler": {
-        "en": "Bayern Munich appears clearly ahead of Maccabi Tel Aviv; the home side's probability of winning is 61%. The expected total points of around 180 and a margin of roughly 4 points in favor of Bayern suggest the game could be balanced but high-tempo, staying close until the final stages. The visitors' probability of 39% shows they are not ruled out of an upset, and that chance is far from negligible. Even so, the most likely scenario is an encounter in which the home side keeps its advantage.",
-        "es": "Bayern Múnich aparece claramente por delante frente al Maccabi Tel Aviv; la probabilidad de victoria del local es del 61%. Un total de puntos esperado de alrededor de 180 y una ventaja de unos 4 puntos a favor del Bayern sugieren que el partido puede ser equilibrado pero con mucho ritmo, y que podría mantenerse igualado hasta los últimos periodos. La probabilidad del equipo visitante, del 39%, indica que la sorpresa no queda descartada por completo, aunque no es una posibilidad baja. Aun así, el escenario más probable es un encuentro en el que el local mantiene su superioridad.",
-        "de": "Bayern München erscheint gegen Maccabi Tel Aviv deutlich im Vorteil; die Siegwahrscheinlichkeit des Gastgebers liegt bei 61%. Die erwarteten total points von etwa 180 und ein Vorsprung von rund 4 Punkten für Bayern deuten darauf hin, dass die Partie ausgeglichen, aber temporeich verlaufen und bis in die Schlussphase eng bleiben könnte. Die Siegwahrscheinlichkeit des Gästeteams von 39% zeigt, dass eine Überraschung nicht völlig ausgeschlossen ist und keineswegs unwahrscheinlich wäre. Das wahrscheinlichste Szenario bleibt dennoch eine Begegnung, in der der Gastgeber seine Überlegenheit behauptet.",
-        "fr": "Le Bayern Munich apparaît nettement favori face au Maccabi Tel Aviv ; la probabilité de victoire de l'équipe à domicile est de 61 %. Le total de points attendu, autour de 180, et un écart d'environ 4 points en faveur du Bayern laissent penser que la rencontre pourrait être équilibrée et rythmée, et rester serrée jusqu'aux dernières minutes. La probabilité de 39 % pour l'équipe visiteuse montre que la surprise n'est pas totalement exclue, même si cette éventualité n'est pas faible. Le scénario le plus probable reste néanmoins une rencontre où l'équipe à domicile conserve sa supériorité.",
-        "it": "Il Bayern Monaco appare nettamente in vantaggio contro il Maccabi Tel Aviv; la probabilità di vittoria della squadra di casa è del 61%. Il totale punti atteso di circa 180 e un vantaggio di circa 4 punti per il Bayern indicano una partita equilibrata ma ad alto ritmo, che potrebbe restare in equilibrio fino alle battute finali. La probabilità del 39% per la squadra ospite mostra che la sorpresa non è del tutto esclusa, anche se non è un'ipotesi remota. Lo scenario più probabile resta comunque un incontro in cui la squadra di casa mantiene la propria superiorità.",
-        "pt": "O Bayern Munique aparece com vantagem clara contra o Maccabi Tel Aviv; a probabilidade de vitória do mandante é de 61%. O total de pontos esperado, em torno de 180, e a diferença aproximada de 4 pontos a favor do Bayern indicam que o jogo deve ser equilibrado, mas com ritmo intenso, podendo permanecer apertado até os minutos finais. A probabilidade de 39% para a equipe visitante mostra que a surpresa não está totalmente descartada, embora essa possibilidade não seja baixa. Ainda assim, o cenário mais provável é um confronto em que o time da casa mantém a superioridade."
-      },
-      "kilit_utc": "2026-11-24T04:05:13Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": {
-        "ilk_utc": "2026-11-21T00:42:33Z",
-        "son_utc": "2026-11-24T04:05:06Z",
-        "ilk": {
-          "1": 0.5368,
-          "2": 0.4632
-        },
-        "son": {
-          "1": 0.6066,
-          "2": 0.3934
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "767cda572a9aefe0c057a4fe3199dfa4",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Valencia",
-      "deplasman": "Panathinaikos",
-      "baslama_utc": "2026-11-24T19:30:00Z",
-      "gece": "2026-11-24",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5273,
-        "2": 0.4727
-      },
-      "tahmin": "1",
-      "guven": 0.0546,
-      "sayi": {
-        "toplam": 175.5,
-        "toplam_kaynak": 15,
-        "fark": 1.5,
-        "fark_kaynak": 15,
-        "ev_sayi": 88,
-        "dep_sayi": 87
-      },
-      "dinlenme": null,
-      "ai_metin": "Valencia, ev sahibi avantajıyla hafif ama belirgin bir öne sahip: kazanma olasılığı %53, Panathinaikos'unki ise %47. Beklenen toplam sayı yaklaşık 176 ve Valencia'nın yaklaşık 2 sayı önde bitmesi bekleniyor; bu tablo son çeyreğe kadar sürecek, kıl payı sonuçlanabilecek dengeli bir maçı işaret ediyor. 19 veri kaynağının favori konusunda alışılmadık ölçüde hemfikir olması, tahminin istikrarını destekliyor. Panathinaikos'un sürprizi %47 olasılıkla hiç de uzak bir ihtimal değil.",
-      "ai_metinler": {
-        "en": "Valencia holds a slight but clear edge thanks to home-court advantage: their probability of winning is 53%, while Panathinaikos' is 47%. The expected total points come to about 176, and Valencia is projected to finish roughly 2 points ahead. This picture points to a balanced game that is likely to stay close until the final quarter and could be decided by a narrow margin. The fact that 19 data sources are unusually aligned on the favorite supports the stability of this prediction. Panathinaikos' upset, at a 47% probability, is far from an unlikely scenario.",
-        "es": "Valencia, con la ventaja de jugar en casa, tiene una ligera pero clara ventaja: su probabilidad de ganar es del 53%, frente al 47% de Panathinaikos. Se espera un total de puntos de aproximadamente 176 y que Valencia termine unos 2 puntos por delante; este escenario apunta a un partido equilibrado que se mantendrá igualado hasta el último cuarto y podría decidirse por muy poco. El hecho de que 19 fuentes de datos coincidan de forma inusualmente clara en el favorito respalda la estabilidad de la predicción. La sorpresa de Panathinaikos, con una probabilidad del 47%, está lejos de ser remota.",
-        "de": "Valencia geht mit einem leichten, aber deutlichen Vorteil in die Partie, der auf dem Heimvorteil beruht: Die Wahrscheinlichkeit, dass Valencia gewinnt, liegt bei 53%, die von Panathinaikos bei 47%. Die erwartete Gesamtzahl der Punkte liegt bei etwa 176, und Valencia wird voraussichtlich mit rund 2 Punkten vorne liegen. Dieses Bild spricht für ein ausgeglichenes Spiel, das bis ins letzte Viertel offen bleibt und knapp entschieden werden könnte. Dass sich 19 Datenquellen in ungewöhnlich hohem Maße über den Favoriten einig sind, stützt die Stabilität dieser Einschätzung. Eine Überraschung durch Panathinaikos ist bei einer Wahrscheinlichkeit von 47% alles andere als unwahrscheinlich.",
-        "fr": "Valence, grâce à l'avantage du terrain, possède un léger mais net ascendant : sa probabilité de victoire est de 53 %, contre 47 % pour le Panathinaikos. Le total points attendu est d'environ 176, et Valence devrait terminer environ 2 points devant ; ce scénario laisse présager un match équilibré, qui pourrait se jouer à un cheveu et rester indécis jusqu'au dernier quart-temps. Le fait que 19 sources de données soient inhabituellement unanimes sur le favori renforce la stabilité de cette prévision. Une surprise du Panathinaikos, avec une probabilité de 47 %, n'est en aucun cas une hypothèse lointaine.",
-        "it": "Valencia, il vantaggio del campo gli conferisce un leggero ma netto vantaggio: la probabilità di vittoria è del 53%, mentre quella del Panathinaikos è del 47%. Il totale di punti atteso è di circa 176 e ci si aspetta che Valencia chiuda avanti di circa 2 punti; questo scenario lascia presagire una partita equilibrata che si protrarrà fino all'ultimo quarto e potrebbe decidersi per un soffio. Il fatto che 19 fonti di dati siano insolitamente concordi sul favorito rafforza la stabilità della previsione. La sorpresa del Panathinaikos, con una probabilità del 47%, non è affatto un'ipotesi remota.",
-        "pt": "Valência, com a vantagem de jogar em casa, tem uma leve mas clara dianteira: probabilidade de vitória de 53%, contra 47% do Panathinaikos. O total de pontos esperado é de aproximadamente 176, e espera-se que o Valência termine cerca de 2 pontos à frente; esse cenário aponta para um jogo equilibrado, que deve se manter aberto até o último quarto e pode ser decidido por uma diferença mínima. O fato de 19 fontes de dados concordarem de forma incomum sobre o favorito reforça a estabilidade dessa previsão. Ainda assim, a zebra do Panathinaikos, com probabilidade de 47%, está longe de ser uma possibilidade remota."
-      },
-      "kilit_utc": "2026-11-24T04:05:15Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": {
-        "ilk_utc": "2026-11-21T00:42:33Z",
-        "son_utc": "2026-11-24T04:05:06Z",
-        "ilk": {
-          "1": 0.4798,
-          "2": 0.5202
-        },
-        "son": {
-          "1": 0.5273,
-          "2": 0.4727
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "1707b8c728b9116472624aa8178ebfce",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "ASVEL",
-      "deplasman": "Olimpia Milano",
-      "baslama_utc": "2026-11-24T19:45:00Z",
-      "gece": "2026-11-24",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4756,
-        "2": 0.5244
-      },
-      "tahmin": "2",
-      "guven": 0.0488,
-      "sayi": {
-        "toplam": 174.0,
-        "toplam_kaynak": 15,
-        "fark": -1.5,
-        "fark_kaynak": 15,
-        "ev_sayi": 86,
-        "dep_sayi": 88
-      },
-      "dinlenme": null,
-      "ai_metin": "ASVEL'in evinde oynadığı bu maçta Olimpia Milano hafif bir üstünlükle önde görünüyor; olasılık farkı dar olduğu için sonuç büyük ölçüde son dakikalara kadar açık kalabilir. Beklenen yaklaşık 174 toplam sayı ve Milano lehine yaklaşık 2 sayılık fark, rakiplerin birbirini yakından takip edeceği, skorun sık sık el değiştirebileceği dengeli bir senaryoya işaret ediyor. ASVEL'in %48 olasılığı, ev sahibinin bu yakınlığı tersine çevirebileceğini gösteriyor. Sürpriz ihtimali yaklaşık %48 olduğu için düşük değil; Milano'nun rahat bir galibiyeti kadar, ASVEL'in galibiyeti de gerçekçi bir ihtimal.",
-      "ai_metinler": {
-        "en": "In this match at ASVEL's home court, Olimpia Milano appears to have a slight edge, but because the difference in probability is narrow, the result could remain largely open until the final minutes. The expected total of about 174 points and a margin of roughly 2 points in Milano's favor point to a balanced scenario, where the teams will stay closely matched and the lead may change hands frequently. ASVEL's probability of 48% shows that the home side could reverse this closeness. Since the chance of an upset is about 48%, it is not low; ASVEL's victory is just as realistic a possibility as a comfortable win for Milano.",
-        "es": "En el partido que disputa ASVEL en su pabellón, Olimpia Milano aparece ligeramente por delante; como la diferencia de probabilidad es estrecha, el resultado puede seguir abierto en gran medida hasta los minutos finales. El escenario esperado de unos 174 puntos totales y una ventaja de unos 2 puntos para Milano apunta a un duelo equilibrado, en el que los rivales se seguirán de cerca y el marcador podría cambiar de manos con frecuencia. La probabilidad de ASVEL del 48% indica que el local podría revertir esa cercanía. Como la probabilidad de sorpresa es de alrededor del 48%, no es baja: tanto una victoria cómoda de Milano como una victoria de ASVEL son resultados realistas.",
-        "de": "In diesem Spiel bei ASVEL zeigt sich Olimpia Milano leicht im Vorteil; da der Wahrscheinlichkeitsunterschied gering ist, kann das Ergebnis bis in die letzten Minuten offen bleiben. Die erwarteten etwa 174 total points und ein Vorsprung von rund 2 Punkten für Milano deuten auf ein ausgeglichenes Szenario hin, in dem sich die Teams eng folgen und die Führung immer wieder wechseln dürfte. Die Wahrscheinlichkeit für ASVEL liegt bei 48%, was zeigt, dass der Heimvorteil diese Enge durchaus kippen kann. Da die Überraschungswahrscheinlichkeit mit rund 48% nicht gering ist, ist sowohl ein klarer Sieg Milanos als auch ein Sieg von ASVEL ein realistisches Ergebnis.",
-        "fr": "Dans ce match disputé à domicile par l'ASVEL, l'Olimpia Milano apparaît légèrement en tête ; la différence de probabilité étant faible, l'issue peut rester largement ouverte jusqu'aux dernières minutes. Le total de points attendu est d'environ 174 et l'écart prévu d'environ 2 points en faveur de Milano, ce qui dessine un scénario équilibré où les deux équipes se suivront de près et où le score pourra changer de mains à plusieurs reprises. L'ASVEL a une probabilité de 48 %, ce qui montre que l'équipe à domicile peut renverser cette proximité. Comme cette probabilité de surprise atteint environ 48 %, elle n'est pas faible : une victoire nette de Milano et une victoire de l'ASVEL sont toutes deux des issues réalistes.",
-        "it": "In questa partita sul campo dell'ASVEL, l'Olimpia Milano appare in leggero vantaggio; poiché la differenza di probabilità è ridotta, l'esito potrebbe restare in bilico fino agli ultimi minuti. Il totale punti previsto è di circa 174 punti e il vantaggio di Milano di circa 2 punti indica uno scenario equilibrato, in cui le squadre si terranno strettamente testa a testa e il punteggio potrebbe cambiare di mano più volte. La probabilità di vittoria dell'ASVEL è del 48%, il che significa che il fattore campo potrebbe ribaltare questa situazione di equilibrio. Poiché la possibilità di una sorpresa è del 48%, non è affatto bassa: una vittoria netta di Milano e una vittoria dell'ASVEL sono entrambe risultati realistici.",
-        "pt": "No Olimpia Milano, na partida disputada na casa do ASVEL, parece levar uma leve vantagem, mas como a diferença de probabilidade é estreita, o resultado pode permanecer em aberto em grande parte até os minutos finais. O total de pontos esperado é de cerca de 174 e a vantagem de Milano gira em torno de 2 pontos, o que aponta para um cenário equilibrado, em que as equipes se acompanharão de perto e o placar deverá trocar de lado com frequência. A probabilidade de vitória do ASVEL é de 48%, o que mostra que o time da casa pode reverter essa proximidade. Como a chance de surpresa é de cerca de 48%, ela não é baixa: tanto uma vitória tranquila do Milano quanto uma vitória do ASVEL são resultados realistas."
-      },
-      "kilit_utc": "2026-11-24T04:05:17Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": {
-        "ilk_utc": "2026-11-21T00:42:33Z",
-        "son_utc": "2026-11-24T04:05:06Z",
-        "ilk": {
-          "1": 0.4829,
-          "2": 0.5171
-        },
-        "son": {
-          "1": 0.4756,
-          "2": 0.5244
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "0f9b0defd0a6c9603d7c70e7962bb628",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Barcelona",
-      "deplasman": "Fenerbahçe",
-      "baslama_utc": "2026-11-24T20:00:00Z",
-      "gece": "2026-11-24",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.3828,
-        "2": 0.6172
-      },
-      "tahmin": "2",
-      "guven": 0.2344,
-      "sayi": {
-        "toplam": 170.5,
-        "toplam_kaynak": 14,
-        "fark": -3.5,
-        "fark_kaynak": 15,
-        "ev_sayi": 84,
-        "dep_sayi": 87
-      },
-      "dinlenme": null,
-      "ai_metin": "Fenerbahçe, deplasmanda belirgin biçimde önde: %62'lik kazanma olasılığı, bu maçın Barcelona'ya zor bir gece vadettiğini gösteriyor. Beklenen toplam sayının yaklaşık 170 olması ve Fenerbahçe'nin yaklaşık 4 sayılık farkla öne geçmesi, sayı bol ama son çeyreğe kadar çekişmeli bir senaryoya işaret ediyor. Barcelona'nın ev sahibi olarak hamle yapma ihtimali de göz önünde tutulmalı. Ters sonuç yüzde 38 olasılıkla mümkün; bu, düşük bir ihtimal sayılmaz.",
-      "ai_metinler": {
-        "en": "Fenerbahçe is clearly ahead on the road: a 62% probability of winning suggests this match promises a tough night for Barcelona. An expected total of around 170 points and Fenerbahçe's projected lead of roughly 4 points point to a high-scoring scenario that should stay contested right up to the final quarter. Barcelona's chance to make a move as the home side should also be taken into account. The opposite result has a 38% probability, which is not considered a low likelihood.",
-        "es": "Fenerbahçe, deplasmanda belirgin biçimde önde: %62'lik kazanma probabilidad, bu maçın Barcelona'ya zor bir gece vadettiğini gösteriyor. Beklenen total points'in yaklaşık 170 olması ve Fenerbahçe'nin yaklaşık 4 sayılık farkla öne geçmesi, sayı bol ama son çeyreğe kadar çekişmeli bir senaryoya işaret ediyor. Barcelona'nın ev sahibi olarak hamle yapma ihtimali de göz önünde tutulmalı. Ters sonuç %38 probabilidad ile mümkün; bu, düşük bir ihtimal sayılmaz.\n\nNote: I corrected \"probabilidad\" to the proper Spanish word \"probabilidad\" in the text above, which is the intended term. Here is the clean version:\n\nFenerbahçe, deplasmanda belirgin biçimde önde: %62 de probabilidad de victoria, bu maçın Barcelona'ya zor bir gece vadettiğini gösteriyor. Beklenen total points'in yaklaşık 170 olması ve Fenerbahçe'nin yaklaşık 4 sayılık farkla öne geçmesi, sayı bol ama son çeyreğe kadar çekişmeli bir senaryoya işaret ediyor. Barcelona'nın ev sahibi olarak hamle yapma ihtimali de göz önünde tutulmalı. Ters sonuç %38 de probabilidad ile mümkün; bu, düşük bir ihtimal sayılmaz.",
-        "de": "Fenerbahçe ist auswärts deutlich im Vorteil: Die Wahrscheinlichkeit eines Sieges liegt bei 62%, was darauf hindeutet, dass dieses Spiel für Barcelona eine schwere Nacht werden könnte. Die erwartete Gesamtpunktzahl von etwa 170 und ein Vorsprung von rund 4 Punkten für Fenerbahçe deuten auf ein punktereiches, aber bis zum letzten Viertel umkämpftes Szenario hin. Außerdem sollte berücksichtigt werden, dass Barcelona als Heimmannschaft noch eine Wende herbeiführen kann. Das umgekehrte Ergebnis ist mit einer Wahrscheinlichkeit von 38% möglich; das ist keineswegs eine geringe Wahrscheinlichkeit.",
-        "fr": "Fenerbahçe, déplacement oblige, nettement en tête : une probabilité de victoire de 62 %, ce qui laisse présager une soirée difficile pour le Barça. Un total de points attendu d'environ 170 et un avantage d'environ 4 points pour Fenerbahçe dessinent un scénario riche en points mais disputé jusqu'au dernier quart-temps. Il faut aussi tenir compte de la capacité du Barça, qui joue à domicile, à réagir. Un résultat inverse reste possible, avec une probabilité de 38 % ; ce n'est pas une éventualité négligeable.",
-        "it": "Il Fenerbahçe è nettamente favorito in trasferta: una probabilità di vittoria del 62% indica che questa partita si preannuncia difficile per il Barcellona. Il totale di punti atteso di circa 170 e il vantaggio stimato di circa 4 punti per il Fenerbahçe fanno pensare a uno scenario ricco di punti ma equilibrato fino all'ultimo quarto. Va tenuta in considerazione anche la possibilità che il Barcellona reagisca da squadra di casa. Il risultato opposto ha una probabilità del 38%: non è un'eventualità da considerare remota.",
-        "pt": "Fenerbahçe, deplasmanda belirgin biçimde önde: %62 kazanma probabilidade, bu partida o Barcelona para uma noite difícil.\n\nO total previsto de pontos em torno de 170 e a vantagem aproximada de 4 pontos para o Fenerbahçe apontam para um cenário com muitos pontos, mas disputado até o último quarto. A possibilidade de o Barcelona reagir como anfitrião também deve ser levada em conta. O resultado contrário tem probabilidade de 38%, o que não é uma chance baixa."
-      },
-      "kilit_utc": "2026-11-24T04:05:19Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": {
-        "ilk_utc": "2026-11-21T00:42:33Z",
-        "son_utc": "2026-11-24T04:05:06Z",
-        "ilk": {
-          "1": 0.4642,
-          "2": 0.5358
-        },
-        "son": {
-          "1": 0.3828,
-          "2": 0.6172
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "42f48a4769eab3d1472d76aac0fd0fa7",
       "lig": "basketball_nba",
@@ -366,15 +158,15 @@
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Jalen Duren",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "Taurean Prince",
             "durum": "oynamayacak"
           },
           {
             "oyuncu": "Duncan Robinson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jalen Duren",
             "durum": "oynamayacak"
           }
         ]
@@ -1046,6 +838,10 @@
         "ev_sahibi": [
           {
             "oyuncu": "Jordan Clarkson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "OG Anunoby",
             "durum": "oynamayacak"
           }
         ],
