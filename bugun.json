@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T04:05:05Z",
+  "guncelleme_utc": "2026-11-24T06:58:47Z",
   "slot": "sabah",
   "mac_sayisi": 13,
   "maclar": [
@@ -859,8 +859,8 @@
             "tahmin": "1",
             "olasilik": 0.8511,
             "guven": 0.7022,
-            "skor": null,
-            "tuttu": null
+            "skor": "109-94",
+            "tuttu": true
           },
           {
             "mac_id": "db2311c331296d3328d71b842167dea4",
@@ -871,8 +871,8 @@
             "tahmin": "1",
             "olasilik": 0.8283,
             "guven": 0.6566,
-            "skor": null,
-            "tuttu": null
+            "skor": "116-104",
+            "tuttu": true
           },
           {
             "mac_id": "a72a1703f7a92b80768255d1d977a761",
@@ -887,8 +887,8 @@
             "tuttu": true
           }
         ],
-        "tutan": 1,
-        "sonuclanan": 1
+        "tutan": 3,
+        "sonuclanan": 3
       }
     ],
     "dun": {

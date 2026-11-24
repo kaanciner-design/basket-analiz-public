@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T04:05:05Z",
+  "guncelleme_utc": "2026-11-24T06:58:47Z",
   "mac_sayisi": 28,
   "maclar": [
     {
@@ -31,13 +31,30 @@
         "it": "Los Angeles Lakers, 85% kazanma probability ile maçın net favorisi ve bu üstünlüğün belirgin bir farkla sonuçlanması bekleniyor. Yaklaşık 14 sayılık beklenen farkla ev sahibinin rahat bir galibiyet alacağı senaryo öne çıkıyor. Utah Jazz'ın arka arkaya ikinci gece sahaya çıkması ve Jusuf Nurkic, Lauri Markkanen ile Jaren Jackson Jr.'ın sakatlık listesinde olması, deplasman ekibinin tempoyu koruma konusunda zorlanabileceğini düşündürüyor. Lakers ise 3 gün dinlenerek sahaya çıkıyor; Austin Reaves'in oynamayacak olması kadro derinliğini sınayabilir. Sürpriz probability %15 olduğu için düşük sayılabilir, ancak maçın tamamen tek yönlü olacağı anlamına gelmiyor.",
         "pt": "O Los Angeles Lakers, 85% de probabilidade de vitória, é o claro favorito para a partida, e espera-se que essa superioridade se traduza em uma diferença expressiva. Um cenário em que o time da casa vence com folga, por uma diferença esperada de cerca de 14 pontos, é o que mais se destaca. O fato de o Utah Jazz estar jogando pela segunda noite consecutiva, além de Jusuf Nurkic, Lauri Markkanen e Jaren Jackson Jr. estarem na lista de lesionados, sugere que a equipe visitante pode ter dificuldade para sustentar o ritmo do jogo. Já o Lakers entra em quadra após 3 dias de descanso, e a ausência de Austin Reaves pode colocar a profundidade do elenco à prova. A probabilidade de surpresa, de 15%, é baixa, mas isso não significa que a partida será totalmente unilateral."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "109-94",
+      "toplam": 203,
+      "fark": 15,
+      "periyotlar": [
+        [
+          30,
+          20
+        ],
+        [
+          23,
+          22
+        ],
+        [
+          25,
+          35
+        ],
+        [
+          31,
+          17
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": true
     },
     {
@@ -70,13 +87,30 @@
         "it": "San Antonio Spurs, in trasferta, si presenta come netto favorito con una probabilità di vittoria del 79% e il match sembra indicare una comoda vittoria con un margine di circa 10 punti. Il totale di punti atteso intorno a 224 sostiene l'aspettativa di una partita dal ritmo elevato ma equilibrata, lontana da una vera e propria pioggia di canestri. L'assenza per infortunio di Maxime Raynaud e Ben Simmons limita la profondità di rotazione della squadra di casa, i Sacramento Kings. La probabilità di una sorpresa è bassa, al 21%; tuttavia, non va escluso del tutto lo scenario di una gara combattuta sul campo dei Kings fino agli ultimi minuti dell'ultimo quarto.",
         "pt": "San Antonio Spurs, visitante, aparece como um claro favorito com 79% de probabilidade de vitória, e a partida indica uma vitória confortável, com diferença de cerca de 10 pontos. A expectativa de aproximadamente 224 total points sustenta a previsão de um jogo equilibrado e com bom ritmo, mas sem uma produção ofensiva excessiva. Maxime Raynaud e Ben Simmons, do Sacramento Kings, não jogarão por lesão, o que limita a profundidade de rotação do time da casa. A probabilidade de zebra está baixa, em 21%; ainda assim, a possibilidade de um jogo apertado no Sacramento Kings até o último quarto não deve ser totalmente descartada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "107-123",
+      "toplam": 230,
+      "fark": -16,
+      "periyotlar": [
+        [
+          28,
+          19
+        ],
+        [
+          23,
+          41
+        ],
+        [
+          23,
+          32
+        ],
+        [
+          33,
+          31
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -109,13 +143,30 @@
         "it": "Gli Houston Rockets appaiono nettamente in vantaggio sulla carta; la probabilità di vittoria del 83% li rende i chiari favoriti del match. Il numero di total points atteso, intorno a 224, e un margine di circa 12 punti a favore dei Rockets indicano una partita ritmata ma in gran parte controllata. In questo quadro, la probabilità del 17% dei Clippers può essere considerata una sorpresa poco probabile; tuttavia, questa probabilità non significa che il risultato sia già deciso.",
         "pt": "O Houston Rockets aparece claramente na frente na análise; a probabilidade de vitória de 83% faz deles os nítidos favoritos da partida. A expectativa de cerca de 224 pontos totais e uma vantagem de aproximadamente 12 pontos para o Rockets indica um confronto com ritmo intenso, mas em grande parte controlado. Nesse cenário, a probabilidade de 17% do Clippers pode ser vista como uma possibilidade de surpresa pouco provável; ainda assim, essa probabilidade não significa que o resultado esteja definido."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "116-104",
+      "toplam": 220,
+      "fark": 12,
+      "periyotlar": [
+        [
+          25,
+          15
+        ],
+        [
+          22,
+          28
+        ],
+        [
+          38,
+          32
+        ],
+        [
+          31,
+          29
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -148,13 +199,30 @@
         "it": "Cleveland Cavaliers, con una probabilità di vittoria del 74%, è il chiaro favorito del match e indica una vittoria comoda con un margine atteso di circa 8 punti. Il totale punti atteso di circa 240 suggerisce una partita ritmata ma equilibrata. Un fattore importante che sostiene questo quadro è che i Chicago Bulls giocano la seconda sera consecutiva, mentre i Cavaliers hanno riposato per 3 giorni. Anche l'assenza prevista di Norman Powell e Caleb Wilson per i Bulls riduce le opzioni di rotazione della squadra di casa. La probabilità di una sorpresa è del 26%, quindi non è una possibilità trascurabile, ma lo scenario di vittoria dei Cavaliers appare nettamente più solido.",
         "pt": "O Cleveland Cavaliers é claramente o favorito da partida, com 74% de probabilidade de vitória, e a expectativa é de uma vitória tranquila por uma diferença de cerca de 8 pontos. Um total de pontos em torno de 240 indica uma partida com ritmo intenso, mas equilibrada. O Chicago Bulls jogando pela segunda noite seguida, enquanto o Cavaliers chega após 3 dias de descanso, é um fator importante que sustenta esse cenário. Além disso, a ausência provável de Norman Powell e Caleb Wilson reduz as opções de rotação do time da casa. A probabilidade de surpresa foi calculada em 26%, então esse cenário não é considerado baixo, mas o caminho para a vitória do Cavaliers aparece muito mais forte."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "122-108",
+      "toplam": 230,
+      "fark": 14,
+      "periyotlar": [
+        [
+          27,
+          30
+        ],
+        [
+          45,
+          20
+        ],
+        [
+          21,
+          39
+        ],
+        [
+          29,
+          19
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -187,13 +255,34 @@
         "it": "Phoenix Suns, pur essendo in trasferta, è leggermente favorita; la distribuzione del 58% contro il 42% indica una partita equilibrata. Il totale di punti atteso è intorno a 233 e il vantaggio di circa 4 punti dei Suns delinea uno scenario in cui la partita potrebbe restare in bilico fino all'ultimo quarto. L'assenza di Bryce McGowens, Trendon Watford, Bennedict Mathurin e Dejounte Murray potrebbe limitare la profondità delle rotazioni della squadra di casa; dal lato dei Suns, l'assenza di Mark Williams crea un'area che richiede attenzione nella difesa interna. La probabilità di una sorpresa da parte dei Pelicans, pari a circa il 42%, non è quindi da considerare bassa.",
         "pt": "Phoenix Suns, mesmo jogando fora de casa, é o leve favorito para a partida; a distribuição de 58% contra 42% aponta para um confronto equilibrado. O total de pontos esperado é em torno de 233, e a vantagem de cerca de 4 pontos do Suns sugere um cenário em que o jogo pode permanecer apertado até o último quarto. A ausência de Bryce McGowens, Trendon Watford, Bennedict Mathurin e Dejounte Murray pelo Pelicans pode limitar a profundidade de rotação do time da casa; já no lado do Suns, a falta de Mark Williams cria um ponto que exige atenção na defesa interna. A probabilidade de uma surpresa do Pelicans, em torno de 42%, não é baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "119-123",
+      "toplam": 242,
+      "fark": -4,
+      "periyotlar": [
+        [
+          35,
+          31
+        ],
+        [
+          19,
+          25
+        ],
+        [
+          29,
+          23
+        ],
+        [
+          26,
+          30
+        ],
+        [
+          10,
+          14
+        ]
+      ],
+      "uzatma": true,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
