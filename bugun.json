@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T06:58:47Z",
+  "guncelleme_utc": "2026-11-24T12:23:17Z",
   "slot": "sabah",
   "mac_sayisi": 13,
   "maclar": [
@@ -846,99 +846,55 @@
     }
   ],
   "en_guclu_3": {
-    "gunler": [
-      {
-        "tarih": "2026-11-23",
-        "maclar": [
-          {
-            "mac_id": "3e9dc52cb055c0154839c4aec417955b",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Los Angeles Lakers",
-            "deplasman": "Utah Jazz",
-            "baslama_utc": "2026-11-24T03:10:00Z",
-            "tahmin": "1",
-            "olasilik": 0.8511,
-            "guven": 0.7022,
-            "skor": "109-94",
-            "tuttu": true
-          },
-          {
-            "mac_id": "db2311c331296d3328d71b842167dea4",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Houston Rockets",
-            "deplasman": "Los Angeles Clippers",
-            "baslama_utc": "2026-11-24T01:40:00Z",
-            "tahmin": "1",
-            "olasilik": 0.8283,
-            "guven": 0.6566,
-            "skor": "116-104",
-            "tuttu": true
-          },
-          {
-            "mac_id": "a72a1703f7a92b80768255d1d977a761",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Minnesota Timberwolves",
-            "deplasman": "Brooklyn Nets",
-            "baslama_utc": "2026-11-24T00:40:00Z",
-            "tahmin": "1",
-            "olasilik": 0.8096,
-            "guven": 0.6192,
-            "skor": "142-116",
-            "tuttu": true
-          }
-        ],
-        "tutan": 3,
-        "sonuclanan": 3
-      }
-    ],
+    "gunler": [],
     "dun": {
-      "tarih": "2026-11-22",
+      "tarih": "2026-11-23",
       "maclar": [
         {
-          "mac_id": "15a079f55e23d26237844224f258c972",
+          "mac_id": "3e9dc52cb055c0154839c4aec417955b",
           "lig": "basketball_nba",
-          "ev_sahibi": "Chicago Bulls",
-          "deplasman": "Denver Nuggets",
-          "baslama_utc": "2026-11-23T00:10:00Z",
-          "tahmin": "2",
-          "olasilik": 0.7716,
-          "guven": 0.5432,
-          "skor": "145-151",
-          "tuttu": true
-        },
-        {
-          "mac_id": "031fa761cc38e1b5afd9309b731b38b2",
-          "lig": "basketball_nba",
-          "ev_sahibi": "New York Knicks",
-          "deplasman": "Indiana Pacers",
-          "baslama_utc": "2026-11-23T01:10:00Z",
+          "ev_sahibi": "Los Angeles Lakers",
+          "deplasman": "Utah Jazz",
+          "baslama_utc": "2026-11-24T03:10:00Z",
           "tahmin": "1",
-          "olasilik": 0.7451,
-          "guven": 0.4902,
-          "skor": "113-106",
+          "olasilik": 0.8511,
+          "guven": 0.7022,
+          "skor": "109-94",
           "tuttu": true
         },
         {
-          "mac_id": "b8c5bdb50209c7d050400c7d28c32e30",
+          "mac_id": "db2311c331296d3328d71b842167dea4",
           "lig": "basketball_nba",
-          "ev_sahibi": "Golden State Warriors",
-          "deplasman": "Boston Celtics",
-          "baslama_utc": "2026-11-23T01:40:00Z",
-          "tahmin": "2",
-          "olasilik": 0.7451,
-          "guven": 0.4902,
-          "skor": "88-87",
-          "tuttu": false
+          "ev_sahibi": "Houston Rockets",
+          "deplasman": "Los Angeles Clippers",
+          "baslama_utc": "2026-11-24T01:40:00Z",
+          "tahmin": "1",
+          "olasilik": 0.8283,
+          "guven": 0.6566,
+          "skor": "116-104",
+          "tuttu": true
+        },
+        {
+          "mac_id": "a72a1703f7a92b80768255d1d977a761",
+          "lig": "basketball_nba",
+          "ev_sahibi": "Minnesota Timberwolves",
+          "deplasman": "Brooklyn Nets",
+          "baslama_utc": "2026-11-24T00:40:00Z",
+          "tahmin": "1",
+          "olasilik": 0.8096,
+          "guven": 0.6192,
+          "skor": "142-116",
+          "tuttu": true
         }
       ],
-      "tutan": 2,
+      "tutan": 3,
       "sonuclanan": 3
     },
     "genel": {
-      "gun": 2,
-      "tam_isabet_gun": 0,
-      "tahmin": 6,
-      "tutan": 4
+      "gun": 3,
+      "tam_isabet_gun": 1,
+      "tahmin": 9,
+      "tutan": 7
     }
   },
   "lig_ortalamalari": {
