@@ -1,7 +1,481 @@
 {
-  "guncelleme_utc": "2026-11-23T23:58:54Z",
-  "mac_sayisi": 18,
+  "guncelleme_utc": "2026-11-24T04:05:05Z",
+  "mac_sayisi": 28,
   "maclar": [
+    {
+      "mac_id": "3e9dc52cb055c0154839c4aec417955b",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Los Angeles Lakers",
+      "deplasman": "Utah Jazz",
+      "baslama_utc": "2026-11-24T03:10:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.8511,
+        "2": 0.1489
+      },
+      "tahmin": "1",
+      "guven": 0.7022,
+      "sayi": {
+        "toplam": 224.5,
+        "toplam_kaynak": 17,
+        "fark": 13.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 119,
+        "dep_sayi": 106
+      },
+      "ai_metin": "Los Angeles Lakers, %85 kazanma olasılığıyla maçın net favorisi ve bu üstünlük belirgin bir fark bekleniyor. Yaklaşık 14 sayılık beklenen farkla ev sahibinin rahat bir galibiyet alacağı bir senaryo öne çıkıyor. Utah Jazz'in arka arkaya ikinci gece çıkması ve Jusuf Nurkic, Lauri Markkanen ile Jaren Jackson Jr.'ın sakatlık listesinde olması, deplasman ekibinin tempoyu koruma konusunda zorlanabileceğini düşündürüyor. Lakers ise 3 gün dinlenerek sahaya çıkıyor; Austin Reaves'in oynamayacak olması kadro derinliğini sınayabilir. Sürpriz ihtimali %15 olduğu için düşük sayılabilir, ancak maçın tamamen tek yönlü olacağı anlamına gelmiyor.",
+      "ai_metinler": {
+        "en": "Los Angeles Lakers, with an 85% probability of winning, is the clear favorite, and this advantage is expected to show up as a notable margin. A scenario in which the home side wins comfortably, by an expected margin of around 14 points, stands out. Utah Jazz are playing the second night of a back-to-back, and with Jusuf Nurkic, Lauri Markkanen and Jaren Jackson Jr. on the injury list, the visiting side may struggle to sustain its pace. The Lakers, meanwhile, come into the game after 3 days of rest, though Austin Reaves being unavailable could test the depth of their roster. The upset probability of 15% is low, but that does not mean the game will be completely one-sided.",
+        "es": "Los Angeles Lakers, 85% probabilidad de ganar, es el claro favorito del partido, y se espera que esta superioridad se traduzca en una diferencia notable. Surge un escenario en el que el equipo local logra una victoria cómoda, con una diferencia esperada de unos 14 puntos. Que el Utah Jazz juegue su segunda noche consecutiva y que Jusuf Nurkic, Lauri Markkanen y Jaren Jackson Jr. figuren en la lista de lesionados hace pensar que el equipo visitante podría tener dificultades para mantener el ritmo. Los Lakers, por su parte, llegan tras 3 días de descanso; la ausencia de Austin Reaves podría poner a prueba la profundidad de la plantilla. La probabilidad de una sorpresa es del 15%, por lo que puede considerarse baja, aunque eso no significa que el partido vaya a ser completamente unilateral.",
+        "fr": "Les Los Angeles Lakers sont les grands favoris du match avec une probabilité de victoire de 85 %, et cette supériorité devrait se traduire par un écart net. Un scénario de victoire confortable de l'équipe à domicile, avec un écart attendu d'environ 14 points, ressort en particulier.\n\nLe Utah Jazz joue sa deuxième soirée consécutive et doit composer avec les absences de Jusuf Nurkic, Lauri Markkanen et Jaren Jackson Jr. sur la liste des blessés, ce qui pourrait compliquer le maintien du rythme pour l'équipe visiteuse. Les Lakers, eux, entrent sur le parquet après 3 jours de repos ; l'absence d'Austin Reaves pourrait toutefois mettre à l'épreuve la profondeur de l'effectif.\n\nLa probabilité d'une surprise étant de 15 %, elle peut être considérée comme faible, mais cela ne signifie pas que la rencontre sera totalement à sens unique.",
+        "it": "Los Angeles Lakers, 85% kazanma probability ile maçın net favorisi ve bu üstünlüğün belirgin bir farkla sonuçlanması bekleniyor. Yaklaşık 14 sayılık beklenen farkla ev sahibinin rahat bir galibiyet alacağı senaryo öne çıkıyor. Utah Jazz'ın arka arkaya ikinci gece sahaya çıkması ve Jusuf Nurkic, Lauri Markkanen ile Jaren Jackson Jr.'ın sakatlık listesinde olması, deplasman ekibinin tempoyu koruma konusunda zorlanabileceğini düşündürüyor. Lakers ise 3 gün dinlenerek sahaya çıkıyor; Austin Reaves'in oynamayacak olması kadro derinliğini sınayabilir. Sürpriz probability %15 olduğu için düşük sayılabilir, ancak maçın tamamen tek yönlü olacağı anlamına gelmiyor.",
+        "pt": "O Los Angeles Lakers, 85% de probabilidade de vitória, é o claro favorito para a partida, e espera-se que essa superioridade se traduza em uma diferença expressiva. Um cenário em que o time da casa vence com folga, por uma diferença esperada de cerca de 14 pontos, é o que mais se destaca. O fato de o Utah Jazz estar jogando pela segunda noite consecutiva, além de Jusuf Nurkic, Lauri Markkanen e Jaren Jackson Jr. estarem na lista de lesionados, sugere que a equipe visitante pode ter dificuldade para sustentar o ritmo do jogo. Já o Lakers entra em quadra após 3 dias de descanso, e a ausência de Austin Reaves pode colocar a profundidade do elenco à prova. A probabilidade de surpresa, de 15%, é baixa, mas isso não significa que a partida será totalmente unilateral."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "17f31499f145cd9d3232819395d29448",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Sacramento Kings",
+      "deplasman": "San Antonio Spurs",
+      "baslama_utc": "2026-11-24T03:10:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.2073,
+        "2": 0.7927
+      },
+      "tahmin": "2",
+      "guven": 0.5854,
+      "sayi": {
+        "toplam": 223.5,
+        "toplam_kaynak": 17,
+        "fark": -10.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 106,
+        "dep_sayi": 117
+      },
+      "ai_metin": "San Antonio Spurs, deplasmanda %79 kazanma olasılığıyla net bir favori konumda ve maçın yaklaşık 10 sayılık fark ile rahat bir galibiyete işaret ettiği görülüyor. Beklenen toplam sayının 224 civarında olması, tempolu ama tam anlamıyla sayı yağmuru olmayan, dengeli bir maç beklentisini destekliyor. Sacramento Kings'in Maxime Raynaud ve Ben Simmons'ın sakatlık nedeniyle oynamayacak olması ev sahibi tarafın rotasyon derinliğini sınırlıyor. Sürpriz ihtimali %21 olarak düşük seviyede; yine de Kings'in kendi sahasında son çeyreğe kadar sürecek yakın bir maç ihtimali tamamen göz ardı edilmemeli.",
+      "ai_metinler": {
+        "en": "The San Antonio Spurs are clear favorites on the road with a 79% probability of winning, and the match points to a comfortable victory by around 10 points. An expected total of about 224 points supports a balanced game expectation: fast-paced, but not a full-on scoring spree. The absence of Maxime Raynaud and Ben Simmons due to injury limits the home side's rotation depth for the Sacramento Kings. The upset probability is low at 21%; still, the possibility of a close game in which Sacramento stays within reach until the final quarter at their own arena should not be ruled out entirely.",
+        "es": "San Antonio Spurs, visitante, se perfila como un claro favorito con una probabilidad de victoria del 79% y el partido apunta a una cómoda victoria por unos 10 puntos de diferencia. Un total de puntos esperado de alrededor de 224 respalda la expectativa de un encuentro equilibrado, con ritmo alto pero sin llegar a una lluvia de anotaciones. La ausencia de Maxime Raynaud y Ben Simmons por lesión limita la profundidad de rotación del equipo local, Sacramento Kings. La probabilidad de sorpresa es baja, del 21%; aun así, no debe descartarse por completo la posibilidad de un partido ajustado que se mantenga igualado en el campo de los Kings hasta el último cuarto.",
+        "de": "San Antonio Spurs sind auswärts mit einer Siegwahrscheinlichkeit von 79% klarer Favorit, und das Spiel deutet auf einen deutlichen Sieg mit etwa 10 Punkten Vorsprung hin. Die erwarteten total points von rund 224 sprechen für eine temporeiche, aber keineswegs punkteregnende und ausgeglichene Partie. Dass Maxime Raynaud und Ben Simmons der Sacramento Kings verletzungsbedingt nicht spielen werden, schränkt die Rotationstiefe der Gastgeber ein. Die Überraschungswahrscheinlichkeit liegt mit 21% auf niedrigem Niveau; dennoch sollte die Möglichkeit einer knappen Partie, in der die Kings auf eigenem Parkett bis ins letzte Viertel mithalten, nicht völlig ausgeblendet werden.",
+        "fr": "San Antonio Spurs se trouve en déplacement dans le rôle de net favori, avec une probabilité de victoire de 79 %, et la rencontre semble pointer vers un succès confortable, avec un écart d'environ 10 points. Le total points attendu, autour de 224, correspond à un match rythmé mais équilibré, sans véritable pluie de points. Les absences de Maxime Raynaud et Ben Simmons chez les Sacramento Kings limitent la profondeur de rotation de l'équipe à domicile. La probabilité d'une surprise reste faible, à 21 %; il ne faut toutefois pas écarter totalement la possibilité d'un match serré chez les Kings, qui pourrait se jouer jusqu'au dernier quart-temps.",
+        "it": "San Antonio Spurs, in trasferta, si presenta come netto favorito con una probabilità di vittoria del 79% e il match sembra indicare una comoda vittoria con un margine di circa 10 punti. Il totale di punti atteso intorno a 224 sostiene l'aspettativa di una partita dal ritmo elevato ma equilibrata, lontana da una vera e propria pioggia di canestri. L'assenza per infortunio di Maxime Raynaud e Ben Simmons limita la profondità di rotazione della squadra di casa, i Sacramento Kings. La probabilità di una sorpresa è bassa, al 21%; tuttavia, non va escluso del tutto lo scenario di una gara combattuta sul campo dei Kings fino agli ultimi minuti dell'ultimo quarto.",
+        "pt": "San Antonio Spurs, visitante, aparece como um claro favorito com 79% de probabilidade de vitória, e a partida indica uma vitória confortável, com diferença de cerca de 10 pontos. A expectativa de aproximadamente 224 total points sustenta a previsão de um jogo equilibrado e com bom ritmo, mas sem uma produção ofensiva excessiva. Maxime Raynaud e Ben Simmons, do Sacramento Kings, não jogarão por lesão, o que limita a profundidade de rotação do time da casa. A probabilidade de zebra está baixa, em 21%; ainda assim, a possibilidade de um jogo apertado no Sacramento Kings até o último quarto não deve ser totalmente descartada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "db2311c331296d3328d71b842167dea4",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Houston Rockets",
+      "deplasman": "Los Angeles Clippers",
+      "baslama_utc": "2026-11-24T01:40:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.8283,
+        "2": 0.1717
+      },
+      "tahmin": "1",
+      "guven": 0.6566,
+      "sayi": {
+        "toplam": 223.5,
+        "toplam_kaynak": 17,
+        "fark": 12.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 118,
+        "dep_sayi": 106
+      },
+      "ai_metin": "Houston Rockets, sahasında belirgin biçimde önde görünüyor; kazanma olasılığı %83 ile maçın net favorisi. Beklenen toplam sayının 224 civarında olması ve Rockets lehine yaklaşık 12 sayılık fark, tempolu ama büyük ölçüde kontrollü geçecek bir karşılaşmaya işaret ediyor. Bu tabloda Clippers'ın %17'lik ihtimali düşük bir sürpriz ihtimali olarak değerlendirilebilir; yine de bu ihtimal, sonucun kesin olduğu anlamına gelmez.",
+      "ai_metinler": {
+        "en": "The Houston Rockets clearly look like the stronger side in this matchup; their probability of winning is 83%, making them the clear favorite. An expected total of around 224 points and a Rockets advantage of roughly 12 points point to a fast-paced but largely controlled game. In this picture, the Clippers' 17% probability can be seen as a low chance of an upset; still, that probability does not mean the outcome is certain.",
+        "es": "Houston Rockets claramente tiene la ventaja en este partido; su probabilidad de ganar es del 83%, lo que lo convierte en el claro favorito del encuentro. Se espera un total de puntos cercano a 224 y una diferencia de unos 12 puntos a favor de los Rockets, lo que apunta a un duelo con ritmo alto pero en gran medida controlado. En este escenario, la probabilidad del 17% para los Clippers puede considerarse una sorpresa poco probable; aun así, esa probabilidad no significa que el resultado esté decidido.",
+        "de": "Die Houston Rockets wirken klar im Vorteil; ihre Siegwahrscheinlichkeit liegt bei 83 % und macht sie zum deutlichen Favoriten der Partie. Die erwartete Gesamtpunktzahl von etwa 224 und ein Vorsprung von rund 12 Punkten zugunsten der Rockets deuten auf eine temporeiche, aber weitgehend kontrollierte Begegnung hin. In dieser Konstellation lässt sich die Wahrscheinlichkeit von 17 % für die Clippers als geringe Überraschungschance einordnen; sie bedeutet jedoch nicht, dass das Ergebnis feststeht.",
+        "fr": "Les Houston Rockets apparaissent clairement en position de force sur le terrain ; leur probabilité de victoire, à 83 %, en fait le net favori de la rencontre. Un total de points attendu autour de 224 et un écart d'environ 12 points en faveur des Rockets laissent présager un match rythmé mais largement maîtrisé. Dans ce contexte, la probabilité de 17 % accordée aux Clippers peut être considérée comme une possibilité de surprise limitée ; cela ne signifie toutefois pas que le résultat soit acquis.",
+        "it": "Gli Houston Rockets appaiono nettamente in vantaggio sulla carta; la probabilità di vittoria del 83% li rende i chiari favoriti del match. Il numero di total points atteso, intorno a 224, e un margine di circa 12 punti a favore dei Rockets indicano una partita ritmata ma in gran parte controllata. In questo quadro, la probabilità del 17% dei Clippers può essere considerata una sorpresa poco probabile; tuttavia, questa probabilità non significa che il risultato sia già deciso.",
+        "pt": "O Houston Rockets aparece claramente na frente na análise; a probabilidade de vitória de 83% faz deles os nítidos favoritos da partida. A expectativa de cerca de 224 pontos totais e uma vantagem de aproximadamente 12 pontos para o Rockets indica um confronto com ritmo intenso, mas em grande parte controlado. Nesse cenário, a probabilidade de 17% do Clippers pode ser vista como uma possibilidade de surpresa pouco provável; ainda assim, essa probabilidade não significa que o resultado esteja definido."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b8dfee1fca57ec870528a14c792ad73a",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Chicago Bulls",
+      "deplasman": "Cleveland Cavaliers",
+      "baslama_utc": "2026-11-24T01:10:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.2618,
+        "2": 0.7382
+      },
+      "tahmin": "2",
+      "guven": 0.4764,
+      "sayi": {
+        "toplam": 240.5,
+        "toplam_kaynak": 17,
+        "fark": -8.5,
+        "fark_kaynak": 17,
+        "ev_sayi": 116,
+        "dep_sayi": 124
+      },
+      "ai_metin": "Cleveland Cavaliers, %74 kazanma olasılığıyla maçın net favorisi ve beklenen yaklaşık 8 sayılık farkla rahat bir galibiyete işaret ediyor. Toplam sayının yaklaşık 240 olması tempolu ama dengeli bir maç beklentisi veriyor. Chicago Bulls'un arka arkaya ikinci gece sahaya çıkması, Cavaliers'ın ise 3 gün dinlenmiş olması bu tabloyu destekleyen önemli bir etken. Bulls'ta Norman Powell ve Caleb Wilson'ın oynamayacak görünmesi de ev sahibinin rotasyon seçeneklerini daraltıyor. Sürpriz ihtimali %26 olarak hesaplandığından bu ihtimal düşük sayılmaz, ancak Cavaliers'ın kazanma senaryosu açık ara daha güçlü görünüyor.",
+      "ai_metinler": {
+        "en": "Cleveland Cavaliers, 74% win probability, are the clear favorite to win and project to a comfortable victory by an expected margin of about 8 points. A total points figure of around 240 suggests a fast-paced but balanced game. The Chicago Bulls playing their second game in a row, while the Cavaliers have had 3 days of rest, is an important factor supporting this outlook. Norman Powell and Caleb Wilson appearing unlikely to play also narrows the home team's rotation options. The upset probability is calculated at 26%, so it is not considered low, but the Cavaliers' path to victory appears far stronger.",
+        "es": "Cleveland Cavaliers, con una probabilidad de victoria del 74%, es el claro favorito del partido y apunta a una victoria cómoda con una diferencia esperada de unos 8 puntos. Un total de puntos cercano a 240 sugiere un partido con ritmo alto pero equilibrado. El hecho de que los Chicago Bulls jueguen su segunda noche consecutiva en la cancha, mientras que los Cavaliers han descansado 3 días, es un factor importante que respalda este panorama. Además, la ausencia probable de Norman Powell y Caleb Wilson en los Bulls reduce las opciones de rotación del equipo local. La probabilidad de una sorpresa se calcula en 26%, así que no es una posibilidad baja, pero el escenario de victoria de los Cavaliers parece claramente más sólido.",
+        "de": "Die Cleveland Cavaliers sind mit einer Siegwahrscheinlichkeit von 74% der klare Favorit und deuten auf einen deutlichen Sieg mit einem erwarteten Vorsprung von etwa 8 Punkten hin. Die erwartete Gesamtpunktzahl von rund 240 spricht für ein temporeiches, aber ausgeglichenes Spiel. Dass die Chicago Bulls in der zweiten Nacht in Folge auflaufen, während die Cavaliers 3 Tage Pause hatten, unterstützt dieses Bild maßgeblich. Dass Norman Powell und Caleb Wilson bei den Bulls voraussichtlich nicht spielen werden, engt zudem die Rotationsoptionen des Heimteams weiter ein. Die Überraschungswahrscheinlichkeit wurde mit 26% berechnet; das ist nicht gering, doch das Szenario eines Cavaliers-Siegs erscheint deutlich stärker.",
+        "fr": "Les Cleveland Cavaliers sont, avec une probabilité de 74 %, nettement favoris pour ce match et l'estimation évoque une victoire confortable, avec un écart attendu d'environ 8 points. Un total points proche de 240 laisse entrevoir un match rythmé mais équilibré. Les Chicago Bulls jouant leur deuxième soirée consécutive, alors que les Cavaliers ont récupéré pendant 3 jours, constitue un facteur important qui soutient ce scénario. L'absence probable de Norman Powell et de Caleb Wilson chez les Bulls réduit également les options de rotation de l'équipe à domicile. La probabilité d'une surprise est estimée à 26 %, ce qui n'est pas négligeable, mais le scénario d'une victoire des Cavaliers apparaît nettement plus solide.",
+        "it": "Cleveland Cavaliers, con una probabilità di vittoria del 74%, è il chiaro favorito del match e indica una vittoria comoda con un margine atteso di circa 8 punti. Il totale punti atteso di circa 240 suggerisce una partita ritmata ma equilibrata. Un fattore importante che sostiene questo quadro è che i Chicago Bulls giocano la seconda sera consecutiva, mentre i Cavaliers hanno riposato per 3 giorni. Anche l'assenza prevista di Norman Powell e Caleb Wilson per i Bulls riduce le opzioni di rotazione della squadra di casa. La probabilità di una sorpresa è del 26%, quindi non è una possibilità trascurabile, ma lo scenario di vittoria dei Cavaliers appare nettamente più solido.",
+        "pt": "O Cleveland Cavaliers é claramente o favorito da partida, com 74% de probabilidade de vitória, e a expectativa é de uma vitória tranquila por uma diferença de cerca de 8 pontos. Um total de pontos em torno de 240 indica uma partida com ritmo intenso, mas equilibrada. O Chicago Bulls jogando pela segunda noite seguida, enquanto o Cavaliers chega após 3 dias de descanso, é um fator importante que sustenta esse cenário. Além disso, a ausência provável de Norman Powell e Caleb Wilson reduz as opções de rotação do time da casa. A probabilidade de surpresa foi calculada em 26%, então esse cenário não é considerado baixo, mas o caminho para a vitória do Cavaliers aparece muito mais forte."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "6caeb7cce7c8340fed588f3badd83fe0",
+      "lig": "basketball_nba",
+      "ev_sahibi": "New Orleans Pelicans",
+      "deplasman": "Phoenix Suns",
+      "baslama_utc": "2026-11-24T01:10:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.4189,
+        "2": 0.5811
+      },
+      "tahmin": "2",
+      "guven": 0.1622,
+      "sayi": {
+        "toplam": 233.0,
+        "toplam_kaynak": 17,
+        "fark": -3.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 115,
+        "dep_sayi": 118
+      },
+      "ai_metin": "Phoenix Suns, deplasmanda da olsa maçın hafif favorisi konumunda; %58'e %42'lik dağılım dengeli bir karşılaşmaya işaret ediyor. Beklenen toplam sayı 233 civarında ve Suns'ın yaklaşık 4 sayılık üstünlüğü, maçın son çeyreğe kadar yakın seyredebileceği bir senaryoyu gösteriyor. Pelicans'ın Bryce McGowens, Trendon Watford, Bennedict Mathurin ve Dejounte Murray'den yoksun olması, ev sahibinin rotasyon derinliğini sınırlayabilir; Suns tarafında ise Mark Williams'ın eksikliği iç saha savunmasında dikkat gerektiren bir alan yaratıyor. Pelicans'ın sürpriz ihtimali yaklaşık %42 olduğundan düşük sayılmaz.",
+      "ai_metinler": {
+        "en": "The Phoenix Suns are the slight favorite despite playing away; a 58%-42% split points to a fairly balanced contest. The expected total points come to around 233, and the Suns' advantage of roughly 4 points suggests a scenario in which the game could stay close until the final quarter. The absence of Bryce McGowens, Trendon Watford, Bennedict Mathurin and Dejounte Murray could limit the home side's rotation depth, while on the Suns' side, the absence of Mark Williams creates an area that will require attention in interior defense. The Pelicans' chance of an upset, at around 42%, is not considered low.",
+        "es": "Phoenix Suns, aunque juegue de visitante, es ligeramente favorito en este partido; la distribución de 58% frente a 42% apunta a un encuentro equilibrado. El total de puntos esperado ronda los 233 y la ventaja de unos 4 puntos de los Suns sugiere un escenario en el que el partido podría mantenerse igualado hasta el último cuarto. La ausencia de Bryce McGowens, Trendon Watford, Bennedict Mathurin y Dejounte Murray en los Pelicans podría limitar la profundidad de rotación del equipo local; por otro lado, la falta de Mark Williams en los Suns crea un área que requiere atención en la defensa dentro de casa. La probabilidad de una sorpresa por parte de los Pelicans, cercana al 42%, no es baja.",
+        "de": "Die Phoenix Suns sind auswärts zwar der leichte Favorit, doch die Verteilung von 58% zu 42% deutet auf eine ausgeglichene Partie hin. Die erwartete Gesamtpunktzahl liegt bei etwa 233 Punkten, und der Vorsprung der Suns von rund 4 Punkten lässt ein Szenario erwarten, in dem das Spiel bis ins letzte Viertel eng bleiben kann. Dass den Pelicans Bryce McGowens, Trendon Watford, Bennedict Mathurin und Dejounte Murray fehlen, könnte die Rotationstiefe des Gastgebers einschränken; auf Seiten der Suns schafft das Fehlen von Mark Williams einen Bereich, in dem die Verteidigung im eigenen Feld besondere Aufmerksamkeit benötigt. Die Wahrscheinlichkeit einer Überraschung durch die Pelicans liegt bei etwa 42% und ist damit keineswegs gering.",
+        "fr": "Phoenix Suns, même en déplacement, sont légèrement favoris ; une répartition de 58 % contre 42 % indique une rencontre équilibrée. Le total de points attendu se situe autour de 233, et l'avance d'environ 4 points de Suns laisse entrevoir un scénario où le match pourrait rester serré jusqu'au dernier quart-temps. L'absence de Bryce McGowens, Trendon Watford, Bennedict Mathurin et Dejounte Murray pourrait limiter la profondeur de rotation de l'équipe à domicile ; côté Suns, l'absence de Mark Williams crée une zone qui demandera de l'attention en défense intérieure. La probabilité d'une surprise de la part des Pelicans, d'environ 42 %, n'est pas négligeable.",
+        "it": "Phoenix Suns, pur essendo in trasferta, è leggermente favorita; la distribuzione del 58% contro il 42% indica una partita equilibrata. Il totale di punti atteso è intorno a 233 e il vantaggio di circa 4 punti dei Suns delinea uno scenario in cui la partita potrebbe restare in bilico fino all'ultimo quarto. L'assenza di Bryce McGowens, Trendon Watford, Bennedict Mathurin e Dejounte Murray potrebbe limitare la profondità delle rotazioni della squadra di casa; dal lato dei Suns, l'assenza di Mark Williams crea un'area che richiede attenzione nella difesa interna. La probabilità di una sorpresa da parte dei Pelicans, pari a circa il 42%, non è quindi da considerare bassa.",
+        "pt": "Phoenix Suns, mesmo jogando fora de casa, é o leve favorito para a partida; a distribuição de 58% contra 42% aponta para um confronto equilibrado. O total de pontos esperado é em torno de 233, e a vantagem de cerca de 4 pontos do Suns sugere um cenário em que o jogo pode permanecer apertado até o último quarto. A ausência de Bryce McGowens, Trendon Watford, Bennedict Mathurin e Dejounte Murray pelo Pelicans pode limitar a profundidade de rotação do time da casa; já no lado do Suns, a falta de Mark Williams cria um ponto que exige atenção na defesa interna. A probabilidade de uma surpresa do Pelicans, em torno de 42%, não é baixa."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a72a1703f7a92b80768255d1d977a761",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Minnesota Timberwolves",
+      "deplasman": "Brooklyn Nets",
+      "baslama_utc": "2026-11-24T00:40:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.8096,
+        "2": 0.1904
+      },
+      "tahmin": "1",
+      "guven": 0.6192,
+      "sayi": {
+        "toplam": 223.5,
+        "toplam_kaynak": 17,
+        "fark": 11.5,
+        "fark_kaynak": 17,
+        "ev_sayi": 118,
+        "dep_sayi": 106
+      },
+      "ai_metin": "Minnesota Timberwolves, %81 kazanma olasılığıyla belirgin biçimde önde ve yaklaşık 12 sayılık beklenen farkla rahat bir ev sahibi galibiyetine işaret ediyor. Beklenen toplam sayı olan yaklaşık 224, maçın tempolu ve sayı bol geçebileceğini gösteriyor. Anthony Edwards, Jaylen Clark ve Donte DiVincenzo'nun sakatlık listesinde olması Minnesota'nın rotasyonunu etkileyebilir; Brooklyn'de ise Nolan Traore'nin yokluğu öne çıkıyor. Brooklyn'in %19'luk ihtimali düşük bir sürpriz olasılığı.",
+      "ai_metinler": {
+        "en": "Minnesota Timberwolves are clear favorites with an 81% probability of winning and an expected margin of about 12 points, pointing to a comfortable home victory. The expected total points of around 224 suggest the game could be fast-paced and high-scoring. Anthony Edwards, Jaylen Clark, and Donte DiVincenzo being on the injury report could affect Minnesota's rotation, while in Brooklyn, Nolan Traore's absence stands out. Brooklyn's 19% probability represents a low chance of an upset.",
+        "es": "Minnesota Timberwolves, %81 kazanma olasılığıyla belirgin biçimde önde ve yaklaşık 12 sayılık beklenen farkla rahat bir ev sahibi galibiyetine işaret ediyor. Beklenen toplam sayı olan yaklaşık 224, maçın tempolu ve sayı bol geçebileceğini gösteriyor. Anthony Edwards, Jaylen Clark ve Donte DiVincenzo'nun sakatlık listesinde olması Minnesota'nın rotasyonunu etkileyebilir; Brooklyn'de ise Nolan Traore'nin yokluğu öne çıkıyor. Brooklyn'in %19'luk ihtimali düşük bir sürpriz olasılığı.",
+        "de": "Minnesota Timberwolves liegen mit einer Wahrscheinlichkeit von 81% deutlich vorn und deuten auf einen klaren Heimsieg mit einem erwarteten Vorsprung von rund 12 Punkten hin. Die erwartete Gesamtpunktzahl von etwa 224 Punkten lässt vermuten, dass das Spiel tempo- und punktereich verlaufen könnte. Dass Anthony Edwards, Jaylen Clark und Donte DiVincenzo auf der Verletztenliste stehen, könnte Minnesotas Rotation beeinflussen; in Brooklyn fällt besonders das Fehlen von Nolan Traore ins Gewicht. Die Wahrscheinlichkeit von 19% für Brooklyn steht für eine geringe Überraschungschance.",
+        "fr": "Minnesota Timberwolves, avec une probabilité de victoire de 81 %, apparaît nettement favori et laisse présager une victoire confortable à domicile, avec un écart attendu d'environ 12 points. Le total de points attendu, d'environ 224, laisse penser que la rencontre pourrait être rythmée et riche en points. La présence d'Anthony Edwards, de Jaylen Clark et de Donte DiVincenzo sur la liste des blessés pourrait toutefois affecter la rotation de Minnesota, tandis qu'à Brooklyn, l'absence de Nolan Traore est particulièrement notable. La probabilité de 19 % pour Brooklyn représente une faible probabilité de surprise.",
+        "it": "Minnesota Timberwolves, 81% probabilità di vittoria, è nettamente in vantaggio e indica una comoda vittoria in casa con un margine previsto di circa 12 punti. Il totale punti atteso, circa 224, suggerisce che la partita potrebbe essere ritmata e ricca di punti. L'assenza di Anthony Edwards, Jaylen Clark e Donte DiVincenzo, inseriti nella lista infortunati, potrebbe incidere sulla rotazione di Minnesota; a Brooklyn spicca invece l'assenza di Nolan Traore. La probabilità del 19% per Brooklyn rappresenta una bassa probabilità di sorpresa.",
+        "pt": "O Minnesota Timberwolves está claramente em vantagem, com 81% de probabilidade de vitória, e aponta para uma vitória confortável em casa com uma diferença esperada de cerca de 12 pontos. O total de pontos esperado, em torno de 224, indica que a partida pode ser acelerada e com muitos pontos. A ausência de Anthony Edwards, Jaylen Clark e Donte DiVincenzo na lista de lesionados pode afetar a rotação do Minnesota; no Brooklyn, destaca-se a ausência de Nolan Traore. A probabilidade de 19% do Brooklyn representa uma surpresa de baixa chance."
+      },
+      "gercek_sonuc": "1",
+      "skor": "142-116",
+      "toplam": 258,
+      "fark": 26,
+      "periyotlar": [
+        [
+          41,
+          28
+        ],
+        [
+          33,
+          33
+        ],
+        [
+          41,
+          30
+        ],
+        [
+          27,
+          25
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c9b6c9f77fd3628308dd34f50854a9c0",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Indiana Pacers",
+      "deplasman": "Oklahoma City Thunder",
+      "baslama_utc": "2026-11-24T00:40:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.3298,
+        "2": 0.6702
+      },
+      "tahmin": "2",
+      "guven": 0.3404,
+      "sayi": {
+        "toplam": 222.5,
+        "toplam_kaynak": 17,
+        "fark": -6.5,
+        "fark_kaynak": 17,
+        "ev_sayi": 108,
+        "dep_sayi": 114
+      },
+      "ai_metin": "Oklahoma City Thunder, %67 kazanma olasılığıyla deplasmanda belirgin bir favori görünüyor. Beklenen toplam sayı yaklaşık 222 ve beklenen fark Thunder lehine 6 sayı; bu tablo, sayıların bol olacağı ama farkın son çeyreğe kadar tartışmalı kalabileceği bir maça işaret ediyor. İki takımın da arka arkaya ikinci gece çıkması, tempo ve yorgunluk açısından her iki tarafta da benzer bir denge yaratıyor. Pacers'ta Tyrese Haliburton'ın sakatlık listesinde olması, Thunder'da ise Chet Holmgren ve Jalen Williams'ın oynamayacak görünmesi kadroların rotasyonunu belirleyecek ana etken olacak. Sürpriz ihtimali yaklaşık %33 ile düşük değil ama kesin bir senaryo da değil.",
+      "ai_metinler": {
+        "en": "Oklahoma City Thunder enters as a clear favorite on the road, with a 67% probability of winning. The expected total points is around 222, and the expected margin is 6 points in favor of the Thunder. This profile points to a game where scoring should be high, but the difference may stay contested until the final quarter. Both teams are playing their second game in a row, which creates a similar balance on both sides in terms of tempo and fatigue. For the Pacers, Tyrese Haliburton being on the injury list, and for the Thunder, Chet Holmgren and Jalen Williams appearing unlikely to play, are the main factors that will shape how each roster rotates. The probability of an upset, around 33%, is not low, but it is not a definite scenario either.",
+        "es": "Oklahoma City Thunder, un 67% de probabilidad de ganar, aparece como un claro favorito como visitante. El total de puntos esperado ronda los 222 y la diferencia esperada es de 6 puntos a favor del Thunder; este panorama apunta a un partido con muchas anotaciones, pero en el que la ventaja podría seguir en disputa hasta el último cuarto. Que ambos equipos jueguen su segunda noche consecutiva crea un equilibrio similar para los dos bandos en cuanto al ritmo y al cansancio. En los Pacers, la baja de Tyrese Haliburton en la lista de lesionados, y en el Thunder, la ausencia previsible de Chet Holmgren y Jalen Williams, serán los factores principales que determinarán la rotación de las plantillas. La probabilidad de una sorpresa es de alrededor del 33%, que no es baja, pero tampoco es un escenario definitivo.",
+        "de": "Oklahoma City Thunder erscheint auswärts mit einer Siegwahrscheinlichkeit von 67% als deutlicher Favorit. Die erwartete Gesamtpunktzahl liegt bei etwa 222 Punkten, der erwartete Vorsprung bei 6 Punkten für die Thunder. Dieses Bild deutet auf ein Spiel mit vielen Punkten hin, in dem der Abstand bis ins letzte Viertel umkämpft bleiben könnte. Dass beide Mannschaften den zweiten Abend in Folge spielen, sorgt sowohl beim Tempo als auch bei der Müdigkeit für ein ähnliches Gleichgewicht auf beiden Seiten. Bei den Pacers fehlt Tyrese Haliburton verletzungsbedingt, bei den Thunder scheinen Chet Holmgren und Jalen Williams nicht zur Verfügung zu stehen; die Rotation beider Kader wird deshalb ein entscheidender Faktor sein. Die Überraschungswahrscheinlichkeit liegt bei etwa 33% und ist damit nicht gering, aber auch kein feststehendes Szenario.",
+        "fr": "Oklahoma City Thunder, une probabilité de victoire de 67 %, apparaît comme un favori net en déplacement. Le total de points attendu est d'environ 222 et l'écart attendu en faveur du Thunder est de 6 points ; ce schéma laisse présager un match riche en points, mais dont l'issue pourrait rester incertaine jusqu'au dernier quart-temps. Le fait que les deux équipes enchaînent leur deuxième match consécutif crée un équilibre similaire des deux côtés en termes de rythme et de fatigue. En revanche, l'absence probable de Tyrese Haliburton dans l'effectif des Pacers, et celle annoncée de Chet Holmgren et Jalen Williams côté Thunder, seront les principaux facteurs qui détermineront la rotation des effectifs. La probabilité d'une surprise, de 33 %, n'est pas négligeable, sans pour autant constituer un scénario certain.",
+        "it": "Oklahoma City Thunder, deplasmanda %67 kazanma probabilità con un evidente vantaggio di squadra favorita. Il totale punti atteso è di circa 222 e il margine atteso è di 6 punti a favore dei Thunder; questo quadro indica una partita ricca di punti, ma in cui il divario potrebbe restare incerto fino all'ultimo quarto. Il fatto che entrambe le squadre giochino la seconda sera consecutiva crea un equilibrio simile da entrambe le parti in termini di ritmo e stanchezza. L'assenza di Tyrese Haliburton dalla lista dei disponibili tra i Pacers e quella di Chet Holmgren e Jalen Williams, che non sembrano poter giocare per i Thunder, saranno i fattori principali nel determinare la rotazione delle due formazioni. La probabilità di una sorpresa è di circa il 33%, non bassa ma nemmeno uno scenario certo.",
+        "pt": "O Oklahoma City Thunder aparece como um favorito claro como visitante, com 67% de probabilidade de vitória. O total de pontos esperado é de cerca de 222 e a diferença esperada é de 6 pontos a favor do Thunder; esse cenário aponta para um jogo com muitos pontos, mas em que a vantagem pode seguir disputada até o último quarto. Como as duas equipes jogam pela segunda noite consecutiva, o ritmo e o cansaço criam um equilíbrio semelhante para ambos os lados. A ausência de Tyrese Haliburton na lista de lesionados do Pacers e a aparente indisponibilidade de Chet Holmgren e Jalen Williams no Thunder serão os principais fatores que definirão a rotação dos elencos. A probabilidade de surpresa, em torno de 33%, não é baixa, mas também não é um cenário definitivo."
+      },
+      "gercek_sonuc": "1",
+      "skor": "125-120",
+      "toplam": 245,
+      "fark": 5,
+      "periyotlar": [
+        [
+          27,
+          27
+        ],
+        [
+          29,
+          24
+        ],
+        [
+          40,
+          40
+        ],
+        [
+          29,
+          29
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a5184238c27b9c3bfca29220f9d5d14a",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Toronto Raptors",
+      "deplasman": "Milwaukee Bucks",
+      "baslama_utc": "2026-11-24T00:40:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.7844,
+        "2": 0.2156
+      },
+      "tahmin": "1",
+      "guven": 0.5688,
+      "sayi": {
+        "toplam": 222.5,
+        "toplam_kaynak": 17,
+        "fark": 10.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 116,
+        "dep_sayi": 106
+      },
+      "ai_metin": "Toronto Raptors, evinde %78 olasılıkla net bir favori; maçı belirgin bir farkla kazanması bekleniyor. Beklenen toplam sayının yaklaşık 222 olması ve Toronto'nun 10 sayı önde görünmesi, ev sahibinin rahat bir galibiyetle kontrolü elinde tutacağı, sayı dengesinin çok sert olmadığı bir senaryoya işaret ediyor. Kawhi Leonard, RJ Barrett ve Nate Bittle'ın oynamayacak görünmesi, Toronto'nun rotasyonunu ve hücum yükünü etkileyebilecek bir eksiklik olarak takip edilmeli. Milwaukee'nin %22'lik sürpriz ihtimali düşük seviyede; yine de maçın son çeyreğe kadar açık kalması durumunda bu ihtimal biraz daha anlamlı hale gelebilir.",
+      "ai_metinler": {
+        "en": "Toronto Raptors enjoy a clear home advantage, with a 78% probability of winning; they are expected to take the game by a comfortable margin. The projected total points of around 222 and Toronto's 10-point lead point to a scenario where the home side keeps firm control, without the scoring balance being especially tight. Kawhi Leonard, RJ Barrett and Nate Bittle appear unlikely to play, a shortfall that should be monitored, as it could affect Toronto's rotation and offensive load. Milwaukee's 22% probability of an upset is low; still, if the game remains open into the final quarter, that probability could become somewhat more meaningful.",
+        "es": "Toronto Raptors, en casa, es un claro favorito con una probabilidad del 78%; se espera que gane el partido por una diferencia notable. Que el total de puntos esperado sea de aproximadamente 222 y que Toronto aparezca 10 puntos por delante apunta a un escenario en el que el equipo local mantendrá el control con una victoria cómoda, con un equilibrio de anotación que no será muy intenso. La ausencia previsible de Kawhi Leonard, RJ Barrett y Nate Bittle debe seguirse de cerca, ya que podría afectar la rotación y la carga ofensiva de Toronto. La probabilidad de la sorpresa de Milwaukee es baja, del 22%; sin embargo, si el partido sigue abierto hasta el último cuarto, esa probabilidad podría cobrar algo más de relevancia.",
+        "de": "Toronto Raptors sind auf eigenem Platz mit einer Wahrscheinlichkeit von 78% klar der Favorit; erwartet wird, dass sie das Spiel deutlich gewinnen. Die erwarteten total points von etwa 222 und der Umstand, dass Toronto mit 10 Punkten vorn liegt, deuten auf ein Szenario hin, in dem der Gastgeber die Kontrolle bei einem komfortablen Sieg behält und das Punktgleichgewicht nicht sehr eng ist. Dass Kawhi Leonard, RJ Barrett und Nate Bittle voraussichtlich nicht spielen werden, sollte als Ausfall beobachtet werden, der die Rotation und die Offensivlast von Toronto beeinflussen kann. Die Wahrscheinlichkeit einer Überraschung für Milwaukee liegt mit 22% auf niedrigem Niveau; sollte das Spiel jedoch bis ins letzte Viertel offen bleiben, könnte diese Wahrscheinlichkeit etwas an Bedeutung gewinnen.",
+        "fr": "Toronto Raptors, à domicile, est un favori net avec une probabilité de 78 % ; il devrait remporter la rencontre avec un écart marqué. Un total de points attendu d'environ 222 et une avance de 10 points pour Toronto laissent entrevoir un scénario où l'équipe locale gardera le contrôle avec une victoire confortable, sans un équilibre de points trop serré. L'absence probable de Kawhi Leonard, RJ Barrett et Nate Bittle doit être suivie de près, car elle pourrait affecter la rotation de Toronto et la répartition de l'attaque. La probabilité de surprise de Milwaukee, à 22 %, reste faible ; cependant, si la rencontre reste ouverte jusqu'au dernier quart-temps, cette probabilité pourrait devenir un peu plus significative.",
+        "it": "Toronto Raptors, in casa, è nettamente favorita con una probabilità del 78%; ci si aspetta che vinca la partita con un margine evidente. Il totale punti atteso di circa 222 e il fatto che Toronto risulti avanti di 10 punti indicano uno scenario in cui la squadra di casa dovrebbe mantenere il controllo con una vittoria tranquilla, in una partita in cui l'equilibrio nel punteggio non dovrebbe essere molto teso. L'assenza di Kawhi Leonard, RJ Barrett e Nate Bittle, che sembrano non giocare, va monitorata come una mancanza che potrebbe incidere sulla rotazione e sul carico offensivo di Toronto. La probabilità di sorpresa per Milwaukee è bassa, al 22%; tuttavia, se la partita rimanesse aperta fino all'ultimo quarto, questa possibilità potrebbe diventare un po' più concreta.",
+        "pt": "O Toronto Raptors é claramente o favorito em casa, com uma probabilidade de 78%; espera-se que vença a partida por uma margem expressiva. O total de pontos esperado, em torno de 222, e a vantagem de 10 pontos para o Toronto sugerem um cenário em que o mandante mantém o controle com uma vitória tranquila, sem um equilíbrio de pontuação muito acirrado. A ausência de Kawhi Leonard, RJ Barrett e Nate Bittle, que aparentemente não vão jogar, deve ser acompanhada de perto, pois pode afetar a rotação e a distribuição do ataque do Toronto. A probabilidade de surpresa do Milwaukee, de 22%, é baixa; no entanto, se a partida permanecer aberta até o último quarto, essa chance pode se tornar um pouco mais relevante."
+      },
+      "gercek_sonuc": "2",
+      "skor": "111-116",
+      "toplam": 227,
+      "fark": -5,
+      "periyotlar": [
+        [
+          28,
+          28
+        ],
+        [
+          25,
+          21
+        ],
+        [
+          27,
+          36
+        ],
+        [
+          31,
+          31
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "35ca45d3e548dc7207fd7f1696ab16f5",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Charlotte Hornets",
+      "deplasman": "Memphis Grizzlies",
+      "baslama_utc": "2026-11-24T00:10:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.4265,
+        "2": 0.5735
+      },
+      "tahmin": "2",
+      "guven": 0.147,
+      "sayi": {
+        "toplam": 214.5,
+        "toplam_kaynak": 16,
+        "fark": -3.0,
+        "fark_kaynak": 17,
+        "ev_sayi": 106,
+        "dep_sayi": 109
+      },
+      "ai_metin": "Memphis Grizzlies, deplasmanda %57 kazanma olasılığıyla hafif önde; bu, ağır favori değil, dengeli bir karşılaşma. Beklenen toplam sayı yaklaşık 214 ve Memphis lehine yaklaşık 3 sayı farkla, maçın son çeyreğe kadar yakın seyredeceği bir senaryoya işaret ediyor. Charlotte'ta Grayson Allen, Grant Williams, Kon Knueppel ve Dennis Schroder'in, Memphis'te ise Jerami Grant, Cameron Boozer, GG Jackson ve Scotty Pippen Jr.'ın sakatlık listesinde oynamayacak görünmesi, iki takımın rotasyonunda da değişiklik gerektiriyor. Ev sahibi Charlotte'un %43 olasılığı, sürprizin hiç ihtimal dışı olmadığını gösteriyor.",
+      "ai_metinler": {
+        "en": "Memphis Grizzlies are slightly ahead on the road, with a 57% probability of winning; this is not a heavy favorite but a balanced matchup. The expected total points is about 214, and a margin of roughly 3 points in Memphis's favor points to a scenario where the game stays close until the final quarter. With Grayson Allen, Grant Williams, Kon Knueppel and Dennis Schroder appearing likely to miss the game for Charlotte, and Jerami Grant, Cameron Boozer, GG Jackson and Scotty Pippen Jr. on the injury list for Memphis, both teams will need to adjust their rotations. Home side Charlotte's 43% probability shows that an upset is far from out of the question.",
+        "es": "Memphis Grizzlies, de visitante, parte ligeramente por delante con una probabilidad de victoria del 57%; no es un favorito aplastante, sino un duelo equilibrado. El total de puntos esperado ronda los 214, y con Memphis arriba por unos 3 puntos, el escenario apunta a un partido muy disputado hasta el último cuarto. En Charlotte, Grayson Allen, Grant Williams, Kon Knueppel y Dennis Schroder aparecen en la lista de lesionados y no jugarían, mientras que en Memphis lo harían Jerami Grant, Cameron Boozer, GG Jackson y Scotty Pippen Jr. en la misma situación, lo que obliga a ambos equipos a modificar sus rotaciones. La probabilidad del 43% para el local Charlotte muestra que una sorpresa no está descartada.",
+        "de": "Memphis Grizzlies liegen auswärts mit einer Wahrscheinlichkeit von 57% leicht vorne; das ist keine klare Favoritenrolle, sondern eine ausgeglichene Begegnung. Die erwarteten total points liegen bei etwa 214, und ein Vorsprung von rund 3 Punkten für Memphis deutet auf ein Szenario hin, in dem das Spiel bis ins letzte Viertel eng bleibt. In Charlotte dürften Grayson Allen, Grant Williams, Kon Knueppel und Dennis Schröder auf der Verletztenliste stehen und nicht spielen; in Memphis gilt dasselbe für Jerami Grant, Cameron Boozer, GG Jackson und Scotty Pippen Jr. Beide Teams müssen deshalb ihre Rotation anpassen. Die Wahrscheinlichkeit von 43% für den Heimgegner Charlotte zeigt, dass eine Überraschung durchaus im Bereich des Möglichen liegt.",
+        "fr": "Memphis Grizzlies, à l'extérieur, est légèrement favori avec une probabilité de victoire de 57 % ; il ne s'agit pas d'un grand favori, mais d'une rencontre équilibrée. Le total de points attendu est d'environ 214, et un écart d'environ 3 points en faveur de Memphis laisse présager un scénario où le match restera serré jusqu'au dernier quart-temps. À Charlotte, Grayson Allen, Grant Williams, Kon Knueppel et Dennis Schroder semblent absents sur la liste des blessés, et à Memphis, Jerami Grant, Cameron Boozer, GG Jackson et Scotty Pippen Jr. figurent également sur cette liste, ce qui oblige les deux équipes à modifier leur rotation. La probabilité de 43 % pour l'équipe à domicile, Charlotte, montre qu'une surprise n'est pas du tout improbable.",
+        "it": "I Memphis Grizzlies sono leggermente avanti in trasferta con una probabilità di vittoria del 57%; non si tratta di un grande favorito, ma di un incontro equilibrato. Il totale di punti previsto è di circa 214, con Memphis avanti di circa 3 punti, uno scenario che lascia presagire una partita combattuta fino all'ultimo quarto. A Charlotte, Grayson Allen, Grant Williams, Kon Knueppel e Dennis Schroder risultano nella lista degli infortunati e non dovrebbero giocare, così come Jerami Grant, Cameron Boozer, GG Jackson e Scotty Pippen Jr. a Memphis, il che richiede modifiche alla rotazione di entrambe le squadre. La probabilità del 43% per la squadra di casa, Charlotte, mostra che una sorpresa non è affatto da escludere.",
+        "pt": "Memphis Grizzlies, como visitante, está ligeiramente à frente com uma probabilidade de vitória de 57%; isso não é um favorito pesado, mas sim um confronto equilibrado. O total de pontos esperado é de cerca de 214, com o Memphis levando uma vantagem de aproximadamente 3 pontos, um cenário que indica um jogo acirrado até o último quarto. Em Charlotte, Grayson Allen, Grant Williams, Kon Knueppel e Dennis Schroder aparecem na lista de lesionados e não devem jogar, assim como Jerami Grant, Cameron Boozer, GG Jackson e Scotty Pippen Jr. no Memphis; isso exige mudanças na rotação das duas equipes. A probabilidade de 43% do Charlotte, em casa, mostra que a surpresa não está fora de cogitação."
+      },
+      "gercek_sonuc": "2",
+      "skor": "111-117",
+      "toplam": 228,
+      "fark": -6,
+      "periyotlar": [
+        [
+          32,
+          28
+        ],
+        [
+          28,
+          34
+        ],
+        [
+          22,
+          27
+        ],
+        [
+          29,
+          28
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ac6fb079d66ef35a2a77e22b5e94ef8d",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Philadelphia 76ers",
+      "deplasman": "Portland Trail Blazers",
+      "baslama_utc": "2026-11-24T00:10:00Z",
+      "gece": "2026-11-23",
+      "olasiliklar": {
+        "1": 0.5555,
+        "2": 0.4445
+      },
+      "tahmin": "1",
+      "guven": 0.111,
+      "sayi": {
+        "toplam": 231.5,
+        "toplam_kaynak": 17,
+        "fark": 2.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 117,
+        "dep_sayi": 114
+      },
+      "ai_metin": "Philadelphia 76ers, ev sahibi olarak %56 kazanma olasılığıyla hafif bir öne sahip; bu yüzden maçın dengeli ama ev sahibi tarafına yatkın olduğu söylenebilir. Beklenen toplam sayının yaklaşık 232 ve sayı farkının 76ers lehine yaklaşık 2 olması, son ana kadar açık kalabilecek, çekişmeli bir senaryoya işaret ediyor. Portland'da Ja Morant ve Shaedon Sharpe'ın sakatlık listesinde görünmesi, konuk takımın rotasyonunu daraltabilecek bir unsur olarak öne çıkıyor. Sürpriz ihtimali %44 olduğundan düşük sayılmaz; maçın sonucu kolayca tahmin edilebilecek bir çizgide değil.",
+      "ai_metinler": {
+        "en": "The Philadelphia 76ers have a slight edge as the home team, with a 56% probability of winning, so the matchup can be described as balanced but leaning toward the home side. The expected total points of around 232 and a projected margin of about 2 points in favor of the 76ers point to a close, competitive scenario that could remain open until the final minutes. The absence of Ja Morant and Shaedon Sharpe from the injury report stands out as a factor that could narrow the visiting team's rotation. An upset probability of 44% is not considered low; the outcome of this game is not on a path that can be easily predicted.",
+        "es": "Philadelphia 76ers, ventaja de local, tiene una ligera ventaja con una probabilidad de victoria del 56%; por eso se puede decir que el partido está equilibrado, aunque con inclinación hacia el equipo local. Que el total de puntos esperado sea de aproximadamente 232 y que la diferencia de puntos a favor de los 76ers sea de unos 2 apunta a un escenario disputado, que podría seguir abierto hasta el último momento. La presencia de Ja Morant y Shaedon Sharpe en la lista de lesionados de Portland destaca como un factor que podría reducir la rotación del equipo visitante. Una probabilidad de sorpresa del 44% no es baja; el resultado del partido no es una línea fácilmente predecible.",
+        "de": "Die Philadelphia 76ers haben als Heimmannschaft mit einer Siegwahrscheinlichkeit von 56% einen leichten Vorteil; das Spiel lässt sich daher als ausgeglichen, aber mit einer Neigung zur Heimseite beschreiben. Die erwarteten total points liegen bei etwa 232, und die erwartete Punktedifferenz zugunsten der 76ers beträgt etwa 2. Das deutet auf ein enges Szenario hin, das bis zur letzten Minute offen bleiben kann. In Portland stehen Ja Morant und Shaedon Sharpe auf der Verletztenliste, was als Faktor hervorsticht, der die Rotation des Gastteams einengen könnte. Die Überraschungswahrscheinlichkeit von 44% ist nicht gering; der Ausgang des Spiels verläuft also nicht auf einer leicht vorhersehbaren Linie.",
+        "fr": "Les Philadelphia 76ers, en tant qu'équipe à domicile, disposent d'un léger avantage avec une probabilité de victoire de 56 %; on peut donc dire que la rencontre est équilibrée tout en penchant du côté de l'équipe qui reçoit. Un total de points attendu d'environ 232 et un écart de points d'environ 2 en faveur des 76ers laissent présager un scénario serré, dont l'issue pourrait rester incertaine jusqu'à la dernière minute. La présence de Ja Morant et de Shaedon Sharpe sur la liste des blessés à Portland apparaît comme un élément qui pourrait restreindre la rotation de l'équipe visiteuse. Une probabilité de surprise de 44 % n'est pas négligeable ; le résultat du match n'est donc pas une issue facile à prévoir.",
+        "it": "Philadelphia 76ers, ev sahibi olarak %56 kazanma probabilità ile hafif bir üstünlüğe sahip; bu yüzden maçın dengeli ama ev sahibi tarafına yakın olduğu söylenebilir. Beklenen total points yaklaşık 232 ve sayı farkının 76ers lehine yaklaşık 2 olması, son ana kadar açık kalabilecek, çekişmeli bir senaryoya işaret ediyor. Portland'da Ja Morant ve Shaedon Sharpe'ın sakatlık listesinde görünmesi, konuk takımın rotasyonunu daraltabilecek bir unsur olarak öne çıkıyor. Sürpriz probabilità %44 olduğundan düşük sayılmaz; maçın sonucu kolayca tahmin edilebilecek bir çizgide değil.",
+        "pt": "O Philadelphia 76ers, como time da casa, tem uma ligeira vantagem com 56% de probabilidade de vitória; por isso, pode-se dizer que o jogo está equilibrado, mas tende para o lado do time da casa. O total de pontos esperado de cerca de 232 e a diferença de pontos de aproximadamente 2 a favor dos 76ers apontam para um cenário disputado, que pode permanecer em aberto até o final. A presença de Ja Morant e Shaedon Sharpe na lista de lesionados do Portland pode reduzir a rotação do time visitante, o que se destaca como um fator relevante. A probabilidade de surpresa de 44% não é baixa; o resultado do jogo não está numa trajetória fácil de prever."
+      },
+      "gercek_sonuc": "2",
+      "skor": "111-128",
+      "toplam": 239,
+      "fark": -17,
+      "periyotlar": [
+        [
+          32,
+          30
+        ],
+        [
+          37,
+          39
+        ],
+        [
+          23,
+          32
+        ],
+        [
+          19,
+          27
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
+      "ucretsiz": false
+    },
     {
       "mac_id": "b8c5bdb50209c7d050400c7d28c32e30",
       "lig": "basketball_nba",
