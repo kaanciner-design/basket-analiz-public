@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T22:32:16Z",
+  "guncelleme_utc": "2026-11-24T23:17:15Z",
   "mac_sayisi": 34,
   "maclar": [
     {
@@ -32,13 +32,30 @@
         "it": "Il Fenerbahçe è nettamente favorito in trasferta: una probabilità di vittoria del 62% indica che questa partita si preannuncia difficile per il Barcellona. Il totale di punti atteso di circa 170 e il vantaggio stimato di circa 4 punti per il Fenerbahçe fanno pensare a uno scenario ricco di punti ma equilibrato fino all'ultimo quarto. Va tenuta in considerazione anche la possibilità che il Barcellona reagisca da squadra di casa. Il risultato opposto ha una probabilità del 38%: non è un'eventualità da considerare remota.",
         "pt": "Fenerbahçe, deplasmanda belirgin biçimde önde: %62 kazanma probabilidade, bu partida o Barcelona para uma noite difícil.\n\nO total previsto de pontos em torno de 170 e a vantagem aproximada de 4 pontos para o Fenerbahçe apontam para um cenário com muitos pontos, mas disputado até o último quarto. A possibilidade de o Barcelona reagir como anfitrião também deve ser levada em conta. O resultado contrário tem probabilidade de 38%, o que não é uma chance baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "77-83",
+      "toplam": 160,
+      "fark": -6,
+      "periyotlar": [
+        [
+          28,
+          21
+        ],
+        [
+          17,
+          18
+        ],
+        [
+          16,
+          14
+        ],
+        [
+          16,
+          30
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -71,13 +88,30 @@
         "it": "In questa partita sul campo dell'ASVEL, l'Olimpia Milano appare in leggero vantaggio; poiché la differenza di probabilità è ridotta, l'esito potrebbe restare in bilico fino agli ultimi minuti. Il totale punti previsto è di circa 174 punti e il vantaggio di Milano di circa 2 punti indica uno scenario equilibrato, in cui le squadre si terranno strettamente testa a testa e il punteggio potrebbe cambiare di mano più volte. La probabilità di vittoria dell'ASVEL è del 48%, il che significa che il fattore campo potrebbe ribaltare questa situazione di equilibrio. Poiché la possibilità di una sorpresa è del 48%, non è affatto bassa: una vittoria netta di Milano e una vittoria dell'ASVEL sono entrambe risultati realistici.",
         "pt": "No Olimpia Milano, na partida disputada na casa do ASVEL, parece levar uma leve vantagem, mas como a diferença de probabilidade é estreita, o resultado pode permanecer em aberto em grande parte até os minutos finais. O total de pontos esperado é de cerca de 174 e a vantagem de Milano gira em torno de 2 pontos, o que aponta para um cenário equilibrado, em que as equipes se acompanharão de perto e o placar deverá trocar de lado com frequência. A probabilidade de vitória do ASVEL é de 48%, o que mostra que o time da casa pode reverter essa proximidade. Como a chance de surpresa é de cerca de 48%, ela não é baixa: tanto uma vitória tranquila do Milano quanto uma vitória do ASVEL são resultados realistas."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "91-95",
+      "toplam": 186,
+      "fark": -4,
+      "periyotlar": [
+        [
+          24,
+          24
+        ],
+        [
+          19,
+          34
+        ],
+        [
+          15,
+          24
+        ],
+        [
+          33,
+          13
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {

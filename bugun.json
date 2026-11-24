@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T22:32:16Z",
+  "guncelleme_utc": "2026-11-24T23:17:15Z",
   "slot": "aksam",
   "mac_sayisi": 11,
   "maclar": [
@@ -1190,12 +1190,12 @@
             "tahmin": "2",
             "olasilik": 0.6172,
             "guven": 0.2344,
-            "skor": null,
-            "tuttu": null
+            "skor": "77-83",
+            "tuttu": true
           }
         ],
-        "tutan": 0,
-        "sonuclanan": 0
+        "tutan": 1,
+        "sonuclanan": 1
       }
     ],
     "dun": {
