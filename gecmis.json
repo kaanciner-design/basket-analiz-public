@@ -1,7 +1,85 @@
 {
-  "guncelleme_utc": "2026-11-24T12:23:17Z",
-  "mac_sayisi": 28,
+  "guncelleme_utc": "2026-11-24T18:41:21Z",
+  "mac_sayisi": 30,
   "maclar": [
+    {
+      "mac_id": "d563569f19780b306d14d3c29b67f3bf",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Kızılyıldız",
+      "deplasman": "Virtus Bologna",
+      "baslama_utc": "2026-11-24T18:00:00Z",
+      "gece": "2026-11-24",
+      "olasiliklar": {
+        "1": 0.7569,
+        "2": 0.2431
+      },
+      "tahmin": "1",
+      "guven": 0.5138,
+      "sayi": {
+        "toplam": 172.5,
+        "toplam_kaynak": 15,
+        "fark": 8.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 90,
+        "dep_sayi": 82
+      },
+      "ai_metin": "Kızılyıldız, Virtus Bologna karşısında %76'lık olasılıkla belirgin bir favori konumunda. Beklenen toplam sayının yaklaşık 172 ve farkın Kızılyıldız lehine 8 civarında olması, maçın tempolu ama kontrolü ev sahibinde olan bir senaryoya işaret ediyor. Virtus'un %24'lük olasılığı, son çeyreğe kadar yakın kalabileceği bir maçı da akla getiriyor. Bununla birlikte sürpriz ihtimali %24 olup düşük sayılmaz, ama ana beklenti Kızılyıldız'ın rahat bir galibiyeti yönünde.",
+      "ai_metinler": {
+        "en": "Kızılyıldız is a clear favorite against Virtus Bologna with a 76% probability. An expected total of around 172 points and a margin of roughly 8 points in Kızılyıldız's favor point to a scenario where the game is fast-paced but under the control of the home side. Virtus's 24% probability also suggests a game that could stay close until the final quarter. That said, the upset probability of 24% is not low, but the main expectation is a comfortable win for Kızılyıldız.",
+        "es": "Kızılyıldız, Virtus Bologna karşısında %76 olasılıkla belirgin bir favori konumunda. Beklenen toplam sayının yaklaşık 172 ve farkın Kızılyıldız lehine 8 civarında olması, maçın tempolu ama kontrolü ev sahibinde olan bir senaryoya işaret ediyor. Virtus'un %24 olasılığı, son çeyreğe kadar yakın kalabileceği bir maçı da akla getiriyor. Bununla birlikte sürpriz ihtimali %24 olup düşük sayılmaz, ama ana beklenti Kızılyıldız'ın rahat bir galibiyeti yönünde.",
+        "de": "Kızılyıldız liegt im Spiel gegen Virtus Bologna mit einer Wahrscheinlichkeit von 76% klar als Favorit vorne. Die erwarteten total points von etwa 172 und ein Vorsprung von rund 8 Punkten für Kızılyıldız deuten auf ein Szenario hin, in dem das Spiel zwar tempo­reich verläuft, die Kontrolle aber beim Gastgeber liegt. Die Wahrscheinlichkeit von 24% für Virtus lässt auch ein Spiel denkbar erscheinen, das bis ins letzte Viertel eng bleibt. Dennoch ist eine Überraschung mit 24% keineswegs unwahrscheinlich, die Haupterwartung geht jedoch in Richtung eines souveränen Siegs von Kızılyıldız.",
+        "fr": "Kızılyıldız, Virtus Bologna karşısında 76 % olasılıkla belirgin bir favori konumunda. Beklenen total points yaklaşık 172 ve farkın Kızılyıldız lehine 8 civarında olması, maçın tempolu ama kontrolü ev sahibinde olan bir senaryoya işaret ediyor. Virtus'un 24 % olasılığı, son çeyreğe kadar yakın kalabileceği bir maçı da akla getiriyor. Bununla birlikte bir sürpriz ihtimali 24 % olup düşük sayılmaz, ama ana beklenti Kızılyıldız'ın rahat bir galibiyeti yönünde.",
+        "it": "Kızılyıldız, Virtus Bologna karşısında %76 olasılıkla belirgin bir favori konumunda. Beklenen total points yaklaşık 172 ve farkın Kızılyıldız lehine 8 civarında olması, maçın tempolu ama kontrolü ev sahibinde olan bir senaryoya işaret ediyor. Virtus'un %24 olasılığı, son çeyreğe kadar yakın kalabileceği bir maçı da akla getiriyor. Bununla birlikte sürpriz ihtimali %24 olup düşük sayılmaz, ama ana beklenti Kızılyıldız'ın rahat bir galibiyeti yönünde.",
+        "pt": "Kızılyıldız, Virtus Bologna karşısında %76 de probabilidade é claramente o grande favorito. O total de pontos esperado de cerca de 172 e a diferença de aproximadamente 8 pontos a favor do Kızılyıldız apontam para um cenário de jogo intenso, mas com o controle nas mãos do mandante. A probabilidade de 24% da Virtus sugere que a partida pode permanecer equilibrada até o último quarto. Ainda assim, a chance de surpresa de 24% não é baixa, mas a expectativa principal é de uma vitória tranquila do Kızılyıldız."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3e065ed32915a4afefae3a851f6df12a",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Beşiktaş",
+      "deplasman": "Paris",
+      "baslama_utc": "2026-11-24T17:00:00Z",
+      "gece": "2026-11-24",
+      "olasiliklar": {
+        "1": 0.5029,
+        "2": 0.4971
+      },
+      "tahmin": "1",
+      "guven": 0.0058,
+      "sayi": {
+        "toplam": 183.5,
+        "toplam_kaynak": 15,
+        "fark": 1.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 92,
+        "dep_sayi": 91
+      },
+      "ai_metin": "Beşiktaş ile Paris karşılaşmasında tablo oldukça dengeli; ev sahibi Beşiktaş yalnızca çok hafif önde, iki takımın da %50 kazanma olasılığı var. Beklenen toplam sayı yaklaşık 184 ve Beşiktaş'ın beklenen üstünlüğü yaklaşık 2 sayı, bu da son dakikalara kadar süren, çekişmeli ve sayı bol bir maç senaryosuna işaret ediyor. Kaynakların favori konusunda alışılmadık ölçüde hemfikir olması, mevcut dengeyi dikkate değer biçimde kuvvetlendiriyor. Sürpriz ihtimali, kazanma olasılıkları gereği, karşı tarafın da eşit şansa sahip olması nedeniyle bu maçta gündemde.",
+      "ai_metinler": {
+        "en": "The matchup between Beşiktaş and Paris is very balanced; the home side Beşiktaş is only slightly ahead, with both teams having a 50% probability of winning. The expected total points is around 184, and Beşiktaş's expected advantage is about 2 points, which points to a close, competitive, high-scoring game that could go down to the final minutes. The sources' unusually strong agreement on who is the favorite significantly strengthens this current balance. Given the win probabilities, the chance of an upset is on the table in this match, since the other side also has an equal chance.",
+        "es": "El enfrentamiento entre Beşiktaş y Paris muestra un panorama bastante equilibrado: el local Beşiktaş está solo ligeramente por delante, y ambos equipos tienen un 50% de probabilidad de ganar. El total de puntos esperado es de aproximadamente 184, y la ventaja esperada de Beşiktaş es de unos 2 puntos, lo que apunta a un partido reñido, con muchos puntos y que se decidirá hasta los últimos minutos. El hecho de que las fuentes coincidan de forma inusualmente clara en quién es el favorito refuerza notablemente este equilibrio. La posibilidad de una sorpresa también está presente en este partido, ya que, dadas las probabilidades de victoria, el rival tiene las mismas opciones.",
+        "de": "Die Ausgangslage im Spiel zwischen Beşiktaş und Paris ist sehr ausgeglichen: Der Gastgeber Beşiktaş liegt nur ganz leicht vorn, und beide Teams haben eine Siegwahrscheinlichkeit von 50%. Die erwarteten total points liegen bei etwa 184, und der erwartete Vorsprung für Beşiktaş beträgt rund 2 Punkte. Das deutet auf ein enges, umkämpftes und punktereiches Spiel hin, das bis in die letzten Minuten offen bleibt. Dass sich die Quellen ungewöhnlich einig darüber sind, wer der Favorit ist, stärkt diese ausgeglichene Einschätzung deutlich. Eine Überraschung ist in diesem Spiel daher durchaus denkbar, denn bei gleichen Siegwahrscheinlichkeiten hat auch die Gegenseite dieselbe Chance.",
+        "fr": "Le match entre Beşiktaş et Paris présente un équilibre très serré : l'équipe à domicile, Beşiktaş, n'a qu'une très légère avance, et les deux formations ont chacune une probabilité de victoire de 50 %. Le total de points attendu est d'environ 184, et l'avance attendue de Beşiktaş d'environ 2 points, ce qui laisse présager un match disputé, serré jusqu'aux dernières minutes et riche en points. Le fait que les sources soient exceptionnellement d'accord sur le favori renforce notablement cet équilibre. La surprise reste d'actualité dans cette rencontre, puisque les deux équipes ont des chances égales de l'emporter.",
+        "it": "La partita tra Beşiktaş e Paris è molto equilibrata: la squadra di casa, Beşiktaş, è solo leggermente avanti, con una probabilità di vittoria del 50% per entrambe le squadre. Il totale di punti previsto è di circa 184, mentre il vantaggio atteso per il Beşiktaş è di circa 2 punti, il che suggerisce uno scenario di partita combattuta, ricca di punti e decisa solo negli ultimi minuti. Il fatto che le fonti concordino in modo insolito sul fatto che una squadra sia favorita rafforza notevolmente questo equilibrio. La possibilità di una sorpresa è concreta in questa partita, dato che entrambe le squadre hanno le stesse probabilità di vittoria.",
+        "pt": "O confronto entre Beşiktaş e Paris apresenta um cenário bastante equilibrado; o mandante Beşiktaş está apenas levemente à frente, com ambas as equipes tendo 50% de probabilidade de vitória. O total de pontos esperado é de aproximadamente 184, e a vantagem esperada do Beşiktaş é de cerca de 2 pontos, o que aponta para um jogo disputado, com muitos pontos e decidido até os minutos finais. O fato de as fontes concordarem de forma incomum quanto ao favorito reforça de maneira notável o equilíbrio atual. A possibilidade de surpresa está em discussão nesta partida, já que, dadas as probabilidades de vitória, a outra equipe também tem chances iguais."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "3e9dc52cb055c0154839c4aec417955b",
       "lig": "basketball_nba",
