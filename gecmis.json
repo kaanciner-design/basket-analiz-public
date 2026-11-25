@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-25T05:28:59Z",
+  "guncelleme_utc": "2026-11-25T12:23:25Z",
   "mac_sayisi": 37,
   "maclar": [
     {
@@ -32,13 +32,30 @@
         "it": "I Denver Nuggets appaiono i chiari favoriti della partita, con una probabilità del 72% di vittoria grazie al vantaggio del campo di gioco. Il totale punti atteso di 234 è nettamente superiore alla media storica di 226, il che indica uno scenario di gara veloce e ricca di punti. La differenza attesa di 8 punti suggerisce che Denver potrebbe gestire la partita in larga misura. Il fatto che Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic non sembrino destinati a scendere in campo rafforza questo quadro. Tuttavia, la probabilità del 28% per Dallas non è trascurabile: la partita potrebbe restare in equilibrio fino all'ultimo quarto.",
         "pt": "O Denver Nuggets aparece como o claro favorito do jogo, com 72% de probabilidade de vitória, impulsionada pela vantagem de jogar em casa. O total de pontos esperado é 234, bem acima da média de 226 do arquivo histórico, o que aponta para um cenário de jogo acelerado e com muitos pontos. A diferença esperada de 8 pontos sugere que o Denver deve conseguir controlar a partida em grande medida. Com a ausência prevista de Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic no Dallas, esse quadro se sustenta. Ainda assim, a probabilidade de 28% para o Dallas não é baixa, e a partida pode permanecer equilibrada até o último quarto."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "101-120",
+      "toplam": 221,
+      "fark": -19,
+      "periyotlar": [
+        [
+          17,
+          24
+        ],
+        [
+          22,
+          34
+        ],
+        [
+          38,
+          26
+        ],
+        [
+          24,
+          36
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {

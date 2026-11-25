@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-25T05:28:59Z",
+  "guncelleme_utc": "2026-11-25T12:23:25Z",
   "slot": "sabah",
   "mac_sayisi": 13,
   "maclar": [
@@ -70,7 +70,7 @@
       "dinlenme": null,
       "ai_metin": null,
       "ai_metinler": null,
-      "kilit_utc": "2026-11-25T08:15:00Z",
+      "kilit_utc": "2026-11-25T12:23:25Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -94,7 +94,7 @@
       "dinlenme": null,
       "ai_metin": null,
       "ai_metinler": null,
-      "kilit_utc": "2026-11-25T08:15:00Z",
+      "kilit_utc": "2026-11-25T12:23:25Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -118,7 +118,7 @@
       "dinlenme": null,
       "ai_metin": null,
       "ai_metinler": null,
-      "kilit_utc": "2026-11-25T08:15:00Z",
+      "kilit_utc": "2026-11-25T12:23:25Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -1396,99 +1396,55 @@
     }
   ],
   "en_guclu_3": {
-    "gunler": [
-      {
-        "tarih": "2026-11-24",
-        "maclar": [
-          {
-            "mac_id": "3167a4072c65c9314c71d0fe49be8e28",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Washington Wizards",
-            "deplasman": "Boston Celtics",
-            "baslama_utc": "2026-11-25T01:10:00Z",
-            "tahmin": "2",
-            "olasilik": 0.7827,
-            "guven": 0.5654,
-            "skor": "116-131",
-            "tuttu": true
-          },
-          {
-            "mac_id": "6bfadbd22ed8a054cf82ec1b12b78243",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Denver Nuggets",
-            "deplasman": "Dallas Mavericks",
-            "baslama_utc": "2026-11-25T03:10:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7212,
-            "guven": 0.4424,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "0f9b0defd0a6c9603d7c70e7962bb628",
-            "lig": "basketball_euroleague",
-            "ev_sahibi": "Barcelona",
-            "deplasman": "Fenerbahçe",
-            "baslama_utc": "2026-11-24T20:00:00Z",
-            "tahmin": "2",
-            "olasilik": 0.6172,
-            "guven": 0.2344,
-            "skor": "77-83",
-            "tuttu": true
-          }
-        ],
-        "tutan": 2,
-        "sonuclanan": 2
-      }
-    ],
+    "gunler": [],
     "dun": {
-      "tarih": "2026-11-23",
+      "tarih": "2026-11-24",
       "maclar": [
         {
-          "mac_id": "3e9dc52cb055c0154839c4aec417955b",
+          "mac_id": "3167a4072c65c9314c71d0fe49be8e28",
           "lig": "basketball_nba",
-          "ev_sahibi": "Los Angeles Lakers",
-          "deplasman": "Utah Jazz",
-          "baslama_utc": "2026-11-24T03:10:00Z",
-          "tahmin": "1",
-          "olasilik": 0.8511,
-          "guven": 0.7022,
-          "skor": "109-94",
+          "ev_sahibi": "Washington Wizards",
+          "deplasman": "Boston Celtics",
+          "baslama_utc": "2026-11-25T01:10:00Z",
+          "tahmin": "2",
+          "olasilik": 0.7827,
+          "guven": 0.5654,
+          "skor": "116-131",
           "tuttu": true
         },
         {
-          "mac_id": "db2311c331296d3328d71b842167dea4",
+          "mac_id": "6bfadbd22ed8a054cf82ec1b12b78243",
           "lig": "basketball_nba",
-          "ev_sahibi": "Houston Rockets",
-          "deplasman": "Los Angeles Clippers",
-          "baslama_utc": "2026-11-24T01:40:00Z",
+          "ev_sahibi": "Denver Nuggets",
+          "deplasman": "Dallas Mavericks",
+          "baslama_utc": "2026-11-25T03:10:00Z",
           "tahmin": "1",
-          "olasilik": 0.8283,
-          "guven": 0.6566,
-          "skor": "116-104",
-          "tuttu": true
+          "olasilik": 0.7212,
+          "guven": 0.4424,
+          "skor": "101-120",
+          "tuttu": false
         },
         {
-          "mac_id": "a72a1703f7a92b80768255d1d977a761",
-          "lig": "basketball_nba",
-          "ev_sahibi": "Minnesota Timberwolves",
-          "deplasman": "Brooklyn Nets",
-          "baslama_utc": "2026-11-24T00:40:00Z",
-          "tahmin": "1",
-          "olasilik": 0.8096,
-          "guven": 0.6192,
-          "skor": "142-116",
+          "mac_id": "0f9b0defd0a6c9603d7c70e7962bb628",
+          "lig": "basketball_euroleague",
+          "ev_sahibi": "Barcelona",
+          "deplasman": "Fenerbahçe",
+          "baslama_utc": "2026-11-24T20:00:00Z",
+          "tahmin": "2",
+          "olasilik": 0.6172,
+          "guven": 0.2344,
+          "skor": "77-83",
           "tuttu": true
         }
       ],
-      "tutan": 3,
+      "tutan": 2,
       "sonuclanan": 3
     },
     "genel": {
-      "gun": 3,
+      "gun": 4,
       "tam_isabet_gun": 1,
-      "tahmin": 9,
-      "tutan": 7
+      "tahmin": 12,
+      "tutan": 9
     }
   },
   "lig_ortalamalari": {
