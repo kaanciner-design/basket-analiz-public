@@ -1,7 +1,124 @@
 {
-  "guncelleme_utc": "2026-11-25T18:38:06Z",
-  "mac_sayisi": 38,
+  "guncelleme_utc": "2026-11-25T21:46:22Z",
+  "mac_sayisi": 41,
   "maclar": [
+    {
+      "mac_id": "b9ad9b132e4fd83592ee6cb62ea5cd46",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Real Madrid",
+      "deplasman": "Žalgiris",
+      "baslama_utc": "2026-11-25T19:45:00Z",
+      "gece": "2026-11-25",
+      "olasiliklar": {
+        "1": 0.7131,
+        "2": 0.2869
+      },
+      "tahmin": "1",
+      "guven": 0.4262,
+      "sayi": {
+        "toplam": 179.5,
+        "toplam_kaynak": 15,
+        "fark": 7.5,
+        "fark_kaynak": 13,
+        "ev_sayi": 94,
+        "dep_sayi": 86
+      },
+      "ai_metin": "Real Madrid, ev sahibi avantajıyla Žalgiris karşısında net favori: kazanma olasılığı %71, Žalgiris'in ise %29. Beklenen toplam sayı yaklaşık 180 ve beklenen fark Real Madrid lehine 8 sayı; bu tablo, sayı akışının yüksek olduğu ama ev sahibinin kontrolü elinde tuttuğu bir senaryoya işaret ediyor. Veri kaynaklarının büyük çoğunluğunun bu favoriyi desteklemesi tahmine ayrı bir güven katıyor; ancak geçmişte bu güven düzeyindeki tahminlerimiz 17 maçta %65 isabet etti, bu da olasılık hesabının beklediğinden biraz düşük bir sonuç. Sürpriz ihtimali %29 olduğu için göz ardı edilemez, ancak Žalgiris'in galibiyeti bu veriye göre beklenen bir sonuç değil.",
+      "ai_metinler": {
+        "en": "Real Madrid is the clear favorite against Žalgiris thanks to home-court advantage: win probability 71% for Real Madrid and 29% for Žalgiris. The expected total points is around 180, and the expected margin is 8 points in favor of Real Madrid. This picture points to a scenario with high scoring, in which the home side is still in control of the game. The large majority of data sources support this favorite, which adds separate confidence to the prediction. However, our predictions at this confidence level have hit 65% of the time over 17 matches, a result slightly lower than the probability calculation would lead us to expect. Because the upset probability is 29%, it cannot be ignored, but according to this data, a Žalgiris win is not the expected outcome.",
+        "es": "Real Madrid, ev sahibi avantajıyla Žalgiris karşısında net favori: kazanma probabilidad del 71%, Žalgiris'in ise 29%. El total de puntos esperado es de aproximadamente 180 y la diferencia esperada es de 8 puntos a favor de Real Madrid; este escenario apunta a una situación de muchos puntos anotados, pero en la que el local mantiene el control del partido. El respaldo de la gran mayoría de las fuentes de datos a este favorito añade confianza a la predicción; sin embargo, nuestras predicciones con este nivel de confianza en el pasado acertaron en el 65% de 17 partidos, lo que resulta algo inferior a lo que indica el cálculo de probabilidad. Como la probabilidad de sorpresa es del 29%, no puede descartarse, pero según estos datos la victoria de Žalgiris no es un resultado esperado.",
+        "de": "Real Madrid ist mit Heimvorteil klarer Favorit gegen Žalgiris: Die Wahrscheinlichkeit für einen Sieg liegt bei 71%, für Žalgiris bei 29%. Die erwartete Gesamtpunktzahl beträgt etwa 180 und der erwartete Abstand zugunsten von Real Madrid 8 Punkte; dieses Bild deutet auf ein Szenario mit hohem Punktefluss hin, in dem der Gastgeber die Kontrolle behält. Dass die große Mehrheit der Datenquellen diesen Favoriten stützt, verleiht der Einschätzung zusätzliches Vertrauen. Allerdings traf unsere Prognose bei vergleichbarem Vertrauensniveau in der Vergangenheit in 17 Spielen zu 65% zu, was etwas niedriger ist, als die Wahrscheinlichkeitsberechnung erwarten ließ. Da die Überraschungswahrscheinlichkeit von 29% nicht zu vernachlässigen ist, bleibt ein Sieg von Žalgiris möglich, gilt laut diesen Daten aber nicht als erwartetes Ergebnis.",
+        "fr": "Real Madrid part en net favori face au Žalgiris grâce à l'avantage du terrain : probabilité de victoire de 71 %, contre 29 % pour le Žalgiris. Le total de points attendu est d'environ 180, avec un écart prévu de 8 points en faveur du Real Madrid ; ce scénario laisse entrevoir un match à fort rythme offensif, où l'équipe à domicile garde le contrôle. La grande majorité des sources de données soutient ce favori, ce qui renforce la confiance accordée à cette prévision. Cependant, nos prévisions de ce niveau de confiance ont atteint 65 % de réussite sur 17 matchs, un résultat légèrement inférieur à ce que le calcul de probabilité laissait espérer. Une surprise reste possible avec une probabilité de 29 %, elle ne doit donc pas être écartée, mais une victoire du Žalgiris n'est pas, selon ces données, le résultat attendu.",
+        "it": "Real Madrid, ev sahibi avantajıyla Žalgiris karşısında net favori: kazanma probability %71, Žalgiris'in ise %29. Beklenen total points yaklaşık 180 ve beklenen fark Real Madrid lehine 8 sayı; bu tablo, sayı akışının yüksek olduğu ama ev sahibinin kontrolü elinde tuttuğu bir senaryoya işaret ediyor. Veri kaynaklarının büyük çoğunluğunun bu favoriyi desteklemesi tahmine ayrı bir güven katıyor; ancak geçmişte bu güven düzeyindeki tahminlerimiz 17 maçta %65 isabet etti, bu da probability hesabının beklediğinden biraz düşük bir sonuç. Sürpriz ihtimali %29 olduğu için göz ardı edilemez, ancak Žalgiris'in galibiyeti bu veriye göre beklenen bir sonuç değil.",
+        "pt": "Real Madrid, mandante, é o franco favorito contra o Žalgiris: probabilidade de vitória de 71% para o Real Madrid e de 29% para o Žalgiris. O total de pontos esperado é de cerca de 180, e a diferença esperada é de 8 pontos a favor do Real Madrid; esse cenário aponta para um jogo de muitos pontos, mas com o mandante no controle. A grande maioria das fontes de dados apoia esse favoritismo, o que acrescenta confiança à projeção. No entanto, em jogos anteriores com esse nível de confiança, nossas previsões acertaram 65% das 17 partidas, um resultado um pouco abaixo do esperado pelo cálculo de probabilidade. A chance de surpresa, de 29%, não pode ser descartada, mas, segundo esses dados, a vitória do Žalgiris não é um resultado esperado."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c9a675960fa0ad6070fe3e6b378809a0",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Baskonia",
+      "deplasman": "Anadolu Efes",
+      "baslama_utc": "2026-11-25T19:30:00Z",
+      "gece": "2026-11-25",
+      "olasiliklar": {
+        "1": 0.4622,
+        "2": 0.5378
+      },
+      "tahmin": "2",
+      "guven": 0.0756,
+      "sayi": {
+        "toplam": 173.5,
+        "toplam_kaynak": 15,
+        "fark": -1.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 86,
+        "dep_sayi": 88
+      },
+      "ai_metin": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen toplam sayı yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, olasılıklara yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz.",
+      "ai_metinler": {
+        "en": "Anadolu Efes has a slight edge on the road, but the match looks quite balanced: 54% versus 46%, with no clear difference. The expected total points is around 174, and since the point difference is only 2, the game is expected to stay close until the final quarter and be played at a fast pace. In the given context, past predictions at this confidence level have been right 58% of the time across 12 matches, which is close to what the probabilities would suggest. The chance of an upset is 46%, which is not low, so a Baskonia win would not be surprising.",
+        "es": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen total points yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, probabilidades'e yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz.",
+        "de": "Anadolu Efes hat auswärts einen leichten Vorteil, doch die Partie wirkt insgesamt sehr ausgeglichen: 54% gegenüber 46% ergeben keinen deutlichen Unterschied. Die erwartete Gesamtpunktzahl liegt bei etwa 174 und der Punkteunterschied bei nur 2, weshalb erwartet wird, dass das Spiel bis ins letzte Viertel eng bleibt und in einem hohen Tempo verläuft. Im gegebenen Kontext zeigen frühere Einschätzungen mit diesem Vertrauensniveau eine Trefferquote von 58% in 12 Spielen; das liegt nahe an der Wahrscheinlichkeit. Eine Überraschung ist mit 46% nicht unwahrscheinlich, daher wäre ein Sieg von Baskonia nicht überraschend.",
+        "fr": "Anadolu Efes, à l'extérieur, possède un léger avantage, mais le match semble très équilibré : 54 % contre 46 %, sans écart marqué. Le total de points attendu est d'environ 174 et l'écart de points n'est que de 2, on peut donc s'attendre à un match serré jusqu'au dernier quart-temps, avec un rythme soutenu. Dans ce contexte, les prédictions passées de ce niveau de confiance ont atteint 58 % de réussite sur 12 matchs, ce qui correspond à une performance proche des probabilités annoncées. La probabilité d'une surprise, à 46 %, n'est pas négligeable ; une victoire de Baskonia ne serait donc pas surprenante.",
+        "it": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen total points yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, olasılıklara yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz.",
+        "pt": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen total points yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, olasılıklara yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a1ee21718811e522957cf904fb3ec31f",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Olympiakos",
+      "deplasman": "Hapoel Tel Aviv",
+      "baslama_utc": "2026-11-25T19:15:00Z",
+      "gece": "2026-11-25",
+      "olasiliklar": {
+        "1": 0.6884,
+        "2": 0.3116
+      },
+      "tahmin": "1",
+      "guven": 0.3768,
+      "sayi": {
+        "toplam": 169.5,
+        "toplam_kaynak": 15,
+        "fark": 6.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 88,
+        "dep_sayi": 82
+      },
+      "ai_metin": "Olympiakos, Hapoel Tel Aviv karşısında belirgin biçimde önde: %69'luk kazanma olasılığı ve yaklaşık 6 sayılık beklenen fark, ev sahibinin rahat ama son ana kadar sürebilecek bir galibiyete yaklaştığını gösteriyor. Yaklaşık 170 sayılık beklenen toplam sayı, maçın yüksek tempolu ve sayı bol bir akışa işaret ettiğini düşündürüyor. Deplasmandaki %31'lik ihtimal ise dikkate değer olsa da, sürprize dönüşme olasılığı sınırlı kalıyor.",
+      "ai_metinler": {
+        "en": "Olympiacos holds a clear lead over Hapoel Tel Aviv: a 69% probability of winning and an expected margin of about 6 points, suggesting the home side is headed for a comfortable win that could still stay close until the final minutes. The expected total points of about 170 point to a high-tempo, high-scoring game. The 31% probability for the away side is notable, but the chance of an upset remains limited.",
+        "es": "Olympiakos, Hapoel Tel Aviv karşısında belirgin biçimde önde: %69 kazanma olasılığı ve yaklaşık 6 sayılık beklenen fark, ev sahibinin rahat ama son ana kadar sürebilecek bir galibiyete yaklaştığını gösteriyor. Yaklaşık 170 sayılık beklenen total puntos, maçın yüksek tempolu ve sayı bol bir akışa işaret ettiğini düşündürüyor. Deplasmandaki %31 ihtimal ise dikkate değer olsa da, sürprize dönüşme olasılığı sınırlı kalıyor.",
+        "de": "Olympiakos liegt deutlich vorn: Die Wahrscheinlichkeit für einen Sieg beträgt 69%, und der erwartete Vorsprung liegt bei etwa 6 Punkten. Das deutet auf einen souveränen Heimsieg hin, der aber bis zur letzten Minute offen bleiben könnte. Die erwartete Gesamtpunktzahl von rund 170 Punkten spricht für ein temporeiches, torreiches Spiel mit vielen Punkten auf beiden Seiten. Die Wahrscheinlichkeit von 31% für Hapoel Tel Aviv auswärts ist bemerkenswert, bleibt aber insgesamt begrenzt, was eine Überraschung angeht.",
+        "fr": "Olympiacos est nettement favori face à Hapoël Tel-Aviv : une probabilité de victoire de 69 % et un écart attendu d'environ 6 points indiquent une victoire confortable pour l'équipe à domicile, mais qui pourrait rester incertaine jusqu'au dernier instant. Un total de points attendu d'environ 170 laisse penser à un match à rythme élevé et riche en points. La probabilité de 31 % pour l'équipe visiteuse reste notable, mais la probabilité d'une surprise demeure limitée.",
+        "it": "Olympiakos, Hapoel Tel Aviv karşısında belirgin biçimde önde: %69 kazanma olasılığı ve yaklaşık 6 sayılık beklenen fark, ev sahibinin rahat ama son ana kadar sürebilecek bir galibiyete yaklaştığını gösteriyor. Yaklaşık 170 sayılık beklenen total points, maçın yüksek tempolu ve sayı bol bir akışa işaret ettiğini düşündürüyor. Deplasmandaki %31'lik ihtimal ise dikkate değer olsa da, sürprize dönüşme olasılığı sınırlı kalıyor.",
+        "pt": "O Olympiacos está claramente à frente contra o Hapoel Tel Aviv: uma probabilidade de vitória de 69% e uma diferença esperada de cerca de 6 pontos indicam que o time da casa deve conquistar uma vitória tranquila, embora ainda possa ser disputada até o último momento. Um total de pontos esperado de cerca de 170 sugere um jogo de ritmo intenso e muitos pontos. Já a probabilidade de 31% para o visitante é relevante, mas a chance de uma zebra segue limitada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "40589eed5e6894d5b8598ee721b9d57b",
       "lig": "basketball_euroleague",
@@ -32,13 +149,30 @@
         "it": "Dubai sahada Partizan karşısında belirgin biçimde önde görünüyor; %70'lik ev sahibi olasılığı, maçın büyük ölçüde Dubai'nin kontrolünde geçeceğine işaret ediyor. Yaklaşık 164 toplam sayı ve Dubai lehine 6 sayılık beklenen fark, tempolu ama son çeyreğe kadar takip edilebilir bir senaryoyu düşündürüyor. Partizan'ın %30'luk ihtimali göz ardı edilmemeli, ancak sürpriz olasılığı yine de sınırlı kalıyor.",
         "pt": "Dubai contra o Partizan parece estar claramente à frente; a probabilidade de 70% de vitória do mandante indica que a partida deve ser controlada em grande parte pelo Dubai. Um total de cerca de 164 pontos e uma diferença esperada de 6 pontos a favor do Dubai sugerem um cenário de ritmo intenso, mas que pode ser acompanhado com facilidade até o último quarto. A probabilidade de 30% do Partizan não deve ser ignorada, porém a chance de uma surpresa continua limitada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "71-84",
+      "toplam": 155,
+      "fark": -13,
+      "periyotlar": [
+        [
+          18,
+          17
+        ],
+        [
+          22,
+          20
+        ],
+        [
+          22,
+          21
+        ],
+        [
+          9,
+          26
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
