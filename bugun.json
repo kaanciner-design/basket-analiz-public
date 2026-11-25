@@ -1,156 +1,8 @@
 {
-  "guncelleme_utc": "2026-11-25T21:46:22Z",
+  "guncelleme_utc": "2026-11-25T23:17:22Z",
   "slot": "aksam",
-  "mac_sayisi": 9,
+  "mac_sayisi": 8,
   "maclar": [
-    {
-      "mac_id": "4f6d199bb67cf3a517a3880fd2f00b26",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Philadelphia 76ers",
-      "deplasman": "Miami Heat",
-      "baslama_utc": "2026-11-25T22:10:00Z",
-      "gece": "2026-11-25",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5236,
-        "2": 0.4764
-      },
-      "tahmin": "1",
-      "guven": 0.0472,
-      "sayi": {
-        "toplam": 237.5,
-        "toplam_kaynak": 16,
-        "fark": 1.5,
-        "fark_kaynak": 14,
-        "ev_sayi": 120,
-        "dep_sayi": 118
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 1,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 2,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "76ers, Heat karşısında hafif bir üstünlükle maça giriyor: %52'ye %48 gibi dengeli bir tablo var. Beklenen toplam sayı yaklaşık 238, bu da arşivimizdeki 31 NBA maçının ortalaması olan 225'in belirgin üzerinde; tempolu, sayı bol bir karşılaşma beklenebilir. Beklenen fark yaklaşık 2 sayı olduğu için son çeyreğe kadar çekişmeli bir maç ihtimali yüksek. Ariel Hukporti'nin sakatlık listesinde oynamayacak görünmesi 76ers açısından dikkat edilmesi gereken bir not. Sürpriz ihtimali yaklaşık %48 olduğundan, Heat'in galibiyeti de oldukça gerçekçi bir senaryo.",
-      "ai_metinler": {
-        "en": "The 76ers enter the game with a slight edge over the Heat: a balanced picture of roughly 52% to 48%. The expected total points is about 238, clearly above the 225 average from our archive of 31 NBA games, so a fast-paced, high-scoring game can be expected. With the expected margin at around 2 points, a close contest that stays undecided until the final quarter is a strong possibility. Ariel Hukporti appearing unlikely to play due to injury is a note the 76ers will need to watch closely. Since the probability of an upset is about 48%, a Heat win is also a very realistic scenario.",
-        "es": "Los 76ers salen al partido con una ligera ventaja frente al Heat: un panorama equilibrado de 52% contra 48%. El total de puntos esperado es de aproximadamente 238, lo que supera de forma clara el promedio de 225 de los 31 partidos de la NBA de nuestro archivo; cabe esperar un encuentro dinámico y con muchos puntos. Como la diferencia esperada es de unos 2 puntos, existe una alta probabilidad de que el partido se mantenga reñido hasta el último cuarto. Que Ariel Hukporti aparezca en la lista de lesionados y no vaya a jugar es un detalle que los 76ers deben tener en cuenta. Dado que la probabilidad de sorpresa es de aproximadamente 48%, una victoria del Heat también es un escenario bastante realista.",
-        "de": "76ers geht mit einem leichten Vorteil gegen den Heat in die Partie: Die Wahrscheinlichkeiten sind mit 52% zu 48% ausgeglichen. Die erwartete Gesamtpunktzahl liegt bei etwa 238, was deutlich über dem Durchschnitt von 225 aus den 31 NBA-Spielen in unserem Archiv liegt; ein temporeiches, punktereiches Duell ist also zu erwarten. Da der erwartete Abstand bei etwa 2 Punkten liegt, ist eine bis zum letzten Viertel offene Partie sehr wahrscheinlich. Ein wichtiger Hinweis für die 76ers ist, dass Ariel Hukporti laut Verletztenliste voraussichtlich nicht spielen wird. Die Wahrscheinlichkeit für eine Überraschung liegt bei etwa 48%, sodass ein Sieg des Heat ein durchaus realistisches Szenario ist.",
-        "fr": "Les 76ers abordent la rencontre face au Heat avec un léger avantage : le tableau est équilibré, avec environ 52 % contre 48 %. Le total de points attendu est d'environ 238, nettement au-dessus de la moyenne de 225 points relevée dans nos archives de 31 matchs NBA ; on peut donc s'attendre à une rencontre rapide et riche en points. L'écart attendu étant d'environ 2 points, la probabilité d'un match serré jusqu'au dernier quart-temps est élevée. Le fait qu'Ariel Hukporti ne semble pas en mesure de jouer, figurant sur la liste des blessés, est un point à surveiller pour les 76ers. La probabilité de surprise étant d'environ 48 %, une victoire du Heat constitue également un scénario tout à fait réaliste.",
-        "it": "I 76ers entrano in partita con un leggero vantaggio contro gli Heat: il quadro è equilibrato, con il 52% contro il 48%. Il totale punti atteso è di circa 238, nettamente superiore alla media di 225 delle nostre 31 partite NBA archiviate: ci si può aspettare un incontro veloce e ricco di punti. Poiché la differenza prevista è di circa 2 punti, è molto probabile una partita combattuta fino all'ultimo quarto. Il fatto che Ariel Hukporti risulti assente dall'elenco degli infortunati e non dovrebbe giocare è un dettaglio da tenere d'occhio per i 76ers. Con una probabilità di sorpresa di circa il 48%, anche una vittoria degli Heat è uno scenario decisamente realistico.",
-        "pt": "O 76ers entra no jogo contra o Heat com uma leve vantagem: um cenário equilibrado de 52% para 48%. O total de pontos esperado é de cerca de 238, bem acima da média de 225 de nossos 31 jogos da NBA arquivados, por isso pode-se esperar um confronto acelerado e com muitos pontos. Como a diferença esperada é de cerca de 2 pontos, é provável um jogo disputado até o último quarto. O fato de Ariel Hukporti aparecer na lista de lesionados e não dever jogar é um detalhe a ser observado pelo 76ers. Como a probabilidade de surpresa é de cerca de 48%, uma vitória do Heat também é um cenário bastante realista."
-      },
-      "kilit_utc": "2026-11-25T18:38:09Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-24",
-              "lig": "basketball_nba",
-              "rakip": "Portland Trail Blazers",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 128,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Milwaukee Bucks",
-              "ic_saha": true,
-              "atilan": 132,
-              "yenilen": 129,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 121.5,
-            "yenilen_ort": 128.5
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 121.5,
-            "yenilen_ort": 128.5
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Oklahoma City Thunder",
-              "ic_saha": true,
-              "atilan": 123,
-              "yenilen": 113,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 123.0,
-            "yenilen_ort": 113.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 123.0,
-            "yenilen_ort": 113.0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Joel Embiid",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Ariel Hukporti",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": []
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-24T18:41:21Z",
-        "son_utc": "2026-11-25T18:38:07Z",
-        "ilk": {
-          "1": 0.5876,
-          "2": 0.4124
-        },
-        "son": {
-          "1": 0.5236,
-          "2": 0.4764
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "87ce247fb83685389ca8ffb21be6cd3e",
       "lig": "basketball_nba",
@@ -310,6 +162,10 @@
           }
         ],
         "deplasman": [
+          {
+            "oyuncu": "Jalen Smith",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Norman Powell",
             "durum": "oynamayacak"
@@ -1300,6 +1156,10 @@
         ],
         "deplasman": [
           {
+            "oyuncu": "Zach LaVine",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Maxime Raynaud",
             "durum": "oynamayacak"
           },
@@ -1361,7 +1221,8 @@
         "es": "El equipo visitante, San Antonio Spurs, destaca ligeramente con una probabilidad de victoria del 57%; sin embargo, la probabilidad del 43% de Portland indica que el resultado podría mantenerse abierto hasta el último momento. Se espera un total de puntos de 226, muy cercano al promedio de nuestro archivo, que es de 225, por lo que se prevé un partido de ritmo alto pero dentro de las normas de la liga. La diferencia esperada de 2 puntos sugiere que la victoria podría llegar por un margen estrecho. Con Ja Morant y Shaedon Sharpe en la lista de lesionados de Portland, y Dylan Harper y Tobias Harris ausentes en San Antonio, el panorama en cuanto a plantillas se ve equilibrado. Una sorpresa no es improbable, ya que el 43% no es una cifra baja.",
         "fr": "Lors de ce match, l'équipe visiteuse San Antonio Spurs prend légèrement l'avantage avec une probabilité de victoire de 57 %, mais la part de 43 % de Portland montre que le résultat peut rester ouvert jusqu'au dernier instant. Le total de points attendu est de 226, très proche de la moyenne de nos archives, qui est de 225 ; on peut donc s'attendre à un match rythmé, dans les normes de la ligue. L'écart attendu de 2 points indique que la victoire pourrait se jouer sur une marge serrée. Avec Ja Morant et Shaedon Sharpe sur la liste des blessés côté Portland, et Dylan Harper et Tobias Harris absents côté Spurs, ce tableau apparaît équilibré sur le plan de l'effectif. Une surprise à 43 % ne saurait être considérée comme improbable.",
         "it": "La squadra in trasferta San Antonio Spurs è leggermente favorita nella partita con una probabilità del 57%, ma la quota del 43% per Portland indica che il risultato potrebbe restare aperto fino all'ultimo momento. Il totale di punti previsto è 226, molto vicino alla media del nostro archivio pari a 225, quindi ci si aspetta una partita ritmata ma nella norma del campionato. La differenza prevista di 2 punti suggerisce che la vittoria potrebbe arrivare con uno scarto ridotto. Con Ja Morant e Shaedon Sharpe nella lista degli infortunati per Portland e Dylan Harper e Tobias Harris assenti per San Antonio, il quadro appare equilibrato sul piano delle rose. Una sorpresa con probabilità del 43% non va considerata trascurabile.",
-        "pt": "O jogo tem o time visitante San Antonio Spurs levemente à frente, com 57% de probabilidade de vitória; ainda assim, a fatia de 43% do Portland mostra que o resultado pode permanecer em aberto até o último momento. O total de pontos esperado é 226, muito próximo da média do nosso arquivo, que é 225, então se espera uma partida acelerada, dentro dos padrões da liga. A diferença esperada de 2 pontos indica que a vitória pode vir por uma margem estreita. Com Ja Morant e Shaedon Sharpe na lista de lesionados do Portland, e Dylan Harper e Tobias Harris ausentes do Spurs, esse cenário parece equilibrado do ponto de vista do elenco. Uma zebra com 43% de probabilidade não deve ser considerada improvável."
+        "pt": "O jogo tem o time visitante San Antonio Spurs levemente à frente, com 57% de probabilidade de vitória; ainda assim, a fatia de 43% do Portland mostra que o resultado pode permanecer em aberto até o último momento. O total de pontos esperado é 226, muito próximo da média do nosso arquivo, que é 225, então se espera uma partida acelerada, dentro dos padrões da liga. A diferença esperada de 2 pontos indica que a vitória pode vir por uma margem estreita. Com Ja Morant e Shaedon Sharpe na lista de lesionados do Portland, e Dylan Harper e Tobias Harris ausentes do Spurs, esse cenário parece equilibrado do ponto de vista do elenco. Uma zebra com 43% de probabilidade não deve ser considerada improvável.",
+        "de": "Im Spiel liegt das Auswärtsteam San Antonio Spurs mit 57% Siegwahrscheinlichkeit leicht vorne; die 43%-Chance für Portland zeigt jedoch, dass das Ergebnis bis zur letzten Minute offen bleiben kann. Die erwartete Gesamtpunktzahl liegt bei 226 und damit sehr nahe am Archivdurchschnitt von 225, es ist also ein temporeiches, aber für die Liga normales Spiel zu erwarten. Der erwartete Abstand von 2 Punkten deutet darauf hin, dass ein Sieg knapp ausfallen könnte. Dass bei Portland Ja Morant und Shaedon Sharpe verletzt auf der Ausfallliste stehen und bei den Spurs Dylan Harper und Tobias Harris fehlen, lässt die Lage im Kader ausgeglichen erscheinen. Eine Überraschung ist bei 43% nicht als unwahrscheinlich einzustufen."
       },
       "kilit_utc": "2026-11-25T18:38:28Z",
       "form": {
@@ -1516,8 +1377,8 @@
             "tahmin": "1",
             "olasilik": 0.7131,
             "guven": 0.4262,
-            "skor": null,
-            "tuttu": null
+            "skor": "108-93",
+            "tuttu": true
           },
           {
             "mac_id": "698d6d78acf30f4ff4e4aaf6670249ee",
@@ -1532,8 +1393,8 @@
             "tuttu": null
           }
         ],
-        "tutan": 0,
-        "sonuclanan": 0
+        "tutan": 1,
+        "sonuclanan": 1
       }
     ],
     "dun": {
