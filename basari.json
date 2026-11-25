@@ -1,17 +1,17 @@
 {
-  "guncelleme_utc": "2026-11-24T23:17:15Z",
+  "guncelleme_utc": "2026-11-25T02:46:57Z",
   "toplam_tahmin": 34,
   "tutan": 21,
   "isabet_orani": 0.6176,
   "beklenen_isabet": 0.6795,
-  "sonuc_bekleyen": 3,
+  "sonuc_bekleyen": 4,
   "lig_bazinda": {
     "basketball_euroleague": {
       "toplam_tahmin": 6,
       "tutan": 2,
       "isabet_orani": 0.3333,
       "beklenen_isabet": 0.5892,
-      "sonuc_bekleyen": 0
+      "sonuc_bekleyen": 1
     },
     "basketball_nba": {
       "toplam_tahmin": 28,
@@ -34,7 +34,7 @@
       "tutan": 5,
       "isabet_orani": 0.625,
       "beklenen_isabet": 0.6372,
-      "sonuc_bekleyen": 0
+      "sonuc_bekleyen": 1
     },
     "0.40+": {
       "toplam_tahmin": 15,
@@ -58,7 +58,7 @@
         "tutan": 1,
         "isabet_orani": 0.5,
         "beklenen_isabet": 0.6119,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 1
       },
       "0.40+": {
         "toplam_tahmin": 1,
@@ -99,7 +99,7 @@
         "tutan": 21,
         "isabet_orani": 0.6176,
         "beklenen_isabet": 0.6795,
-        "sonuc_bekleyen": 3
+        "sonuc_bekleyen": 4
       },
       "0-0.20": {
         "toplam_tahmin": 11,
@@ -113,7 +113,7 @@
         "tutan": 5,
         "isabet_orani": 0.625,
         "beklenen_isabet": 0.6372,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 1
       },
       "0.40+": {
         "toplam_tahmin": 15,

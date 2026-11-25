@@ -1,7 +1,85 @@
 {
-  "guncelleme_utc": "2026-11-24T23:17:15Z",
-  "mac_sayisi": 34,
+  "guncelleme_utc": "2026-11-25T02:46:57Z",
+  "mac_sayisi": 36,
   "maclar": [
+    {
+      "mac_id": "3167a4072c65c9314c71d0fe49be8e28",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Washington Wizards",
+      "deplasman": "Boston Celtics",
+      "baslama_utc": "2026-11-25T01:10:00Z",
+      "gece": "2026-11-24",
+      "olasiliklar": {
+        "1": 0.2173,
+        "2": 0.7827
+      },
+      "tahmin": "2",
+      "guven": 0.5654,
+      "sayi": {
+        "toplam": 218.5,
+        "toplam_kaynak": 16,
+        "fark": -10.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 104,
+        "dep_sayi": 114
+      },
+      "ai_metin": "Boston Celtics, deplasmanda olmasına rağmen belirgin biçimde önde: kazanma olasılığı %78, Washington Wizards'ın ise %22. Beklenen toplam sayı 218 ile arşivimizdeki 226 ortalamanın altında kalıyor; bu da daha kontrollü, savunmanın öne çıktığı bir maç ihtimalini gösteriyor. Beklenen fark Boston lehine yaklaşık 10 sayı olduğundan, favorinin rahat bir galibiyete yönelmesi beklenebilir. Wizards'ta Tristan Vukcevic, Reece Beekman, Justin Champagnie ve Jamir Watkins'in, Celtics'te ise Mitchell Robinson'ın oynamaması bekleniyor. Yine de %22'lik sürpriz ihtimali düşük sayılmaz, ancak bu olasılık sınırlı.",
+      "ai_metinler": {
+        "en": "The Boston Celtics are clear favorites despite playing away from home: their probability of winning is 78%, while the Washington Wizards' is 22%. The expected total points is 218, which falls below our archived average of 226, pointing to a more controlled game where defense is likely to take center stage. With Boston projected to win by about 10 points, a comfortable victory for the favorite is the expected outcome. Tristan Vukcevic, Reece Beekman, Justin Champagnie and Jamir Watkins are not expected to play for the Wizards, nor is Mitchell Robinson for the Celtics. Still, a 22% chance of an upset is not negligible, although that probability remains limited.",
+        "es": "Boston Celtics, deplasmanda olmasına rağmen belirgiva biçimde önde: victoria probability %78, Washington Wizards için ise %22. Beklenen total points 218 ile arşivimizdeki 226 ortalamanın altında kalıyor; bu da daha kontrollü, savunmanın öne çıktığı bir maç ihtimalini gösteriyor. Beklenen fark Boston lehine yaklaşık 10 sayı olduğundan, favorinin rahat bir galibiyete yönelmesi beklenebilir. Wizards'ta Tristan Vukcevic, Reece Beekman, Justin Champagnie y Jamir Watkins'in, Celtics'te ise Mitchell Robinson'ın oynamaması bekleniyor. Yine de %22'lik sürpriz ihtimali düşük sayılmaz, ancak bu olasılık sınırlı.",
+        "de": "Boston Celtics liegen trotz des Auswärtsspiels deutlich vorn: Die Wahrscheinlichkeit für einen Sieg liegt bei 78 %, für die Washington Wizards bei 22 %. Die erwartete Gesamtpunktzahl liegt mit 218 unter dem Durchschnitt von 226 in unserem Archiv, was auf ein kontrollierteres Spiel mit starkem Fokus auf die Verteidigung hindeutet. Da der erwartete Vorsprung zugunsten von Boston etwa 10 Punkte beträgt, ist ein klarer Sieg des Favoriten zu erwarten. Es wird erwartet, dass Tristan Vukcevic, Reece Beekman, Justin Champagnie und Jamir Watkins bei den Wizards nicht spielen, und bei den Celtics Mitchell Robinson. Dennoch ist die Überraschungswahrscheinlichkeit von 22 % nicht gering, wobei diese Wahrscheinlichkeit jedoch begrenzt ist.",
+        "fr": "Boston Celtics, malgré le fait de jouer à l'extérieur, prend nettement l'avantage : probabilité de victoire de 78 %, contre 22 % pour les Washington Wizards. Le total de points attendu, 218, reste inférieur à la moyenne de 226 de nos archives, ce qui laisse envisager un match plus contrôlé, où la défense prend le dessus. L'écart attendu étant d'environ 10 points en faveur de Boston, on peut s'attendre à une victoire confortable du favori. Chez les Wizards, Tristan Vukcevic, Reece Beekman, Justin Champagnie et Jamir Watkins ne devraient pas jouer, tout comme Mitchell Robinson côté Celtics. Cela dit, la probabilité de surprise de 22 % n'est pas négligeable, même si elle reste limitée.",
+        "it": "Boston Celtics è nettamente in vantaggio nonostante giochi in trasferta: probabilità di vittoria del 78%, contro il 22% dei Washington Wizards. Il totale di punti atteso è 218, al di sotto della media di 226 presente nel nostro archivio, il che indica un possibile incontro più controllato, in cui la difesa avrà un ruolo di primo piano. Poiché la differenza attesa è di circa 10 punti a favore di Boston, ci si può aspettare che la squadra favorita si imponga con un margine comodo. Si prevede che Tristan Vukcevic, Reece Beekman, Justin Champagnie e Jamir Watkins non scendano in campo per i Wizards, così come Mitchell Robinson per i Celtics. Tuttavia, la probabilità di una sorpresa del 22% non è trascurabile, anche se resta limitata.",
+        "pt": "O Boston Celtics, apesar de jogar fora de casa, está claramente na frente: a probabilidade de vitória é de 78%, enquanto a do Washington Wizards é de 22%. O total de pontos esperado é de 218, abaixo da média de 226 em nosso arquivo, o que indica a possibilidade de uma partida mais controlada, com a defesa em destaque. Como a diferença esperada é de cerca de 10 pontos a favor do Boston, pode-se esperar que o favorito vença com tranquilidade. Espera-se que Tristan Vukcevic, Reece Beekman, Justin Champagnie e Jamir Watkins não joguem pelo Wizards, assim como Mitchell Robinson pelo Celtics. Ainda assim, a probabilidade de surpresa de 22% não é baixa, embora seja limitada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "42f48a4769eab3d1472d76aac0fd0fa7",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Orlando Magic",
+      "deplasman": "Detroit Pistons",
+      "baslama_utc": "2026-11-25T00:11:00Z",
+      "gece": "2026-11-24",
+      "olasiliklar": {
+        "1": 0.4459,
+        "2": 0.5541
+      },
+      "tahmin": "2",
+      "guven": 0.1082,
+      "sayi": {
+        "toplam": 213.5,
+        "toplam_kaynak": 16,
+        "fark": -2.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 106,
+        "dep_sayi": 108
+      },
+      "ai_metin": "Detroit Pistons, deplasmanda Orlando Magic karşısında belirgin değil ama net bir üstünlükle öne çıkıyor; %55'e %45'lik dağılım dengeli bir maçı işaret ediyor. Beklenen toplam sayı 214, arşivdeki 28 maçın ortalaması olan 226'nın belirgin altında; bu da temposu düşük, savunmanın öne çıktığı bir karşılaşma ihtimalini düşündürüyor. Beklenen fark yalnızca 2 sayı olduğundan, maçın son çeyreğe kadar yakın seyretmesi en olası senaryo. Orlando'da Paolo Banchero ve Jonathan Isaac'ın sakatlık listesinde olması, Pistons'ın Duncan Robinson ve Jalen Duren'in oynamayacak olmasına rağmen eşitliğe yakın kalmasının bağlamını önemli kılıyor. Sürpriz ihtimali %45 olduğundan düşük değil; Magic'in galibiyeti gerçekçi bir senaryo olarak masada kalıyor.",
+      "ai_metinler": {
+        "en": "Detroit Pistons hold a clear but not decisive edge on the road against the Orlando Magic; a 55% to 45% split points to a fairly balanced game. The expected total points is 214, well below the 226 average across the 28 matches in the archive, which suggests a lower-tempo game where defense takes center stage. Since the expected margin is only 2 points, the most likely scenario is a close game through the final quarter. With Paolo Banchero and Jonathan Isaac on Orlando's injury list, and Duncan Robinson and Jalen Duren unavailable for Detroit, the context makes it important that the Pistons still remain near parity. An upset probability of 45% is not low; an Orlando win remains a realistic scenario.",
+        "es": "Detroit Pistons, de visitante ante Orlando Magic, no aparece como favorito claro, pero sí con una ventaja neta; una distribución del 55% frente al 45% apunta a un partido equilibrado. El total de puntos esperado es 214, claramente por debajo del promedio de 226 de los 28 partidos del archivo, lo que sugiere un encuentro de ritmo bajo, con la defensa en primer plano. Como la diferencia esperada es de solo 2 puntos, el escenario más probable es que el partido se mantenga igualado hasta el último cuarto. El contexto es importante: Paolo Banchero y Jonathan Isaac están en la lista de lesionados de Orlando, y que Detroit siga cerca en el marcador pese a que Duncan Robinson y Jalen Duren no jugarán hace que este análisis sea relevante. La probabilidad de una sorpresa no es baja, con un 45%, y una victoria del Magic sigue siendo un escenario realista.",
+        "de": "Detroit Pistons zeigen sich auswärts gegen die Orlando Magic nicht deutlich, aber doch klar überlegen; die Verteilung von 55% zu 45% deutet auf eine ausgeglichene Partie hin. Die erwartete Gesamtpunktzahl liegt bei 214 und damit deutlich unter dem Durchschnitt von 226 aus den 28 archivierten Spielen; das spricht für ein Duell mit niedrigerem Tempo, in dem die Defensive im Vordergrund steht. Da der erwartete Abstand nur 2 Punkte beträgt, ist der wahrscheinlichste Verlauf, dass die Begegnung bis ins letzte Viertel eng bleibt. Dass Paolo Banchero und Jonathan Isaac bei Orlando auf der Verletztenliste stehen, während Duncan Robinson und Jalen Duren bei den Pistons ausfallen, macht den Kontext wichtig, warum beide Teams nahe an einem Gleichstand bleiben. Die Überraschungswahrscheinlichkeit von 45% ist nicht gering; ein Sieg der Magic bleibt als realistisches Szenario im Blick.",
+        "fr": "Les Detroit Pistons, en déplacement face aux Orlando Magic, ne sont pas nettement favoris mais se détachent clairement ; une répartition de 55 % contre 45 % indique un match équilibré. Le total de points attendu est de 214, nettement en dessous de la moyenne de 226 observée sur les 28 matchs d'archive, ce qui laisse envisager une rencontre à faible rythme où la défense domine. L'écart attendu n'étant que de 2 points, le scénario le plus probable est un match serré jusqu'au dernier quart-temps. Les absences de Paolo Banchero et Jonathan Isaac chez les Magic, ainsi que celles de Duncan Robinson et Jalen Duren côté Pistons, donnent un contexte important : malgré ces absences, les deux équipes restent proches à parité. La probabilité d'une surprise, à 45 %, n'est pas faible ; une victoire des Magic reste donc un scénario réaliste.",
+        "it": "I Detroit Pistons, in trasferta contro gli Orlando Magic, non appaiono nettamente favoriti ma si mostrano comunque con un vantaggio evidente; una distribuzione del 55% contro 45% indica un incontro equilibrato. Il numero di total points atteso è 214, nettamente al di sotto della media di 226 registrata nelle 28 partite dell'archivio: ciò suggerisce uno scenario con ritmo più basso, in cui la difesa tende a prevalere. Poiché il margine previsto è di appena 2 punti, la partita resta con ogni probabilità in equilibrio fino all'ultimo quarto. Il contesto è rilevante: a Orlando Paolo Banchero e Jonathan Isaac sono nell'elenco degli infortunati, mentre per i Pistons Duncan Robinson e Jalen Duren non scenderanno in campo, eppure la sfida rimane vicina. Una sorpresa non è improbabile, con una probabilità del 45%; una vittoria dei Magic resta quindi uno scenario realistico.",
+        "pt": "O Detroit Pistons, como visitante, aparece em destaque contra o Orlando Magic, mas não de forma marcante; uma distribuição de 55% para 45% indica um jogo equilibrado. O total de pontos esperado é 214, bem abaixo da média de 226 nos 28 jogos do arquivo, o que sugere um confronto de ritmo mais baixo, em que a defesa tende a se destacar. Como a diferença esperada é de apenas 2 pontos, o cenário mais provável é que a partida permaneça equilibrada até o último quarto. A ausência de Paolo Banchero e Jonathan Isaac na lista de lesionados do Orlando, somada aos desfalques de Duncan Robinson e Jalen Duren no Detroit, torna o contexto importante para entender por que a disputa deve seguir próxima. A probabilidade de surpresa, de 45%, não é baixa; uma vitória do Magic continua sendo um cenário realista."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "0f9b0defd0a6c9603d7c70e7962bb628",
       "lig": "basketball_euroleague",
