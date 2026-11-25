@@ -1,173 +1,8 @@
 {
-  "guncelleme_utc": "2026-11-25T02:46:57Z",
+  "guncelleme_utc": "2026-11-25T05:28:59Z",
   "slot": "sabah",
-  "mac_sayisi": 14,
+  "mac_sayisi": 13,
   "maclar": [
-    {
-      "mac_id": "6bfadbd22ed8a054cf82ec1b12b78243",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Denver Nuggets",
-      "deplasman": "Dallas Mavericks",
-      "baslama_utc": "2026-11-25T03:10:00Z",
-      "gece": "2026-11-24",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7212,
-        "2": 0.2788
-      },
-      "tahmin": "1",
-      "guven": 0.4424,
-      "sayi": {
-        "toplam": 234.0,
-        "toplam_kaynak": 16,
-        "fark": 8.5,
-        "fark_kaynak": 14,
-        "ev_sayi": 121,
-        "dep_sayi": 113
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 2,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 2,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "Denver Nuggets, ev sahibi avantajıyla %72 kazanma olasılığıyla maçın net favorisi görünüyor. Beklenen toplam sayının 234 olması, arşivdeki ortalama olan 226'nın belirgin üzerinde; bu da tempolu ve sayı bol bir karşılaşma senaryosuna işaret ediyor. Beklenen 8 sayılık fark, Denver'ın maçı büyük ölçüde kontrol edebileceğini gösteriyor. Dallas'ta Tobi Lawal, Dereck Lively II, Sergio de Larrea ve Tarik Biberovic'in oynamayacak görünmesi bu tabloyu destekliyor. Yine de %28'lik Dallas ihtimali düşük değil; maç son çeyreğe kadar dengede gidebilir.",
-      "ai_metinler": {
-        "en": "The Denver Nuggets appear to be the clear favorite, with a 72% probability of winning thanks to the home-court advantage. The expected total points of 234 is well above the archive average of 226, pointing to a fast-paced, high-scoring matchup. The expected margin of 8 points suggests Denver should be able to control the game largely. Tobi Lawal, Dereck Lively II, Sergio de Larrea and Tarik Biberovic are not expected to play for Dallas, which supports this picture. Still, Dallas's 28% probability is not negligible, and the game could remain close until the final quarter.",
-        "es": "Denver Nuggets, local con ventaja de campo, aparece como el claro favorito del partido con una probabilidad de victoria del 72%. El total de puntos esperado de 234 está muy por encima del promedio del archivo, que es de 226, lo que apunta a un encuentro con ritmo alto y muchas anotaciones. La diferencia esperada de 8 puntos sugiere que Denver podría controlar el partido en gran medida. El hecho de que Tobi Lawal, Dereck Lively II, Sergio de Larrea y Tarik Biberovic no parezcan disponibles para Dallas respalda este panorama. Aun así, la probabilidad del 28% para Dallas no es baja, y el partido podría mantenerse equilibrado hasta el último cuarto.",
-        "de": "Denver Nuggets erscheint dank des Heimvorteils mit einer Siegwahrscheinlichkeit von 72% als klarer Favorit der Partie. Die erwartete Gesamtpunktzahl von 234 liegt deutlich über dem Archivdurchschnitt von 226, was auf ein schnelles, torreiches Spiel hindeutet. Der erwartete Vorsprung von 8 Punkten zeigt, dass Denver die Begegnung voraussichtlich weitgehend kontrollieren kann. Dass Tobi Lawal, Dereck Lively II, Sergio de Larrea und Tarik Biberovic bei Dallas voraussichtlich nicht spielen werden, untermauert dieses Bild. Dennoch ist die Dallas-Wahrscheinlichkeit von 28% nicht gering; das Spiel könnte bis ins letzte Viertel offen bleiben.",
-        "fr": "Les Denver Nuggets apparaissent comme le net favori du match, avec une probabilité de victoire de 72 % grâce à l'avantage du terrain. Le total de points attendu, 234, dépasse nettement la moyenne d'archive de 226, ce qui laisse présager une rencontre rythmée et riche en points. L'écart attendu de 8 points indique que Denver devrait pouvoir largement contrôler la partie. L'absence probable de Tobi Lawal, Dereck Lively II, Sergio de Larrea et Tarik Biberovic à Dallas renforce cette lecture. Cela dit, la probabilité de 28 % pour Dallas n'est pas négligeable : la rencontre pourrait rester équilibrée jusqu'au dernier quart-temps.",
-        "it": "I Denver Nuggets appaiono i chiari favoriti della partita, con una probabilità del 72% di vittoria grazie al vantaggio del campo di gioco. Il totale punti atteso di 234 è nettamente superiore alla media storica di 226, il che indica uno scenario di gara veloce e ricca di punti. La differenza attesa di 8 punti suggerisce che Denver potrebbe gestire la partita in larga misura. Il fatto che Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic non sembrino destinati a scendere in campo rafforza questo quadro. Tuttavia, la probabilità del 28% per Dallas non è trascurabile: la partita potrebbe restare in equilibrio fino all'ultimo quarto.",
-        "pt": "O Denver Nuggets aparece como o claro favorito do jogo, com 72% de probabilidade de vitória, impulsionada pela vantagem de jogar em casa. O total de pontos esperado é 234, bem acima da média de 226 do arquivo histórico, o que aponta para um cenário de jogo acelerado e com muitos pontos. A diferença esperada de 8 pontos sugere que o Denver deve conseguir controlar a partida em grande medida. Com a ausência prevista de Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic no Dallas, esse quadro se sustenta. Ainda assim, a probabilidade de 28% para o Dallas não é baixa, e a partida pode permanecer equilibrada até o último quarto."
-      },
-      "kilit_utc": "2026-11-24T18:41:29Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-23",
-              "lig": "basketball_nba",
-              "rakip": "Chicago Bulls",
-              "ic_saha": false,
-              "atilan": 151,
-              "yenilen": 145,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Houston Rockets",
-              "ic_saha": true,
-              "atilan": 133,
-              "yenilen": 124,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 2,
-            "maglubiyet": 0,
-            "atilan_ort": 142.0,
-            "yenilen_ort": 134.5
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 133.0,
-            "yenilen_ort": 124.0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 151.0,
-            "yenilen_ort": 145.0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-23",
-              "lig": "basketball_nba",
-              "rakip": "Utah Jazz",
-              "ic_saha": false,
-              "atilan": 116,
-              "yenilen": 114,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Los Angeles Clippers",
-              "ic_saha": true,
-              "atilan": 110,
-              "yenilen": 100,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 2,
-            "maglubiyet": 0,
-            "atilan_ort": 113.0,
-            "yenilen_ort": 107.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 110.0,
-            "yenilen_ort": 100.0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 116.0,
-            "yenilen_ort": 114.0
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [],
-        "deplasman": [
-          {
-            "oyuncu": "Tobi Lawal",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Dereck Lively II",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Sergio de Larrea",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Tarik Biberovic",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-24T04:05:06Z",
-        "son_utc": "2026-11-25T02:46:57Z",
-        "ilk": {
-          "1": 0.7317,
-          "2": 0.2683
-        },
-        "son": {
-          "1": 0.7071,
-          "2": 0.2929
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "40589eed5e6894d5b8598ee721b9d57b",
       "lig": "basketball_euroleague",
@@ -1574,8 +1409,8 @@
             "tahmin": "2",
             "olasilik": 0.7827,
             "guven": 0.5654,
-            "skor": null,
-            "tuttu": null
+            "skor": "116-131",
+            "tuttu": true
           },
           {
             "mac_id": "6bfadbd22ed8a054cf82ec1b12b78243",
@@ -1602,8 +1437,8 @@
             "tuttu": true
           }
         ],
-        "tutan": 1,
-        "sonuclanan": 1
+        "tutan": 2,
+        "sonuclanan": 2
       }
     ],
     "dun": {

@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-25T02:46:57Z",
-  "mac_sayisi": 36,
+  "guncelleme_utc": "2026-11-25T05:28:59Z",
+  "mac_sayisi": 37,
   "maclar": [
+    {
+      "mac_id": "6bfadbd22ed8a054cf82ec1b12b78243",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Denver Nuggets",
+      "deplasman": "Dallas Mavericks",
+      "baslama_utc": "2026-11-25T03:10:00Z",
+      "gece": "2026-11-24",
+      "olasiliklar": {
+        "1": 0.7212,
+        "2": 0.2788
+      },
+      "tahmin": "1",
+      "guven": 0.4424,
+      "sayi": {
+        "toplam": 234.0,
+        "toplam_kaynak": 16,
+        "fark": 8.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 121,
+        "dep_sayi": 113
+      },
+      "ai_metin": "Denver Nuggets, ev sahibi avantajıyla %72 kazanma olasılığıyla maçın net favorisi görünüyor. Beklenen toplam sayının 234 olması, arşivdeki ortalama olan 226'nın belirgin üzerinde; bu da tempolu ve sayı bol bir karşılaşma senaryosuna işaret ediyor. Beklenen 8 sayılık fark, Denver'ın maçı büyük ölçüde kontrol edebileceğini gösteriyor. Dallas'ta Tobi Lawal, Dereck Lively II, Sergio de Larrea ve Tarik Biberovic'in oynamayacak görünmesi bu tabloyu destekliyor. Yine de %28'lik Dallas ihtimali düşük değil; maç son çeyreğe kadar dengede gidebilir.",
+      "ai_metinler": {
+        "en": "The Denver Nuggets appear to be the clear favorite, with a 72% probability of winning thanks to the home-court advantage. The expected total points of 234 is well above the archive average of 226, pointing to a fast-paced, high-scoring matchup. The expected margin of 8 points suggests Denver should be able to control the game largely. Tobi Lawal, Dereck Lively II, Sergio de Larrea and Tarik Biberovic are not expected to play for Dallas, which supports this picture. Still, Dallas's 28% probability is not negligible, and the game could remain close until the final quarter.",
+        "es": "Denver Nuggets, local con ventaja de campo, aparece como el claro favorito del partido con una probabilidad de victoria del 72%. El total de puntos esperado de 234 está muy por encima del promedio del archivo, que es de 226, lo que apunta a un encuentro con ritmo alto y muchas anotaciones. La diferencia esperada de 8 puntos sugiere que Denver podría controlar el partido en gran medida. El hecho de que Tobi Lawal, Dereck Lively II, Sergio de Larrea y Tarik Biberovic no parezcan disponibles para Dallas respalda este panorama. Aun así, la probabilidad del 28% para Dallas no es baja, y el partido podría mantenerse equilibrado hasta el último cuarto.",
+        "de": "Denver Nuggets erscheint dank des Heimvorteils mit einer Siegwahrscheinlichkeit von 72% als klarer Favorit der Partie. Die erwartete Gesamtpunktzahl von 234 liegt deutlich über dem Archivdurchschnitt von 226, was auf ein schnelles, torreiches Spiel hindeutet. Der erwartete Vorsprung von 8 Punkten zeigt, dass Denver die Begegnung voraussichtlich weitgehend kontrollieren kann. Dass Tobi Lawal, Dereck Lively II, Sergio de Larrea und Tarik Biberovic bei Dallas voraussichtlich nicht spielen werden, untermauert dieses Bild. Dennoch ist die Dallas-Wahrscheinlichkeit von 28% nicht gering; das Spiel könnte bis ins letzte Viertel offen bleiben.",
+        "fr": "Les Denver Nuggets apparaissent comme le net favori du match, avec une probabilité de victoire de 72 % grâce à l'avantage du terrain. Le total de points attendu, 234, dépasse nettement la moyenne d'archive de 226, ce qui laisse présager une rencontre rythmée et riche en points. L'écart attendu de 8 points indique que Denver devrait pouvoir largement contrôler la partie. L'absence probable de Tobi Lawal, Dereck Lively II, Sergio de Larrea et Tarik Biberovic à Dallas renforce cette lecture. Cela dit, la probabilité de 28 % pour Dallas n'est pas négligeable : la rencontre pourrait rester équilibrée jusqu'au dernier quart-temps.",
+        "it": "I Denver Nuggets appaiono i chiari favoriti della partita, con una probabilità del 72% di vittoria grazie al vantaggio del campo di gioco. Il totale punti atteso di 234 è nettamente superiore alla media storica di 226, il che indica uno scenario di gara veloce e ricca di punti. La differenza attesa di 8 punti suggerisce che Denver potrebbe gestire la partita in larga misura. Il fatto che Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic non sembrino destinati a scendere in campo rafforza questo quadro. Tuttavia, la probabilità del 28% per Dallas non è trascurabile: la partita potrebbe restare in equilibrio fino all'ultimo quarto.",
+        "pt": "O Denver Nuggets aparece como o claro favorito do jogo, com 72% de probabilidade de vitória, impulsionada pela vantagem de jogar em casa. O total de pontos esperado é 234, bem acima da média de 226 do arquivo histórico, o que aponta para um cenário de jogo acelerado e com muitos pontos. A diferença esperada de 8 pontos sugere que o Denver deve conseguir controlar a partida em grande medida. Com a ausência prevista de Tobi Lawal, Dereck Lively II, Sergio de Larrea e Tarik Biberovic no Dallas, esse quadro se sustenta. Ainda assim, a probabilidade de 28% para o Dallas não é baixa, e a partida pode permanecer equilibrada até o último quarto."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "3167a4072c65c9314c71d0fe49be8e28",
       "lig": "basketball_nba",
@@ -32,13 +71,30 @@
         "it": "Boston Celtics è nettamente in vantaggio nonostante giochi in trasferta: probabilità di vittoria del 78%, contro il 22% dei Washington Wizards. Il totale di punti atteso è 218, al di sotto della media di 226 presente nel nostro archivio, il che indica un possibile incontro più controllato, in cui la difesa avrà un ruolo di primo piano. Poiché la differenza attesa è di circa 10 punti a favore di Boston, ci si può aspettare che la squadra favorita si imponga con un margine comodo. Si prevede che Tristan Vukcevic, Reece Beekman, Justin Champagnie e Jamir Watkins non scendano in campo per i Wizards, così come Mitchell Robinson per i Celtics. Tuttavia, la probabilità di una sorpresa del 22% non è trascurabile, anche se resta limitata.",
         "pt": "O Boston Celtics, apesar de jogar fora de casa, está claramente na frente: a probabilidade de vitória é de 78%, enquanto a do Washington Wizards é de 22%. O total de pontos esperado é de 218, abaixo da média de 226 em nosso arquivo, o que indica a possibilidade de uma partida mais controlada, com a defesa em destaque. Como a diferença esperada é de cerca de 10 pontos a favor do Boston, pode-se esperar que o favorito vença com tranquilidade. Espera-se que Tristan Vukcevic, Reece Beekman, Justin Champagnie e Jamir Watkins não joguem pelo Wizards, assim como Mitchell Robinson pelo Celtics. Ainda assim, a probabilidade de surpresa de 22% não é baixa, embora seja limitada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "116-131",
+      "toplam": 247,
+      "fark": -15,
+      "periyotlar": [
+        [
+          28,
+          34
+        ],
+        [
+          21,
+          46
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          27,
+          27
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": true
     },
     {
@@ -71,13 +127,30 @@
         "it": "I Detroit Pistons, in trasferta contro gli Orlando Magic, non appaiono nettamente favoriti ma si mostrano comunque con un vantaggio evidente; una distribuzione del 55% contro 45% indica un incontro equilibrato. Il numero di total points atteso è 214, nettamente al di sotto della media di 226 registrata nelle 28 partite dell'archivio: ciò suggerisce uno scenario con ritmo più basso, in cui la difesa tende a prevalere. Poiché il margine previsto è di appena 2 punti, la partita resta con ogni probabilità in equilibrio fino all'ultimo quarto. Il contesto è rilevante: a Orlando Paolo Banchero e Jonathan Isaac sono nell'elenco degli infortunati, mentre per i Pistons Duncan Robinson e Jalen Duren non scenderanno in campo, eppure la sfida rimane vicina. Una sorpresa non è improbabile, con una probabilità del 45%; una vittoria dei Magic resta quindi uno scenario realistico.",
         "pt": "O Detroit Pistons, como visitante, aparece em destaque contra o Orlando Magic, mas não de forma marcante; uma distribuição de 55% para 45% indica um jogo equilibrado. O total de pontos esperado é 214, bem abaixo da média de 226 nos 28 jogos do arquivo, o que sugere um confronto de ritmo mais baixo, em que a defesa tende a se destacar. Como a diferença esperada é de apenas 2 pontos, o cenário mais provável é que a partida permaneça equilibrada até o último quarto. A ausência de Paolo Banchero e Jonathan Isaac na lista de lesionados do Orlando, somada aos desfalques de Duncan Robinson e Jalen Duren no Detroit, torna o contexto importante para entender por que a disputa deve seguir próxima. A probabilidade de surpresa, de 45%, não é baixa; uma vitória do Magic continua sendo um cenário realista."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "86-104",
+      "toplam": 190,
+      "fark": -18,
+      "periyotlar": [
+        [
+          22,
+          16
+        ],
+        [
+          14,
+          32
+        ],
+        [
+          25,
+          25
+        ],
+        [
+          25,
+          31
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
