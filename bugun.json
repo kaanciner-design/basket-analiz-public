@@ -1,60 +1,8 @@
 {
-  "guncelleme_utc": "2026-11-25T12:23:25Z",
-  "slot": "sabah",
-  "mac_sayisi": 13,
+  "guncelleme_utc": "2026-11-25T18:38:06Z",
+  "slot": "aksam",
+  "mac_sayisi": 12,
   "maclar": [
-    {
-      "mac_id": "40589eed5e6894d5b8598ee721b9d57b",
-      "lig": "basketball_euroleague",
-      "ev_sahibi": "Dubai",
-      "deplasman": "Partizan",
-      "baslama_utc": "2026-11-25T16:00:00Z",
-      "gece": "2026-11-25",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.6983,
-        "2": 0.3017
-      },
-      "tahmin": "1",
-      "guven": 0.3966,
-      "sayi": {
-        "toplam": 164.5,
-        "toplam_kaynak": 15,
-        "fark": 6.5,
-        "fark_kaynak": 15,
-        "ev_sayi": 86,
-        "dep_sayi": 79
-      },
-      "dinlenme": null,
-      "ai_metin": "Dubai, Partizan karşısında belirgin biçimde önde görünüyor; %70'lik ev sahibi olasılığı, maçın büyük ölçüde Dubai'nin kontrolünde geçeceğine işaret ediyor. Yaklaşık 164 toplam sayı ve Dubai lehine 6 sayılık beklenen fark, tempolu ama son çeyreğe kadar takip edilebilir bir senaryoyu düşündürüyor. Partizan'ın %30'luk ihtimali göz ardı edilmemeli, ancak sürpriz olasılığı yine de sınırlı kalıyor.",
-      "ai_metinler": {
-        "en": "Dubai clearly looks ahead of Partizan; a 70% home-side probability suggests the match is likely to be largely under Dubai's control. A total of around 164 points and an expected Dubai margin of 6 points point to a fast-paced game that should remain trackable until the final quarter. Partizan's 30% probability should not be overlooked, but the chance of an upset still remains limited.",
-        "es": "Dubái parece claramente por delante frente al Partizan; su probabilidad del 70% como local indica que el partido estará en gran medida bajo control de Dubái. Unos 164 puntos totales y una diferencia esperada de 6 puntos a favor de Dubái sugieren un escenario de ritmo alto, pero seguible hasta el último cuarto. La probabilidad del 30% del Partizan no debe pasarse por alto, aunque la posibilidad de una sorpresa sigue siendo limitada.",
-        "de": "Dubai wirkt gegenüber Partizan deutlich im Vorteil; die Heimwahrscheinlichkeit von 70% deutet darauf hin, dass das Spiel weitgehend unter Dubais Kontrolle verlaufen wird. Rund 164 Gesamtpunkte und ein erwarteter Vorsprung von 6 Punkten für Dubai sprechen für ein temporeiches Szenario, das bis ins letzte Viertel gut nachvollziehbar bleibt. Die Wahrscheinlichkeit von 30% für Partizan sollte nicht ignoriert werden, doch die Wahrscheinlichkeit einer Überraschung bleibt insgesamt begrenzt.",
-        "fr": "Dubaï semble nettement en avance face au Partizan ; sa probabilité de victoire à domicile, de 70 %, laisse penser que la rencontre sera largement sous son contrôle. Environ 164 points au total et un écart attendu de 6 points en faveur de Dubaï dessinent un scénario rythmé, mais suivi jusqu'au dernier quart-temps. La probabilité de 30 % pour le Partizan ne doit pas être négligée, bien que les chances d'une véritable surprise restent limitées.",
-        "it": "Dubai sahada Partizan karşısında belirgin biçimde önde görünüyor; %70'lik ev sahibi olasılığı, maçın büyük ölçüde Dubai'nin kontrolünde geçeceğine işaret ediyor. Yaklaşık 164 toplam sayı ve Dubai lehine 6 sayılık beklenen fark, tempolu ama son çeyreğe kadar takip edilebilir bir senaryoyu düşündürüyor. Partizan'ın %30'luk ihtimali göz ardı edilmemeli, ancak sürpriz olasılığı yine de sınırlı kalıyor.",
-        "pt": "Dubai contra o Partizan parece estar claramente à frente; a probabilidade de 70% de vitória do mandante indica que a partida deve ser controlada em grande parte pelo Dubai. Um total de cerca de 164 pontos e uma diferença esperada de 6 pontos a favor do Dubai sugerem um cenário de ritmo intenso, mas que pode ser acompanhado com facilidade até o último quarto. A probabilidade de 30% do Partizan não deve ser ignorada, porém a chance de uma surpresa continua limitada."
-      },
-      "kilit_utc": "2026-11-25T02:46:59Z",
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "sakatlik": null,
-      "hareket": {
-        "ilk_utc": "2026-11-21T00:42:33Z",
-        "son_utc": "2026-11-25T02:46:57Z",
-        "ilk": {
-          "1": 0.7108,
-          "2": 0.2892
-        },
-        "son": {
-          "1": 0.6983,
-          "2": 0.3017
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "a1ee21718811e522957cf904fb3ec31f",
       "lig": "basketball_euroleague",
@@ -62,21 +10,49 @@
       "deplasman": "Hapoel Tel Aviv",
       "baslama_utc": "2026-11-25T19:15:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6884,
+        "2": 0.3116
+      },
+      "tahmin": "1",
+      "guven": 0.3768,
+      "sayi": {
+        "toplam": 169.5,
+        "toplam_kaynak": 15,
+        "fark": 6.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 88,
+        "dep_sayi": 82
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T12:23:25Z",
+      "ai_metin": "Olympiakos, Hapoel Tel Aviv karşısında belirgin biçimde önde: %69'luk kazanma olasılığı ve yaklaşık 6 sayılık beklenen fark, ev sahibinin rahat ama son ana kadar sürebilecek bir galibiyete yaklaştığını gösteriyor. Yaklaşık 170 sayılık beklenen toplam sayı, maçın yüksek tempolu ve sayı bol bir akışa işaret ettiğini düşündürüyor. Deplasmandaki %31'lik ihtimal ise dikkate değer olsa da, sürprize dönüşme olasılığı sınırlı kalıyor.",
+      "ai_metinler": {
+        "en": "Olympiacos holds a clear lead over Hapoel Tel Aviv: a 69% probability of winning and an expected margin of about 6 points, suggesting the home side is headed for a comfortable win that could still stay close until the final minutes. The expected total points of about 170 point to a high-tempo, high-scoring game. The 31% probability for the away side is notable, but the chance of an upset remains limited.",
+        "es": "Olympiakos, Hapoel Tel Aviv karşısında belirgin biçimde önde: %69 kazanma olasılığı ve yaklaşık 6 sayılık beklenen fark, ev sahibinin rahat ama son ana kadar sürebilecek bir galibiyete yaklaştığını gösteriyor. Yaklaşık 170 sayılık beklenen total puntos, maçın yüksek tempolu ve sayı bol bir akışa işaret ettiğini düşündürüyor. Deplasmandaki %31 ihtimal ise dikkate değer olsa da, sürprize dönüşme olasılığı sınırlı kalıyor.",
+        "de": "Olympiakos liegt deutlich vorn: Die Wahrscheinlichkeit für einen Sieg beträgt 69%, und der erwartete Vorsprung liegt bei etwa 6 Punkten. Das deutet auf einen souveränen Heimsieg hin, der aber bis zur letzten Minute offen bleiben könnte. Die erwartete Gesamtpunktzahl von rund 170 Punkten spricht für ein temporeiches, torreiches Spiel mit vielen Punkten auf beiden Seiten. Die Wahrscheinlichkeit von 31% für Hapoel Tel Aviv auswärts ist bemerkenswert, bleibt aber insgesamt begrenzt, was eine Überraschung angeht.",
+        "fr": "Olympiacos est nettement favori face à Hapoël Tel-Aviv : une probabilité de victoire de 69 % et un écart attendu d'environ 6 points indiquent une victoire confortable pour l'équipe à domicile, mais qui pourrait rester incertaine jusqu'au dernier instant. Un total de points attendu d'environ 170 laisse penser à un match à rythme élevé et riche en points. La probabilité de 31 % pour l'équipe visiteuse reste notable, mais la probabilité d'une surprise demeure limitée.",
+        "it": "Olympiakos, Hapoel Tel Aviv karşısında belirgin biçimde önde: %69 kazanma olasılığı ve yaklaşık 6 sayılık beklenen fark, ev sahibinin rahat ama son ana kadar sürebilecek bir galibiyete yaklaştığını gösteriyor. Yaklaşık 170 sayılık beklenen total points, maçın yüksek tempolu ve sayı bol bir akışa işaret ettiğini düşündürüyor. Deplasmandaki %31'lik ihtimal ise dikkate değer olsa da, sürprize dönüşme olasılığı sınırlı kalıyor.",
+        "pt": "O Olympiacos está claramente à frente contra o Hapoel Tel Aviv: uma probabilidade de vitória de 69% e uma diferença esperada de cerca de 6 pontos indicam que o time da casa deve conquistar uma vitória tranquila, embora ainda possa ser disputada até o último momento. Um total de pontos esperado de cerca de 170 sugere um jogo de ritmo intenso e muitos pontos. Já a probabilidade de 31% para o visitante é relevante, mas a chance de uma zebra segue limitada."
+      },
+      "kilit_utc": "2026-11-25T18:38:30Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
       },
       "sakatlik": null,
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.6162,
+          "2": 0.3838
+        },
+        "son": {
+          "1": 0.6884,
+          "2": 0.3116
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -86,21 +62,49 @@
       "deplasman": "Anadolu Efes",
       "baslama_utc": "2026-11-25T19:30:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4622,
+        "2": 0.5378
+      },
+      "tahmin": "2",
+      "guven": 0.0756,
+      "sayi": {
+        "toplam": 173.5,
+        "toplam_kaynak": 15,
+        "fark": -1.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 86,
+        "dep_sayi": 88
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T12:23:25Z",
+      "ai_metin": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen toplam sayı yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, olasılıklara yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz.",
+      "ai_metinler": {
+        "en": "Anadolu Efes has a slight edge on the road, but the match looks quite balanced: 54% versus 46%, with no clear difference. The expected total points is around 174, and since the point difference is only 2, the game is expected to stay close until the final quarter and be played at a fast pace. In the given context, past predictions at this confidence level have been right 58% of the time across 12 matches, which is close to what the probabilities would suggest. The chance of an upset is 46%, which is not low, so a Baskonia win would not be surprising.",
+        "es": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen total points yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, probabilidades'e yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz.",
+        "de": "Anadolu Efes hat auswärts einen leichten Vorteil, doch die Partie wirkt insgesamt sehr ausgeglichen: 54% gegenüber 46% ergeben keinen deutlichen Unterschied. Die erwartete Gesamtpunktzahl liegt bei etwa 174 und der Punkteunterschied bei nur 2, weshalb erwartet wird, dass das Spiel bis ins letzte Viertel eng bleibt und in einem hohen Tempo verläuft. Im gegebenen Kontext zeigen frühere Einschätzungen mit diesem Vertrauensniveau eine Trefferquote von 58% in 12 Spielen; das liegt nahe an der Wahrscheinlichkeit. Eine Überraschung ist mit 46% nicht unwahrscheinlich, daher wäre ein Sieg von Baskonia nicht überraschend.",
+        "fr": "Anadolu Efes, à l'extérieur, possède un léger avantage, mais le match semble très équilibré : 54 % contre 46 %, sans écart marqué. Le total de points attendu est d'environ 174 et l'écart de points n'est que de 2, on peut donc s'attendre à un match serré jusqu'au dernier quart-temps, avec un rythme soutenu. Dans ce contexte, les prédictions passées de ce niveau de confiance ont atteint 58 % de réussite sur 12 matchs, ce qui correspond à une performance proche des probabilités annoncées. La probabilité d'une surprise, à 46 %, n'est pas négligeable ; une victoire de Baskonia ne serait donc pas surprenante.",
+        "it": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen total points yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, olasılıklara yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz.",
+        "pt": "Anadolu Efes, deplasmanda hafif bir öne sahip ancak maç oldukça dengeli görünüyor: %54'e karşı %46 ile belirgin bir fark yok. Beklenen total points yaklaşık 174 ve sayı farkı yalnızca 2 olduğu için, maçın son çeyreğe kadar yakın seyretmesi ve tempolu geçmesi bekleniyor. Verilen bağlamda bu güven seviyesindeki geçmiş tahminlerin 12 maçta %58 isabet ettiği görülüyor; bu, olasılıklara yakın bir performans. Sürpriz ihtimali %46 olduğundan düşük sayılmaz, dolayısıyla Baskonia'nın galibiyeti şaşırtıcı olmaz."
+      },
+      "kilit_utc": "2026-11-25T18:38:32Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
       },
       "sakatlik": null,
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.4825,
+          "2": 0.5175
+        },
+        "son": {
+          "1": 0.4622,
+          "2": 0.5378
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -110,21 +114,49 @@
       "deplasman": "Žalgiris",
       "baslama_utc": "2026-11-25T19:45:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7131,
+        "2": 0.2869
+      },
+      "tahmin": "1",
+      "guven": 0.4262,
+      "sayi": {
+        "toplam": 179.5,
+        "toplam_kaynak": 15,
+        "fark": 7.5,
+        "fark_kaynak": 13,
+        "ev_sayi": 94,
+        "dep_sayi": 86
+      },
       "dinlenme": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T12:23:25Z",
+      "ai_metin": "Real Madrid, ev sahibi avantajıyla Žalgiris karşısında net favori: kazanma olasılığı %71, Žalgiris'in ise %29. Beklenen toplam sayı yaklaşık 180 ve beklenen fark Real Madrid lehine 8 sayı; bu tablo, sayı akışının yüksek olduğu ama ev sahibinin kontrolü elinde tuttuğu bir senaryoya işaret ediyor. Veri kaynaklarının büyük çoğunluğunun bu favoriyi desteklemesi tahmine ayrı bir güven katıyor; ancak geçmişte bu güven düzeyindeki tahminlerimiz 17 maçta %65 isabet etti, bu da olasılık hesabının beklediğinden biraz düşük bir sonuç. Sürpriz ihtimali %29 olduğu için göz ardı edilemez, ancak Žalgiris'in galibiyeti bu veriye göre beklenen bir sonuç değil.",
+      "ai_metinler": {
+        "en": "Real Madrid is the clear favorite against Žalgiris thanks to home-court advantage: win probability 71% for Real Madrid and 29% for Žalgiris. The expected total points is around 180, and the expected margin is 8 points in favor of Real Madrid. This picture points to a scenario with high scoring, in which the home side is still in control of the game. The large majority of data sources support this favorite, which adds separate confidence to the prediction. However, our predictions at this confidence level have hit 65% of the time over 17 matches, a result slightly lower than the probability calculation would lead us to expect. Because the upset probability is 29%, it cannot be ignored, but according to this data, a Žalgiris win is not the expected outcome.",
+        "es": "Real Madrid, ev sahibi avantajıyla Žalgiris karşısında net favori: kazanma probabilidad del 71%, Žalgiris'in ise 29%. El total de puntos esperado es de aproximadamente 180 y la diferencia esperada es de 8 puntos a favor de Real Madrid; este escenario apunta a una situación de muchos puntos anotados, pero en la que el local mantiene el control del partido. El respaldo de la gran mayoría de las fuentes de datos a este favorito añade confianza a la predicción; sin embargo, nuestras predicciones con este nivel de confianza en el pasado acertaron en el 65% de 17 partidos, lo que resulta algo inferior a lo que indica el cálculo de probabilidad. Como la probabilidad de sorpresa es del 29%, no puede descartarse, pero según estos datos la victoria de Žalgiris no es un resultado esperado.",
+        "de": "Real Madrid ist mit Heimvorteil klarer Favorit gegen Žalgiris: Die Wahrscheinlichkeit für einen Sieg liegt bei 71%, für Žalgiris bei 29%. Die erwartete Gesamtpunktzahl beträgt etwa 180 und der erwartete Abstand zugunsten von Real Madrid 8 Punkte; dieses Bild deutet auf ein Szenario mit hohem Punktefluss hin, in dem der Gastgeber die Kontrolle behält. Dass die große Mehrheit der Datenquellen diesen Favoriten stützt, verleiht der Einschätzung zusätzliches Vertrauen. Allerdings traf unsere Prognose bei vergleichbarem Vertrauensniveau in der Vergangenheit in 17 Spielen zu 65% zu, was etwas niedriger ist, als die Wahrscheinlichkeitsberechnung erwarten ließ. Da die Überraschungswahrscheinlichkeit von 29% nicht zu vernachlässigen ist, bleibt ein Sieg von Žalgiris möglich, gilt laut diesen Daten aber nicht als erwartetes Ergebnis.",
+        "fr": "Real Madrid part en net favori face au Žalgiris grâce à l'avantage du terrain : probabilité de victoire de 71 %, contre 29 % pour le Žalgiris. Le total de points attendu est d'environ 180, avec un écart prévu de 8 points en faveur du Real Madrid ; ce scénario laisse entrevoir un match à fort rythme offensif, où l'équipe à domicile garde le contrôle. La grande majorité des sources de données soutient ce favori, ce qui renforce la confiance accordée à cette prévision. Cependant, nos prévisions de ce niveau de confiance ont atteint 65 % de réussite sur 17 matchs, un résultat légèrement inférieur à ce que le calcul de probabilité laissait espérer. Une surprise reste possible avec une probabilité de 29 %, elle ne doit donc pas être écartée, mais une victoire du Žalgiris n'est pas, selon ces données, le résultat attendu.",
+        "it": "Real Madrid, ev sahibi avantajıyla Žalgiris karşısında net favori: kazanma probability %71, Žalgiris'in ise %29. Beklenen total points yaklaşık 180 ve beklenen fark Real Madrid lehine 8 sayı; bu tablo, sayı akışının yüksek olduğu ama ev sahibinin kontrolü elinde tuttuğu bir senaryoya işaret ediyor. Veri kaynaklarının büyük çoğunluğunun bu favoriyi desteklemesi tahmine ayrı bir güven katıyor; ancak geçmişte bu güven düzeyindeki tahminlerimiz 17 maçta %65 isabet etti, bu da probability hesabının beklediğinden biraz düşük bir sonuç. Sürpriz ihtimali %29 olduğu için göz ardı edilemez, ancak Žalgiris'in galibiyeti bu veriye göre beklenen bir sonuç değil.",
+        "pt": "Real Madrid, mandante, é o franco favorito contra o Žalgiris: probabilidade de vitória de 71% para o Real Madrid e de 29% para o Žalgiris. O total de pontos esperado é de cerca de 180, e a diferença esperada é de 8 pontos a favor do Real Madrid; esse cenário aponta para um jogo de muitos pontos, mas com o mandante no controle. A grande maioria das fontes de dados apoia esse favoritismo, o que acrescenta confiança à projeção. No entanto, em jogos anteriores com esse nível de confiança, nossas previsões acertaram 65% das 17 partidas, um resultado um pouco abaixo do esperado pelo cálculo de probabilidade. A chance de surpresa, de 29%, não pode ser descartada, mas, segundo esses dados, a vitória do Žalgiris não é um resultado esperado."
+      },
+      "kilit_utc": "2026-11-25T18:38:34Z",
       "form": {
         "ev_sahibi": null,
         "deplasman": null
       },
       "sakatlik": null,
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-21T00:42:33Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.7291,
+          "2": 0.2709
+        },
+        "son": {
+          "1": 0.7131,
+          "2": 0.2869
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -134,11 +166,21 @@
       "deplasman": "Miami Heat",
       "baslama_utc": "2026-11-25T22:10:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5236,
+        "2": 0.4764
+      },
+      "tahmin": "1",
+      "guven": 0.0472,
+      "sayi": {
+        "toplam": 237.5,
+        "toplam_kaynak": 16,
+        "fark": 1.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 120,
+        "dep_sayi": 118
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -149,9 +191,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "76ers, Heat karşısında hafif bir üstünlükle maça giriyor: %52'ye %48 gibi dengeli bir tablo var. Beklenen toplam sayı yaklaşık 238, bu da arşivimizdeki 31 NBA maçının ortalaması olan 225'in belirgin üzerinde; tempolu, sayı bol bir karşılaşma beklenebilir. Beklenen fark yaklaşık 2 sayı olduğu için son çeyreğe kadar çekişmeli bir maç ihtimali yüksek. Ariel Hukporti'nin sakatlık listesinde oynamayacak görünmesi 76ers açısından dikkat edilmesi gereken bir not. Sürpriz ihtimali yaklaşık %48 olduğundan, Heat'in galibiyeti de oldukça gerçekçi bir senaryo.",
+      "ai_metinler": {
+        "en": "The 76ers enter the game with a slight edge over the Heat: a balanced picture of roughly 52% to 48%. The expected total points is about 238, clearly above the 225 average from our archive of 31 NBA games, so a fast-paced, high-scoring game can be expected. With the expected margin at around 2 points, a close contest that stays undecided until the final quarter is a strong possibility. Ariel Hukporti appearing unlikely to play due to injury is a note the 76ers will need to watch closely. Since the probability of an upset is about 48%, a Heat win is also a very realistic scenario.",
+        "es": "Los 76ers salen al partido con una ligera ventaja frente al Heat: un panorama equilibrado de 52% contra 48%. El total de puntos esperado es de aproximadamente 238, lo que supera de forma clara el promedio de 225 de los 31 partidos de la NBA de nuestro archivo; cabe esperar un encuentro dinámico y con muchos puntos. Como la diferencia esperada es de unos 2 puntos, existe una alta probabilidad de que el partido se mantenga reñido hasta el último cuarto. Que Ariel Hukporti aparezca en la lista de lesionados y no vaya a jugar es un detalle que los 76ers deben tener en cuenta. Dado que la probabilidad de sorpresa es de aproximadamente 48%, una victoria del Heat también es un escenario bastante realista.",
+        "de": "76ers geht mit einem leichten Vorteil gegen den Heat in die Partie: Die Wahrscheinlichkeiten sind mit 52% zu 48% ausgeglichen. Die erwartete Gesamtpunktzahl liegt bei etwa 238, was deutlich über dem Durchschnitt von 225 aus den 31 NBA-Spielen in unserem Archiv liegt; ein temporeiches, punktereiches Duell ist also zu erwarten. Da der erwartete Abstand bei etwa 2 Punkten liegt, ist eine bis zum letzten Viertel offene Partie sehr wahrscheinlich. Ein wichtiger Hinweis für die 76ers ist, dass Ariel Hukporti laut Verletztenliste voraussichtlich nicht spielen wird. Die Wahrscheinlichkeit für eine Überraschung liegt bei etwa 48%, sodass ein Sieg des Heat ein durchaus realistisches Szenario ist.",
+        "fr": "Les 76ers abordent la rencontre face au Heat avec un léger avantage : le tableau est équilibré, avec environ 52 % contre 48 %. Le total de points attendu est d'environ 238, nettement au-dessus de la moyenne de 225 points relevée dans nos archives de 31 matchs NBA ; on peut donc s'attendre à une rencontre rapide et riche en points. L'écart attendu étant d'environ 2 points, la probabilité d'un match serré jusqu'au dernier quart-temps est élevée. Le fait qu'Ariel Hukporti ne semble pas en mesure de jouer, figurant sur la liste des blessés, est un point à surveiller pour les 76ers. La probabilité de surprise étant d'environ 48 %, une victoire du Heat constitue également un scénario tout à fait réaliste.",
+        "it": "I 76ers entrano in partita con un leggero vantaggio contro gli Heat: il quadro è equilibrato, con il 52% contro il 48%. Il totale punti atteso è di circa 238, nettamente superiore alla media di 225 delle nostre 31 partite NBA archiviate: ci si può aspettare un incontro veloce e ricco di punti. Poiché la differenza prevista è di circa 2 punti, è molto probabile una partita combattuta fino all'ultimo quarto. Il fatto che Ariel Hukporti risulti assente dall'elenco degli infortunati e non dovrebbe giocare è un dettaglio da tenere d'occhio per i 76ers. Con una probabilità di sorpresa di circa il 48%, anche una vittoria degli Heat è uno scenario decisamente realistico.",
+        "pt": "O 76ers entra no jogo contra o Heat com uma leve vantagem: um cenário equilibrado de 52% para 48%. O total de pontos esperado é de cerca de 238, bem acima da média de 225 de nossos 31 jogos da NBA arquivados, por isso pode-se esperar um confronto acelerado e com muitos pontos. Como a diferença esperada é de cerca de 2 pontos, é provável um jogo disputado até o último quarto. O fato de Ariel Hukporti aparecer na lista de lesionados e não dever jogar é um detalhe a ser observado pelo 76ers. Como a probabilidade de surpresa é de cerca de 48%, uma vitória do Heat também é um cenário bastante realista."
+      },
+      "kilit_utc": "2026-11-25T18:38:09Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -240,7 +289,18 @@
         ],
         "deplasman": []
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-24T18:41:21Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.5876,
+          "2": 0.4124
+        },
+        "son": {
+          "1": 0.5236,
+          "2": 0.4764
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -250,11 +310,21 @@
       "deplasman": "Chicago Bulls",
       "baslama_utc": "2026-11-26T00:10:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5921,
+        "2": 0.4079
+      },
+      "tahmin": "1",
+      "guven": 0.1842,
+      "sayi": {
+        "toplam": 220.0,
+        "toplam_kaynak": 16,
+        "fark": 3.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 112,
+        "dep_sayi": 108
+      },
       "dinlenme": {
         "ev": {
           "gun": 2,
@@ -265,9 +335,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Charlotte Hornets, Chicago Bulls karşısında %59'a karşılık %41 olasılıkla hafif bir üstünlükle sahaya çıkıyor; maç dengeli ama ev sahibinin payı belirgin. Beklenen toplam sayı yaklaşık 220 olup arşivimizdeki 31 NBA maçının ortalaması olan 225'in biraz altında, bu da temposu düşük, son çeyreğe kadar yakın seyreden bir karşılaşmaya işaret ediyor. Bulls'un son üç maçta maç başına 120 sayı atıp 119 sayı yemesi, Norman Powell ve Caleb Wilson'un sakatlık nedeniyle oynamayacak görünmesiyle birlikte Chicago'nun hücumda istikrar arayacağını gösteriyor. Sürpriz ihtimali %41 olduğundan orta düzeyde ve görmezden gelinmeyecek bir olasılık.",
+      "ai_metinler": {
+        "en": "The Charlotte Hornets take the court against the Chicago Bulls with a slight edge, a 59% probability versus 41%; the matchup is balanced, but the home side's share is clear. The expected total points come in around 220, slightly below the 225 average across our archive of 31 NBA games, which points to a lower-tempo contest that stays close until the final quarter. The Bulls have averaged 120 points scored and 119 points allowed per game over their last three outings, and with Norman Powell and Caleb Wilson appearing unlikely to play due to injury, Chicago will be looking for consistency on offense. The upset probability sits at 41%, a moderate chance that should not be overlooked.",
+        "es": "Charlotte Hornets, Chicago Bulls karşısında %59 olasılıkla %41'e karşı hafif bir üstünlükle sahaya çıkıyor; maç dengeli ama ev sahibinin payı belirgin. Beklenen total points yaklaşık 220 olup arşivimizdeki 31 NBA maçının ortalaması olan 225'in biraz altında, bu da temposu düşük, son çeyreğe kadar yakın seyreden bir karşılaşmaya işaret ediyor. Bulls'un son üç maçta maç başına 120 sayı atıp 119 sayı yemesi, Norman Powell ve Caleb Wilson'un sakatlık nedeniyle oynamayacak görünmesiyle birlikte Chicago'nun hücumda istikrar arayacağını gösteriyor. Sürpriz ihtimali %41 olduğundan orta düzeyde ve görmezden gelinmeyecek bir olasılık.",
+        "de": "Charlotte Hornets geht mit einem leichten Vorsprung in das Spiel gegen die Chicago Bulls, mit einer Wahrscheinlichkeit von 59% gegenüber 41%; die Partie ist ausgeglichen, doch der Heimvorteil ist deutlich spürbar. Die erwartete Gesamtpunktzahl liegt bei etwa 220 und damit leicht unter dem Durchschnitt von 225 aus unserem Archiv mit 31 NBA-Spielen, was auf ein Duell mit niedrigem Tempo hinweist, das bis ins letzte Viertel eng verlaufen dürfte. Dass die Bulls in ihren letzten drei Spielen im Schnitt 120 Punkte erzielt und 119 Punkte kassiert haben, und dass Norman Powell und Caleb Wilson wegen Verletzungen voraussichtlich nicht spielen werden, deutet darauf hin, dass Chicago in der Offensive nach Stabilität suchen wird. Die Überraschungswahrscheinlichkeit liegt bei 41%, ist also moderat und sollte nicht außer Acht gelassen werden.",
+        "fr": "Les Charlotte Hornets entrent sur le terrain avec un léger avantage face aux Chicago Bulls, avec une probabilité de 59 % contre 41 %; la rencontre est équilibrée, mais la part de l'équipe à domicile est nettement visible. Le total de points attendu est d'environ 220, légèrement inférieur à la moyenne de 225 de nos 31 matchs NBA archivés, ce qui laisse présager une rencontre au rythme modéré, restée serrée jusqu'au dernier quart-temps. Les Bulls ont marqué 120 points par match et en ont encaissé 119 lors de leurs trois dernières rencontres, et l'absence probable de Norman Powell et Caleb Wilson, blessés, indique que Chicago devra chercher la stabilité offensive. Une surprise a une probabilité de 41 %, un niveau intermédiaire qu'il ne faut pas négliger.",
+        "it": "Charlotte Hornets, Chicago Bulls karşısında %59'a karşılık %41 olasılıkla hafif bir üstünlükle sahaya çıkıyor; maç dengeli ama ev sahibinin payı belirgin. Beklenen total points yaklaşık 220 olup arşivimizdeki 31 NBA maçının ortalaması olan 225'in biraz altında, bu da temposu düşük, son çeyreğe kadar yakın seyreden bir karşılaşmaya işaret ediyor. Bulls'un son üç maçta maç başına 120 sayı atıp 119 sayı yemesi, Norman Powell ve Caleb Wilson'un sakatlık nedeniyle oynamayacak görünmesiyle birlikte Chicago'nun hücumda istikrar arayacağını gösteriyor. Sürpriz ihtimali %41 olduğundan orta düzeyde ve görmezden gelinmeyecek bir olasılık.",
+        "pt": "O Charlotte Hornets entra em quadra com uma leve vantagem sobre o Chicago Bulls, com probabilidade de 59% contra 41%; o jogo está equilibrado, mas a parte do time da casa é evidente. O total de pontos esperado é de cerca de 220, um pouco abaixo da média de 225 dos 31 jogos da NBA em nosso arquivo, o que aponta para um confronto de ritmo mais baixo, equilibrado até o último quarto. A média de 120 pontos marcados e 119 sofridos pelo Bulls nos últimos três jogos, somada à provável ausência de Norman Powell e Caleb Wilson por lesão, indica que Chicago deverá buscar estabilidade no ataque. Como a probabilidade de surpresa é de 41%, trata-se de um cenário de nível médio que não deve ser ignorado."
+      },
+      "kilit_utc": "2026-11-25T18:38:12Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -368,11 +445,15 @@
       "sakatlik": {
         "ev_sahibi": [
           {
-            "oyuncu": "Dennis Schroder",
+            "oyuncu": "Ryan Kalkbrenner",
             "durum": "oynamayacak"
           },
           {
             "oyuncu": "Grayson Allen",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Dennis Schroder",
             "durum": "oynamayacak"
           },
           {
@@ -401,11 +482,21 @@
       "deplasman": "Cleveland Cavaliers",
       "baslama_utc": "2026-11-26T00:40:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5313,
+        "2": 0.4687
+      },
+      "tahmin": "1",
+      "guven": 0.0626,
+      "sayi": {
+        "toplam": 216.5,
+        "toplam_kaynak": 16,
+        "fark": 1.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 109,
+        "dep_sayi": 108
+      },
       "dinlenme": {
         "ev": {
           "gun": 2,
@@ -416,9 +507,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Knicks, ev sahibi avantajını da taşıyarak hafif bir farkla önde görünüyor: %53'e karşı %47 bir olasılık dengesi, maçın yakın geçeceğine işaret ediyor. Beklenen toplam sayı 216, arşivimizdeki 31 NBA maçının ortalaması olan 225'in belirgin altında; bu da temposu düşük, savunmanın öne çıktığı bir senaryoyu düşündürüyor. Beklenen 2 sayılık New York farkı ise son çeyreğe kadar sürebilecek bir maç beklentisini destekliyor. Cavaliers'ın Nae'Qwan Tomlin ve Evan Mobley'nin, Knicks'in ise Miles McBride, Jordan Clarkson ve OG Anunoby'nin oynamayacak olması kadro dengesini değiştirebilir. Cleveland'ın %47'lik olasılığı göz ardı edilecek bir ihtimal değil ama bu tablo, tersine dönen bir sonuç için düşük sayılabilecek bir sürpriz ihtimali anlamına geliyor.",
+      "ai_metinler": {
+        "en": "The Knicks appear to hold a slight edge, even while carrying the home-court advantage: a probability balance of 53% against 47% points to a close game. The expected total points is 216, well below the 225 average across our archive of 31 NBA games, which suggests a lower-tempo scenario where defense takes center stage. The expected New York margin of 2 points also supports the expectation of a game that could stay undecided until the final quarter. Cleveland's Nae'Qwan Tomlin and Evan Mobley, and New York's Miles McBride, Jordan Clarkson and OG Anunoby, will not play, which could change the balance of the rosters. Cleveland's 47% probability is not a possibility to be dismissed, but this picture implies a low-probability chance of an upset if the result goes the other way.",
+        "es": "Los Knicks aparecen con una ligera ventaja, beneficiándose también de la ventaja de jugar en casa: una probabilidad de 53% frente a 47%, lo que apunta a que el partido será reñido. El total de puntos esperado es de 216, claramente por debajo del promedio de 225 de los 31 partidos de la NBA de nuestro archivo, lo que sugiere un escenario de ritmo bajo en el que domina la defensa. La diferencia esperada de 2 puntos a favor de New York respalda la expectativa de un encuentro que podría decidirse hasta el último cuarto. La ausencia de Nae'Qwan Tomlin y Evan Mobley en los Cavaliers, así como de Miles McBride, Jordan Clarkson y OG Anunoby en los Knicks, podría alterar el equilibrio de las plantillas. La probabilidad de 47% de Cleveland no es descartable, pero este panorama implica que un resultado inverso, aunque poco probable, sería una sorpresa.",
+        "de": "Die Knicks wirken mit leichtem Vorsprung im Vorteil, da sie zusätzlich vom Heimvorteil profitieren: 53% gegenüber 47% – das deutet auf ein knappes Spiel hin. Die erwartete Gesamtpunktzahl liegt bei 216 und damit deutlich unter dem Durchschnitt von 225 aus unserem Archiv mit 31 NBA-Spielen; das spricht für ein Szenario mit niedrigerem Tempo und einer starken Defensive. Der erwartete Vorsprung von 2 Punkten für New York stützt die Erwartung eines Spiels, das bis ins letzte Viertel offen bleiben könnte. Dass Nae'Qwan Tomlin und Evan Mobley bei den Cavaliers sowie Miles McBride, Jordan Clarkson und OG Anunoby bei den Knicks ausfallen werden, könnte das Gleichgewicht im Kader verändern. Cleveland's Wahrscheinlichkeit von 47% ist nicht zu vernachlässigen, doch dieses Bild bedeutet, dass eine Überraschung mit umgekehrtem Ausgang eine eher geringe Wahrscheinlichkeit hat.",
+        "fr": "Les Knicks apparaissent légèrement en tête, en bénéficiant aussi de l'avantage du terrain : une probabilité de 53 % contre 47 %, ce qui laisse présager un match serré. Le total de points attendu est de 216, nettement en dessous de la moyenne de 225 observée dans nos archives sur 31 matchs de NBA, ce qui évoque un scénario au rythme plus lent, où la défense domine. L'écart attendu de 2 points en faveur de New York soutient quant à lui l'idée d'un match qui pourrait se jouer jusqu'au dernier quart-temps. L'absence de Nae'Qwan Tomlin et d'Evan Mobley côté Cavaliers, ainsi que de Miles McBride, Jordan Clarkson et OG Anunoby côté Knicks, pourrait modifier l'équilibre des effectifs. La probabilité de 47 % pour Cleveland n'est pas à négliger, mais ce scénario signifie qu'un renversement du résultat, bien que peu probable, reste une surprise possible.",
+        "it": "I Knicks, pur portando con sé il vantaggio del campo di casa, appaiono in leggero vantaggio: un equilibrio di probabilità del 53% contro il 47% indica che la partita dovrebbe essere combattuta. I punti totali attesi sono 216, ben al di sotto della media di 225 delle nostre 31 partite NBA archiviate, il che fa pensare a uno scenario a ritmo ridotto, in cui prevale la difesa. Il margine atteso di 2 punti a favore di New York sostiene l'aspettativa di una partita che potrebbe restare aperta fino all'ultimo quarto. L'assenza di Nae'Qwan Tomlin ed Evan Mobley tra i Cavaliers e di Miles McBride, Jordan Clarkson e OG Anunoby tra i Knicks potrebbe modificare l'equilibrio delle rotazioni. La probabilità del 47% dei Cavaliers non è un'ipotesi da trascurare, ma questo quadro indica una possibilità di sorpresa che, per un risultato ribaltato, resta comunque limitata.",
+        "pt": "Knicks, mandante, parece ter uma ligeira vantagem, com uma probabilidade de 53% contra 47%, o que indica que a partida deve ser equilibrada. O total de pontos esperado é de 216, bem abaixo da média de 225 de nossos 31 jogos da NBA em arquivo, o que sugere um cenário de ritmo mais lento e defesas em destaque. A diferença esperada de 2 pontos para o New York favorece a expectativa de um jogo que pode ser decidido apenas no último quarto. Com Nae'Qwan Tomlin e Evan Mobley fora do Cavaliers, e Miles McBride, Jordan Clarkson e OG Anunoby fora do Knicks, o equilíbrio do elenco pode mudar. A probabilidade de 47% do Cleveland não deve ser ignorada, mas esse quadro indica uma chance baixa, porém real, de uma virada no resultado."
+      },
+      "kilit_utc": "2026-11-25T18:38:15Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -510,6 +608,10 @@
       "sakatlik": {
         "ev_sahibi": [
           {
+            "oyuncu": "Miles McBride",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Jordan Clarkson",
             "durum": "oynamayacak"
           },
@@ -529,7 +631,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-24T18:41:21Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.6556,
+          "2": 0.3444
+        },
+        "son": {
+          "1": 0.5313,
+          "2": 0.4687
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -539,11 +652,21 @@
       "deplasman": "Minnesota Timberwolves",
       "baslama_utc": "2026-11-26T00:40:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5319,
+        "2": 0.4681
+      },
+      "tahmin": "1",
+      "guven": 0.0638,
+      "sayi": {
+        "toplam": 222.5,
+        "toplam_kaynak": 16,
+        "fark": 1.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 112,
+        "dep_sayi": 110
+      },
       "dinlenme": {
         "ev": {
           "gun": 2,
@@ -554,9 +677,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Oklahoma City Thunder, %53'lük olasılıkla ev sahibi olarak hafif önde; bu, dengeli bir karşılaşma beklentisi. Beklenen toplam sayı 222 ve beklenen fark yaklaşık 2 sayı, yani son çeyreğe kadar sıkı geçebilecek, skorun yakın seyredeceği bir maç senaryosu öne çıkıyor. Thunder'ın son üç maçtaki 123 sayı yediği savunma tablosu, bu dengeyi destekleyen bir detay. Sürpriz ihtimali yaklaşık %47 olduğu için kayda değer; Minnesota'nın bu olasılığı değerlendirmek için yeterli bir şans olduğu unutulmamalı.",
+      "ai_metinler": {
+        "en": "Oklahoma City Thunder has a 53% probability of winning as the home side, slightly ahead, which points to an evenly balanced matchup. The expected total points is 222 and the expected margin is about 2 points, so a close game that stays tight until the final quarter is the most likely scenario. Thunder's defense, which has allowed 123 points over its last three games, supports this balance. The upset probability is around 47%, which is significant, and Minnesota should not be overlooked as it has a real chance to pull off the result.",
+        "es": "Oklahoma City Thunder, %53 olasılıkla ev sahibi olarak hafif önde; bu, dengeli bir karşılaşma beklentisi. Beklenen toplam sayı 222 ve beklenen fark yaklaşık 2 sayı, yani son çeyreğe kadar sıkı geçebilecek, skorun yakın seyredeceği bir maç senaryosu öne çıkıyor. Thunder'ın son üç maçtaki 123 sayı yediği savunma tablosu, bu dengeyi destekleyen bir detay. Sürpriz ihtimali yaklaşık %47 olduğu için kayda değer; Minnesota'nın bu olasılığı değerlendirmek için yeterli bir şans olduğu unutulmamalı.",
+        "de": "Oklahoma City Thunder ist mit einer Wahrscheinlichkeit von 53% als Gastgeber leicht im Vorteil; das entspricht einer ausgeglichenen Begegnung. Die erwartete Gesamtpunktzahl liegt bei 222 und der erwartete Abstand bei etwa 2 Punkten, sodass sich ein enges Spiel abzeichnet, bei dem das Ergebnis bis zum letzten Viertel offen bleiben kann. Ein Detail, das diese Ausgeglichenheit stützt, ist die Verteidigungsbilanz der Thunder: In den letzten drei Spielen haben sie 123 Punkte zugelassen. Die Wahrscheinlichkeit für eine Überraschung liegt bei rund 47%, was durchaus bemerkenswert ist; Minnesota hat damit eine realistische Chance, dieses Szenario zu seinen Gunsten zu wenden.",
+        "fr": "Oklahoma City Thunder, %53 olasılıkla ev sahibi olarak hafif önde; bu, dengeli bir karşılaşma beklentisi. Beklenen toplam sayı 222 ve beklenen fark yaklaşık 2 sayı, yani son çeyreğe kadar sıkı geçebilecek, skorun yakın seyredeceği bir maç senaryosu öne çıkıyor. Thunder'ın son üç maçtaki 123 sayı yediği savunma tablosu, bu dengeyi destekleyen bir detay. Sürpriz ihtimali yaklaşık %47 olduğu için kayda değer; Minnesota'nın bu olasılığı değerlendirmek için yeterli bir şans olduğu unutulmamalı.",
+        "it": "Oklahoma City Thunder, %53 olasılıkla ev sahibi olarak hafif önde; bu, dengeli bir karşılaşma beklentisi. Beklenen total points 222 ve beklenen fark yaklaşık 2 sayı, yani son çeyreğe kadar sıkı geçebilecek, skorun yakın seyredeceği bir maç senaryosu öne çıkıyor. Thunder'ın son üç maçtaki 123 sayı yediği savunma tablosu, bu dengeyi destekleyen bir detay. Sürpriz ihtimali yaklaşık %47 olduğu için kayda değer; Minnesota'nın bu olasılığı değerlendirmek için yeterli bir şans olduğu unutulmamalı.",
+        "pt": "O Oklahoma City Thunder tem uma leve vantagem como anfitrião, com probabilidade de 53%; isso aponta para um confronto equilibrado. O total de pontos esperado é 222 e a diferença esperada é de aproximadamente 2 pontos, ou seja, um cenário de jogo em que o placar deve permanecer apertado até o último quarto. A defesa do Thunder, que sofreu 123 pontos nos últimos três jogos, é um detalhe que sustenta esse equilíbrio. A probabilidade de uma surpresa é de cerca de 47%, o que é significativo; vale lembrar que o Minnesota tem chances suficientes para aproveitar essa possibilidade."
+      },
+      "kilit_utc": "2026-11-25T18:38:17Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -700,7 +830,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-24T18:41:21Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.568,
+          "2": 0.432
+        },
+        "son": {
+          "1": 0.5319,
+          "2": 0.4681
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -710,11 +851,21 @@
       "deplasman": "Brooklyn Nets",
       "baslama_utc": "2026-11-26T01:10:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5234,
+        "2": 0.4766
+      },
+      "tahmin": "1",
+      "guven": 0.0468,
+      "sayi": {
+        "toplam": 234.0,
+        "toplam_kaynak": 16,
+        "fark": 1.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 118,
+        "dep_sayi": 116
+      },
       "dinlenme": {
         "ev": {
           "gun": 2,
@@ -725,9 +876,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Milwaukee Bucks, Brooklyn Nets karşısında yalnızca hafif bir üstünlüğe sahip; %52'lik olasılık ve yaklaşık 2 sayılık beklenen fark dengeli bir karşılaşmaya işaret ediyor. Beklenen toplam sayı 234, arşivimizdeki 31 NBA maçının ortalaması olan 225'in belirgin üzerinde, bu yüzden tempolu ve sayı bol bir maç bekleniyor. Brooklyn tarafında Nolan Traore'nin sakatlık listesinde oynamayacak görünmesi, Nets'in rotasyonunu etkileyebilecek bir ayrıntı. Sürpriz ihtimali yaklaşık %48, yani bu maçta Brooklyn'in galibiyeti hiç de uzak bir senaryo değil.",
+      "ai_metinler": {
+        "en": "The Milwaukee Bucks hold only a slight edge over the Brooklyn Nets; a 52% probability and an expected margin of about 2 points point to an evenly balanced matchup. The expected total points is 234, clearly above the 225 average from our archive of 31 NBA games, so a fast-paced, high-scoring game is anticipated. On the Brooklyn side, Nolan Traore appears set to miss the game due to injury, a detail that could affect the Nets' rotation. The upset probability is roughly 48%, so a Brooklyn win in this game is far from an unlikely scenario.",
+        "es": "Milwaukee Bucks tiene solo una ligera ventaja frente a Brooklyn Nets; una probabilidad del 52% y una diferencia esperada de unos 2 puntos apuntan a un partido equilibrado. El total de puntos esperado es 234, muy por encima del promedio de 225 de los 31 partidos de la NBA de nuestro archivo, por lo que se espera un encuentro dinámico y con muchas anotaciones. En el lado de Brooklyn, que Nolan Traore aparezca en la lista de lesionados y parezca que no jugará es un detalle que podría afectar la rotación de los Nets. La probabilidad de sorpresa es de aproximadamente el 48%, así que una victoria de Brooklyn en este partido no es, ni mucho menos, un escenario remoto.",
+        "de": "Milwaukee Bucks hat gegenüber den Brooklyn Nets nur einen leichten Vorteil; eine Wahrscheinlichkeit von 52% und ein erwarteter Vorsprung von etwa 2 Punkten deuten auf ein ausgeglichenes Duell hin. Die erwartete Gesamtpunktzahl liegt bei 234 total points und damit deutlich über dem Durchschnitt von 225 aus unseren 31 archivierten NBA-Spielen; daher wird eine temporeiche, punktereiche Partie erwartet. Auf Seiten der Nets ist Nolan Traore laut Verletzungsliste voraussichtlich nicht einsatzbereit, was die Rotation der Nets beeinflussen könnte. Die Wahrscheinlichkeit für eine Überraschung liegt bei etwa 48%; ein Sieg der Brooklyn Nets in diesem Spiel ist also keineswegs ein unrealistisches Szenario.",
+        "fr": "Milwaukee Bucks ne dispose que d'un léger avantage face aux Brooklyn Nets : une probabilité de 52 % et un écart attendu d'environ 2 points indiquent une rencontre équilibrée. Le total points attendu est de 234, nettement au-dessus de la moyenne de 225 calculée sur les 31 matchs NBA de nos archives, si bien qu'on s'attend à un match rythmé et riche en points. Côté Brooklyn, Nolan Traore semble absent de la feuille de match en raison d'une blessure, un détail qui pourrait peser sur la rotation des Nets. La probabilité d'une surprise est d'environ 48 %, ce qui signifie qu'une victoire de Brooklyn n'a rien d'un scénario lointain dans ce match.",
+        "it": "Milwaukee Bucks, Brooklyn Nets karşısında yalnızca hafif bir üstünlüğe sahip; %52'lik probability ve yaklaşık 2 sayılık beklenen fark dengeli bir karşılaşmaya işaret ediyor. Beklenen total points 234, arşivimizdeki 31 NBA maçının ortalaması olan 225'in belirgin üzerinde, bu yüzden tempolu ve sayı bol bir maç bekleniyor. Brooklyn tarafında Nolan Traore'nin sakatlık listesinde oynamayacak görünmesi, Nets'in rotasyonunu etkileyebilecek bir ayrıntı. Sürpriz probability yaklaşık %48, yani bu maçta Brooklyn'in galibiyeti hiç de uzak bir senaryo değil.",
+        "pt": "O Milwaukee Bucks tem apenas uma leve vantagem sobre o Brooklyn Nets; a probabilidade de 52% e a diferença esperada de cerca de 2 pontos indicam um confronto equilibrado. O total de pontos esperado é 234, bem acima da média de 225 nos 31 jogos da NBA em nosso arquivo, por isso se espera uma partida acelerada e com muitos pontos. Do lado do Brooklyn, a ausência de Nolan Traore, que aparece na lista de lesionados e provavelmente não jogará, é um detalhe que pode afetar a rotação do Nets. A probabilidade de surpresa é de cerca de 48%, portanto uma vitória do Brooklyn nesta partida está longe de ser um cenário improvável."
+      },
+      "kilit_utc": "2026-11-25T18:38:19Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -835,11 +993,21 @@
       "deplasman": "Los Angeles Clippers",
       "baslama_utc": "2026-11-26T01:10:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6975,
+        "2": 0.3025
+      },
+      "tahmin": "1",
+      "guven": 0.395,
+      "sayi": {
+        "toplam": 227.5,
+        "toplam_kaynak": 16,
+        "fark": 7.0,
+        "fark_kaynak": 16,
+        "ev_sayi": 117,
+        "dep_sayi": 110
+      },
       "dinlenme": {
         "ev": {
           "gun": 2,
@@ -850,9 +1018,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Memphis Grizzlies, evinde %70 olasılıkla favori ve maç belirgin biçimde onların lehine görünüyor. 228 olan beklenen toplam sayı lig ortalamasına (225) yakın, bu yüzden tempolu ama dengeli bir maç bekleniyor; Memphis'in yaklaşık 7 sayılık beklenen farkı da rahat ama tek haneli bir galibiyet senaryosuna işaret ediyor. Pippen Jr., Boozer, Grant ve Jackson'ın sakatlık listesinde görünmesi, Memphis'in rotasyonunda eksiklik yaratabilecek bir noktadır ve bunun maçın akışını etkileyip etkilemeyeceği izlenmeye değer. Clippers'ın %30'luk olasılığı, sürprizin mümkün olduğunu gösteriyor ancak bu ihtimal düşük sayılmaz; dengeli bir maçta son çeyrek sonucu belirleyebilir.",
+      "ai_metinler": {
+        "en": "The Memphis Grizzlies are the favorite at home with a 70% probability, and the match appears clearly in their favor. The expected total points of 228 is close to the league average of 225, so a fast-paced but balanced game is anticipated; Memphis's expected margin of about 7 points also points to a comfortable but single-digit win scenario. Pippen Jr., Boozer, Grant, and Jackson appearing on the injury list is a point where Memphis could face shortages in its rotation, and whether this affects the flow of the game is worth monitoring. The Clippers' 30% probability shows that an upset is possible, though this chance should not be considered low; in a balanced match, the final quarter could decide the result.",
+        "es": "Memphis Grizzlies, en su casa, aparece como favorito con una probabilidad del 70% y el partido parece claramente a su favor. El total de puntos esperado, 228, está cerca del promedio de la liga (225), por lo que se espera un encuentro dinámico pero equilibrado; la diferencia esperada de unos 7 puntos a favor de Memphis también apunta a un escenario de victoria cómoda pero de un solo dígito. Que Pippen Jr., Boozer, Grant y Jackson aparezcan en la lista de lesionados es un punto a considerar, ya que podría generar faltas de rotación en Memphis, y vale la pena observar si esto afecta el desarrollo del partido. La probabilidad del 30% para los Clippers muestra que la sorpresa es posible, y no es una posibilidad menor; en un partido equilibrado, el último cuarto podría ser decisivo.",
+        "de": "Die Memphis Grizzlies sind im eigenen Haus mit einer Wahrscheinlichkeit von 70 % der Favorit, und die Partie spricht deutlich für sie. Die erwartete Gesamtpunktzahl von 228 liegt nahe am Ligadurchschnitt von 225, daher wird ein temporeiches, aber ausgeglichenes Spiel erwartet; auch der erwartete Vorsprung von rund 7 Punkten für Memphis deutet auf einen komfortablen, aber einstelligen Sieg hin. Dass Pippen Jr., Boozer, Grant und Jackson auf der Verletztenliste stehen, ist ein Punkt, der Memphis in der Rotation fehlen könnte; es lohnt sich zu beobachten, ob dies den Spielverlauf beeinflusst. Die Wahrscheinlichkeit von 30 % für die Clippers zeigt, dass eine Überraschung möglich ist, und diese Chance ist nicht gering: In einer ausgeglichenen Partie könnte das letzte Viertel über das Ergebnis entscheiden.",
+        "fr": "Memphis Grizzlies, à domicile, apparaissent comme favoris avec une probabilité de 70 %, et le match semble nettement pencher en leur faveur. Le total de points attendu, 228, est proche de la moyenne de la ligue (225) : on s'attend donc à un match rythmé mais équilibré. L'écart attendu d'environ 7 points en faveur de Memphis suggère également un scénario de victoire confortable mais à un chiffre. La présence de Pippen Jr., Boozer, Grant et Jackson sur la liste des blessés constitue un point à surveiller, car cela peut créer un manque de profondeur dans la rotation de Memphis, et il vaut la peine de suivre si cela influencera le déroulement du match. La probabilité de 30 % pour les Clippers montre qu'une surprise reste possible ; ce n'est pas une hypothèse à écarter, et dans un match équilibré, le dernier quart-temps pourrait faire la différence.",
+        "it": "Memphis Grizzlies, in casa, appare favorita con una probabilità del 70%, e la partita sembra chiaramente a loro favore. Il totale di punti atteso, 228, è vicino alla media del campionato (225), quindi ci si aspetta una partita ritmata ma equilibrata; anche il margine previsto di circa 7 punti per Memphis indica uno scenario di vittoria comoda ma con scarto a una sola cifra. Il fatto che Pippen Jr., Boozer, Grant e Jackson compaiano nell'elenco degli infortunati è un aspetto da tenere d'occhio, perché potrebbe creare lacune nella rotazione di Memphis e vale la pena osservare se influenzerà l'andamento del match. La probabilità del 30% per i Clippers indica che una sorpresa è possibile, e non va considerata remota: in una partita equilibrata, l'ultimo quarto potrebbe risultare decisivo.",
+        "pt": "Memphis Grizzlies, em casa, aparece como favorito com 70% de probabilidade, e o jogo parece claramente favorável a eles. O total de pontos esperado, 228, fica próximo da média da liga (225), então se espera um jogo com ritmo acelerado, mas equilibrado; a diferença esperada de cerca de 7 pontos para o Memphis também aponta para um cenário de vitória tranquila, porém por uma margem de um dígito. O fato de Pippen Jr., Boozer, Grant e Jackson aparecerem na lista de lesionados é um ponto que cria falta de profundidade na rotação do Memphis, e vale acompanhar se isso vai afetar o andamento da partida. A probabilidade de 30% do Clippers mostra que a surpresa é possível, e essa chance não deve ser considerada baixa; em um jogo equilibrado, o último quarto pode definir o resultado."
+      },
+      "kilit_utc": "2026-11-25T18:38:21Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -966,7 +1141,18 @@
         ],
         "deplasman": []
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-25T02:46:57Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.692,
+          "2": 0.308
+        },
+        "son": {
+          "1": 0.6975,
+          "2": 0.3025
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -976,11 +1162,21 @@
       "deplasman": "Phoenix Suns",
       "baslama_utc": "2026-11-26T01:40:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7591,
+        "2": 0.2409
+      },
+      "tahmin": "1",
+      "guven": 0.5182,
+      "sayi": {
+        "toplam": 222.5,
+        "toplam_kaynak": 16,
+        "fark": 9.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 116,
+        "dep_sayi": 106
+      },
       "dinlenme": {
         "ev": {
           "gun": 1,
@@ -991,9 +1187,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Houston Rockets, ev sahibi avantajıyla %76'lık olasılıkla belirgin bir favori; beklenen farkın yaklaşık 10 sayı olması bu üstünlüğün rahat bir galibiyete işaret ettiğini gösteriyor. Beklenen toplam sayı 222 civarında ve arşivimizdeki NBA ortalamasına (225) yakın, dolayısıyla tempolu ama aşırı skor patlamasının beklenmediği bir maç senaryosu öne çıkıyor. Phoenix Suns'ta Mark Williams'ın sakatlık listesinde görünmesi, deplasman ekibinin iç saha dengesini zorlaştırabilecek bir eksiklik. Sürpriz ihtimali %24, yani düşük olmayan ama beklenen sonucun dışında kalan bir ihtimal.",
+      "ai_metinler": {
+        "en": "Houston Rockets, home-court advantage in their favor, are clear favorites with a 76% probability; an expected margin of roughly 10 points indicates that this edge points to a comfortable win. The expected total points is around 222, close to the NBA average in our archive (225), so the scenario that stands out is a fast-paced game without an expected scoring explosion. Mark Williams appearing on the injury list for Phoenix Suns is a shortfall that could make it harder for the visiting team to maintain its home-court balance. The upset probability is 24%, meaning it is not low but remains outside the expected outcome.",
+        "es": "Houston Rockets, ventaja de local, es un claro favorito con una probabilidad del 76%; la diferencia esperada de unos 10 puntos indica que esta superioridad apunta a una victoria cómoda. El total de puntos esperado ronda los 222, cerca del promedio de la NBA en nuestro archivo (225), por lo que se perfila un escenario de partido con ritmo, pero sin una explosión de anotación desmedida. La presencia de Mark Williams en la lista de lesionados de Phoenix Suns es una baja que puede complicarle al equipo visitante el equilibrio en la cancha local. La probabilidad de sorpresa es del 24%: no es baja, pero queda fuera del resultado esperado.",
+        "de": "Houston Rockets sind mit Heimvorteil mit einer Wahrscheinlichkeit von 76% ein klarer Favorit; der erwartete Abstand von etwa 10 Punkten deutet darauf hin, dass diese Überlegenheit zu einem deutlichen Sieg führen dürfte. Die erwartete Gesamtpunktzahl liegt bei rund 222 und somit nahe am NBA-Durchschnitt aus unserem Archiv (225). Ein temporeiches Spiel ohne übermäßige Punkteflut ist daher das wahrscheinlichste Szenario. Mark Williams steht bei den Phoenix Suns auf der Verletztenliste, was eine Schwächung für das Auswärtsteam darstellt und die Ausgeglichenheit im Heimspiel erschweren könnte. Die Wahrscheinlichkeit für eine Überraschung liegt bei 24%: nicht gering, aber außerhalb des erwarteten Ergebnisses.",
+        "fr": "Houston Rockets, avantage du terrain oblige, est un favori net avec une probabilité de 76 % ; l'écart attendu d'environ 10 points indique que cette supériorité devrait se traduire par une victoire confortable. Le total de points attendu se situe autour de 222, proche de la moyenne NBA de nos archives (225), ce qui dessine un scénario de match rythmé mais sans explosion de score excessive. L'absence de Mark Williams sur la liste des blessés chez les Phoenix Suns constitue un manque susceptible de compliquer l'équilibre de l'équipe visiteuse à domicile. La probabilité de surprise est de 24 %, un risque non négligeable mais qui reste en dehors du résultat attendu.",
+        "it": "Gli Houston Rockets, con il vantaggio del campo, sono i netti favoriti con una probabilità del 76%; la differenza attesa di circa 10 punti indica che questa superiorità si traduce in una vittoria tranquilla. Il totale punti atteso è di circa 222, vicino alla media NBA del nostro archivio (225), quindi lo scenario più probabile è quello di una partita ritmata ma senza un'esplosione eccessiva di punti. Il fatto che Mark Williams dei Phoenix Suns compaia nella lista degli infortunati rappresenta un'assenza che potrebbe rendere più difficile per la squadra ospite mantenere l'equilibrio in trasferta. La probabilità di una sorpresa è del 24%: non trascurabile, ma al di fuori dell'esito atteso.",
+        "pt": "Houston Rockets, mandante com vantagem de jogar em casa, é um favorito claro, com probabilidade de 76%; a diferença esperada de cerca de 10 pontos indica que essa superioridade aponta para uma vitória tranquila. O total de pontos esperado gira em torno de 222, próximo da média da NBA em nosso arquivo (225), por isso o cenário mais provável é um jogo com ritmo intenso, mas sem uma explosão de pontos fora do esperado. Mark Williams aparecer na lista de lesionados do Phoenix Suns é uma ausência que pode dificultar o equilíbrio defensivo da equipe visitante em casa. A probabilidade de surpresa é de 24%: não é baixa, mas continua sendo uma possibilidade fora do resultado esperado."
+      },
+      "kilit_utc": "2026-11-25T18:38:23Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1092,7 +1295,7 @@
         ]
       },
       "hareket": null,
-      "ucretsiz": false
+      "ucretsiz": true
     },
     {
       "mac_id": "e6df92326adb480e427bb7c10f445c60",
@@ -1101,11 +1304,21 @@
       "deplasman": "Sacramento Kings",
       "baslama_utc": "2026-11-26T03:10:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6906,
+        "2": 0.3094
+      },
+      "tahmin": "1",
+      "guven": 0.3812,
+      "sayi": {
+        "toplam": 216.5,
+        "toplam_kaynak": 16,
+        "fark": 6.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 112,
+        "dep_sayi": 105
+      },
       "dinlenme": {
         "ev": {
           "gun": 3,
@@ -1116,9 +1329,16 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Golden State Warriors, %69 kazanma olasılığı ve yaklaşık 6 sayı farkla evinde belirgin biçimde önde görünüyor. Beklenen toplam sayının 216 olması, arşivdeki 225'lik ortalamanın altında kalan, daha kontrollü bir maç tablosuna işaret ediyor. Sacramento Kings'in son üç maçta maç başına 108 sayı yemesi ve Golden State'in üç günlük dinlenmesi, Warriors'ın bu avantajı rahat bir galibiyete çevirebileceği bir senaryoyu güçlendiriyor. Kings'in %31'lik olasılığı göz ardı edilmemeli, ancak bu ihtimalin gerçekleşmesi düşük bir olasılık olarak değerlendirilebilir.",
+      "ai_metinler": {
+        "en": "Golden State Warriors appear clearly ahead at home, with a 69% probability of winning and a margin of roughly 6 points. The expected total points of 216 point to a more controlled game than the 225 average in the archive. Sacramento Kings allowing an average of 108 points over their last three games, along with Golden State's three days of rest, supports a scenario in which the Warriors convert this advantage into a comfortable win. The Kings' 31% probability should not be overlooked, but the chance of that outcome occurring is considered low.",
+        "es": "Golden State Warriors, un 69% de probabilidad de victoria y una ventaja de unos 6 puntos, aparece como claramente favorito en su casa. Que el total de puntos esperado sea 216, por debajo del promedio de 225 registrado en el archivo, apunta a un partido de tablero más controlado. La recepción de 108 puntos por partido de los Sacramento Kings en sus últimos tres encuentros y los tres días de descanso de Golden State refuerzan un escenario en el que los Warriors podrían convertir esta ventaja en una victoria cómoda. La probabilidad del 31% de los Kings no debe descartarse, aunque que se materialice se considera una posibilidad poco probable.",
+        "de": "Golden State Warriors wirkt mit einer Gewinnwahrscheinlichkeit von 69% und einem Vorsprung von etwa 6 Punkten auf eigenem Platz deutlich im Vorteil. Die erwartete Gesamtpunktzahl von 216 deutet auf ein kontrolliertes Spiel hin, das unter dem Archivdurchschnitt von 225 liegt. Dass die Sacramento Kings in den letzten drei Spielen im Schnitt 108 Punkte kassiert haben und die Golden State Warriors drei Tage Pause hatten, stützt ein Szenario, in dem die Warriors ihren Vorteil in einen klaren Sieg ummünzen können. Die Wahrscheinlichkeit der Kings von 31% sollte dennoch nicht ignoriert werden, auch wenn das Eintreten dieses Szenarios als unwahrscheinlich gilt.",
+        "fr": "Golden State Warriors apparaît nettement favori à domicile, avec une probabilité de victoire de 69 % et un écart d'environ 6 points. Le total de points attendu de 216 laisse entrevoir un match plus maîtrisé que la moyenne des archives, qui s'établit à 225. Les Sacramento Kings ont encaissé 108 points par match lors de leurs trois dernières rencontres, et les Warriors bénéficient de trois jours de repos, des éléments qui renforcent le scénario d'une victoire aisée pour Golden State. La probabilité de 31 % pour les Kings ne doit pas être ignorée, mais la réalisation de ce scénario reste peu probable.",
+        "it": "Golden State Warriors, 69% di probabilità di vittoria e un vantaggio di circa 6 punti, appare nettamente favorita in casa. Il totale punti atteso di 216 indica una partita più controllata, al di sotto della media di 225 registrata negli archivi. Il fatto che i Sacramento Kings abbiano subito 108 punti di media nelle ultime tre partite e che i Golden State abbiano tre giorni di riposo rafforza uno scenario in cui i Warriors potrebbero trasformare questo vantaggio in una vittoria comoda. La probabilità del 31% dei Kings non va ignorata, ma la realizzazione di questa ipotesi può essere considerata poco probabile.",
+        "pt": "Golden State Warriors, 69% de probabilidade de vitória e uma vantagem de cerca de 6 pontos, parece claramente favorito em casa. O total de pontos esperado de 216 aponta para um jogo mais controlado, abaixo da média de 225 do arquivo. O fato de o Sacramento Kings ter sofrido 108 pontos por jogo nas últimas três partidas e o Golden State ter três dias de descanso reforça um cenário em que os Warriors podem transformar essa vantagem em uma vitória tranquila. A probabilidade de 31% do Kings não deve ser ignorada, mas a concretização desse cenário é considerada baixa."
+      },
+      "kilit_utc": "2026-11-25T18:38:25Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1241,7 +1461,18 @@
           }
         ]
       },
-      "hareket": null,
+      "hareket": {
+        "ilk_utc": "2026-11-25T02:46:57Z",
+        "son_utc": "2026-11-25T18:38:07Z",
+        "ilk": {
+          "1": 0.6655,
+          "2": 0.3345
+        },
+        "son": {
+          "1": 0.6906,
+          "2": 0.3094
+        }
+      },
       "ucretsiz": false
     },
     {
@@ -1251,11 +1482,21 @@
       "deplasman": "San Antonio Spurs",
       "baslama_utc": "2026-11-26T03:10:00Z",
       "gece": "2026-11-25",
-      "durum": "kilit_bekliyor",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "sayi": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4293,
+        "2": 0.5707
+      },
+      "tahmin": "2",
+      "guven": 0.1414,
+      "sayi": {
+        "toplam": 225.5,
+        "toplam_kaynak": 16,
+        "fark": -2.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 112,
+        "dep_sayi": 114
+      },
       "dinlenme": {
         "ev": {
           "gun": 2,
@@ -1266,9 +1507,15 @@
           "arka_arkaya": false
         }
       },
-      "ai_metin": null,
-      "ai_metinler": null,
-      "kilit_utc": "2026-11-25T18:45:00Z",
+      "ai_metin": "Maçta deplasman ekibi San Antonio Spurs %57 kazanma olasılığıyla hafif öne çıkıyor; ancak %43'lük Portland payı, sonucun son ana kadar açık kalabileceğini gösteriyor. Beklenen toplam sayı 226, arşivimizin ortalaması olan 225'e çok yakın, dolayısıyla tempolu ama lig normlarında bir maç bekleniyor. Beklenen 2 sayılık fark, galibiyetin dar bir farkla gelebileceğine işaret ediyor. Portland'ın Ja Morant ve Shaedon Sharpe'ın sakatlık listesinde olması, Spurs'ün de Dylan Harper ve Tobias Harris'in eksikliğiyle karşı karşıya olması nedeniyle bu tablo kadro tarafında dengeli görünüyor. Sürpriz ihtimali %43 olduğundan düşük sayılmaz.",
+      "ai_metinler": {
+        "en": "The visiting San Antonio Spurs are slight favorites with a 57% probability of winning, but Portland's 43% share shows the result could stay open until the final moments. The expected total points is 226, very close to our archive average of 225, so a fast-paced game within normal league levels is expected. The expected 2-point margin suggests the win could come by a narrow gap. With Ja Morant and Shaedon Sharpe on Portland's injury list and Dylan Harper and Tobias Harris missing for San Antonio, the roster picture looks balanced. A 43% chance of an upset is not considered low.",
+        "es": "El equipo visitante, San Antonio Spurs, destaca ligeramente con una probabilidad de victoria del 57%; sin embargo, la probabilidad del 43% de Portland indica que el resultado podría mantenerse abierto hasta el último momento. Se espera un total de puntos de 226, muy cercano al promedio de nuestro archivo, que es de 225, por lo que se prevé un partido de ritmo alto pero dentro de las normas de la liga. La diferencia esperada de 2 puntos sugiere que la victoria podría llegar por un margen estrecho. Con Ja Morant y Shaedon Sharpe en la lista de lesionados de Portland, y Dylan Harper y Tobias Harris ausentes en San Antonio, el panorama en cuanto a plantillas se ve equilibrado. Una sorpresa no es improbable, ya que el 43% no es una cifra baja.",
+        "fr": "Lors de ce match, l'équipe visiteuse San Antonio Spurs prend légèrement l'avantage avec une probabilité de victoire de 57 %, mais la part de 43 % de Portland montre que le résultat peut rester ouvert jusqu'au dernier instant. Le total de points attendu est de 226, très proche de la moyenne de nos archives, qui est de 225 ; on peut donc s'attendre à un match rythmé, dans les normes de la ligue. L'écart attendu de 2 points indique que la victoire pourrait se jouer sur une marge serrée. Avec Ja Morant et Shaedon Sharpe sur la liste des blessés côté Portland, et Dylan Harper et Tobias Harris absents côté Spurs, ce tableau apparaît équilibré sur le plan de l'effectif. Une surprise à 43 % ne saurait être considérée comme improbable.",
+        "it": "La squadra in trasferta San Antonio Spurs è leggermente favorita nella partita con una probabilità del 57%, ma la quota del 43% per Portland indica che il risultato potrebbe restare aperto fino all'ultimo momento. Il totale di punti previsto è 226, molto vicino alla media del nostro archivio pari a 225, quindi ci si aspetta una partita ritmata ma nella norma del campionato. La differenza prevista di 2 punti suggerisce che la vittoria potrebbe arrivare con uno scarto ridotto. Con Ja Morant e Shaedon Sharpe nella lista degli infortunati per Portland e Dylan Harper e Tobias Harris assenti per San Antonio, il quadro appare equilibrato sul piano delle rose. Una sorpresa con probabilità del 43% non va considerata trascurabile.",
+        "pt": "O jogo tem o time visitante San Antonio Spurs levemente à frente, com 57% de probabilidade de vitória; ainda assim, a fatia de 43% do Portland mostra que o resultado pode permanecer em aberto até o último momento. O total de pontos esperado é 226, muito próximo da média do nosso arquivo, que é 225, então se espera uma partida acelerada, dentro dos padrões da liga. A diferença esperada de 2 pontos indica que a vitória pode vir por uma margem estreita. Com Ja Morant e Shaedon Sharpe na lista de lesionados do Portland, e Dylan Harper e Tobias Harris ausentes do Spurs, esse cenário parece equilibrado do ponto de vista do elenco. Uma zebra com 43% de probabilidade não deve ser considerada improvável."
+      },
+      "kilit_utc": "2026-11-25T18:38:28Z",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1396,7 +1643,51 @@
     }
   ],
   "en_guclu_3": {
-    "gunler": [],
+    "gunler": [
+      {
+        "tarih": "2026-11-25",
+        "maclar": [
+          {
+            "mac_id": "60fd73164f7b0d1848f998d922155d87",
+            "lig": "basketball_nba",
+            "ev_sahibi": "Houston Rockets",
+            "deplasman": "Phoenix Suns",
+            "baslama_utc": "2026-11-26T01:40:00Z",
+            "tahmin": "1",
+            "olasilik": 0.7591,
+            "guven": 0.5182,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "b9ad9b132e4fd83592ee6cb62ea5cd46",
+            "lig": "basketball_euroleague",
+            "ev_sahibi": "Real Madrid",
+            "deplasman": "Žalgiris",
+            "baslama_utc": "2026-11-25T19:45:00Z",
+            "tahmin": "1",
+            "olasilik": 0.7131,
+            "guven": 0.4262,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "698d6d78acf30f4ff4e4aaf6670249ee",
+            "lig": "basketball_nba",
+            "ev_sahibi": "Memphis Grizzlies",
+            "deplasman": "Los Angeles Clippers",
+            "baslama_utc": "2026-11-26T01:10:00Z",
+            "tahmin": "1",
+            "olasilik": 0.6975,
+            "guven": 0.395,
+            "skor": null,
+            "tuttu": null
+          }
+        ],
+        "tutan": 0,
+        "sonuclanan": 0
+      }
+    ],
     "dun": {
       "tarih": "2026-11-24",
       "maclar": [
@@ -1449,8 +1740,8 @@
   },
   "lig_ortalamalari": {
     "basketball_nba": {
-      "ortalama_toplam": 225.4,
-      "mac": 31
+      "ortalama_toplam": 225.2,
+      "mac": 40
     }
   }
 }

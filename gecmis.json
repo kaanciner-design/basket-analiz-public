@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-25T12:23:25Z",
-  "mac_sayisi": 37,
+  "guncelleme_utc": "2026-11-25T18:38:06Z",
+  "mac_sayisi": 38,
   "maclar": [
+    {
+      "mac_id": "40589eed5e6894d5b8598ee721b9d57b",
+      "lig": "basketball_euroleague",
+      "ev_sahibi": "Dubai",
+      "deplasman": "Partizan",
+      "baslama_utc": "2026-11-25T16:00:00Z",
+      "gece": "2026-11-25",
+      "olasiliklar": {
+        "1": 0.6983,
+        "2": 0.3017
+      },
+      "tahmin": "1",
+      "guven": 0.3966,
+      "sayi": {
+        "toplam": 164.5,
+        "toplam_kaynak": 15,
+        "fark": 6.5,
+        "fark_kaynak": 15,
+        "ev_sayi": 86,
+        "dep_sayi": 79
+      },
+      "ai_metin": "Dubai, Partizan karşısında belirgin biçimde önde görünüyor; %70'lik ev sahibi olasılığı, maçın büyük ölçüde Dubai'nin kontrolünde geçeceğine işaret ediyor. Yaklaşık 164 toplam sayı ve Dubai lehine 6 sayılık beklenen fark, tempolu ama son çeyreğe kadar takip edilebilir bir senaryoyu düşündürüyor. Partizan'ın %30'luk ihtimali göz ardı edilmemeli, ancak sürpriz olasılığı yine de sınırlı kalıyor.",
+      "ai_metinler": {
+        "en": "Dubai clearly looks ahead of Partizan; a 70% home-side probability suggests the match is likely to be largely under Dubai's control. A total of around 164 points and an expected Dubai margin of 6 points point to a fast-paced game that should remain trackable until the final quarter. Partizan's 30% probability should not be overlooked, but the chance of an upset still remains limited.",
+        "es": "Dubái parece claramente por delante frente al Partizan; su probabilidad del 70% como local indica que el partido estará en gran medida bajo control de Dubái. Unos 164 puntos totales y una diferencia esperada de 6 puntos a favor de Dubái sugieren un escenario de ritmo alto, pero seguible hasta el último cuarto. La probabilidad del 30% del Partizan no debe pasarse por alto, aunque la posibilidad de una sorpresa sigue siendo limitada.",
+        "de": "Dubai wirkt gegenüber Partizan deutlich im Vorteil; die Heimwahrscheinlichkeit von 70% deutet darauf hin, dass das Spiel weitgehend unter Dubais Kontrolle verlaufen wird. Rund 164 Gesamtpunkte und ein erwarteter Vorsprung von 6 Punkten für Dubai sprechen für ein temporeiches Szenario, das bis ins letzte Viertel gut nachvollziehbar bleibt. Die Wahrscheinlichkeit von 30% für Partizan sollte nicht ignoriert werden, doch die Wahrscheinlichkeit einer Überraschung bleibt insgesamt begrenzt.",
+        "fr": "Dubaï semble nettement en avance face au Partizan ; sa probabilité de victoire à domicile, de 70 %, laisse penser que la rencontre sera largement sous son contrôle. Environ 164 points au total et un écart attendu de 6 points en faveur de Dubaï dessinent un scénario rythmé, mais suivi jusqu'au dernier quart-temps. La probabilité de 30 % pour le Partizan ne doit pas être négligée, bien que les chances d'une véritable surprise restent limitées.",
+        "it": "Dubai sahada Partizan karşısında belirgin biçimde önde görünüyor; %70'lik ev sahibi olasılığı, maçın büyük ölçüde Dubai'nin kontrolünde geçeceğine işaret ediyor. Yaklaşık 164 toplam sayı ve Dubai lehine 6 sayılık beklenen fark, tempolu ama son çeyreğe kadar takip edilebilir bir senaryoyu düşündürüyor. Partizan'ın %30'luk ihtimali göz ardı edilmemeli, ancak sürpriz olasılığı yine de sınırlı kalıyor.",
+        "pt": "Dubai contra o Partizan parece estar claramente à frente; a probabilidade de 70% de vitória do mandante indica que a partida deve ser controlada em grande parte pelo Dubai. Um total de cerca de 164 pontos e uma diferença esperada de 6 pontos a favor do Dubai sugerem um cenário de ritmo intenso, mas que pode ser acompanhado com facilidade até o último quarto. A probabilidade de 30% do Partizan não deve ser ignorada, porém a chance de uma surpresa continua limitada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "6bfadbd22ed8a054cf82ec1b12b78243",
       "lig": "basketball_nba",
