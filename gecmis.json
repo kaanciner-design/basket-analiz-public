@@ -1,7 +1,85 @@
 {
-  "guncelleme_utc": "2026-11-26T01:56:42Z",
-  "mac_sayisi": 48,
+  "guncelleme_utc": "2026-11-26T05:09:56Z",
+  "mac_sayisi": 50,
   "maclar": [
+    {
+      "mac_id": "e6df92326adb480e427bb7c10f445c60",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Golden State Warriors",
+      "deplasman": "Sacramento Kings",
+      "baslama_utc": "2026-11-26T03:10:00Z",
+      "gece": "2026-11-25",
+      "olasiliklar": {
+        "1": 0.6906,
+        "2": 0.3094
+      },
+      "tahmin": "1",
+      "guven": 0.3812,
+      "sayi": {
+        "toplam": 216.5,
+        "toplam_kaynak": 16,
+        "fark": 6.5,
+        "fark_kaynak": 16,
+        "ev_sayi": 112,
+        "dep_sayi": 105
+      },
+      "ai_metin": "Golden State Warriors, %69 kazanma olasılığı ve yaklaşık 6 sayı farkla evinde belirgin biçimde önde görünüyor. Beklenen toplam sayının 216 olması, arşivdeki 225'lik ortalamanın altında kalan, daha kontrollü bir maç tablosuna işaret ediyor. Sacramento Kings'in son üç maçta maç başına 108 sayı yemesi ve Golden State'in üç günlük dinlenmesi, Warriors'ın bu avantajı rahat bir galibiyete çevirebileceği bir senaryoyu güçlendiriyor. Kings'in %31'lik olasılığı göz ardı edilmemeli, ancak bu ihtimalin gerçekleşmesi düşük bir olasılık olarak değerlendirilebilir.",
+      "ai_metinler": {
+        "en": "Golden State Warriors appear clearly ahead at home, with a 69% probability of winning and a margin of roughly 6 points. The expected total points of 216 point to a more controlled game than the 225 average in the archive. Sacramento Kings allowing an average of 108 points over their last three games, along with Golden State's three days of rest, supports a scenario in which the Warriors convert this advantage into a comfortable win. The Kings' 31% probability should not be overlooked, but the chance of that outcome occurring is considered low.",
+        "es": "Golden State Warriors, un 69% de probabilidad de victoria y una ventaja de unos 6 puntos, aparece como claramente favorito en su casa. Que el total de puntos esperado sea 216, por debajo del promedio de 225 registrado en el archivo, apunta a un partido de tablero más controlado. La recepción de 108 puntos por partido de los Sacramento Kings en sus últimos tres encuentros y los tres días de descanso de Golden State refuerzan un escenario en el que los Warriors podrían convertir esta ventaja en una victoria cómoda. La probabilidad del 31% de los Kings no debe descartarse, aunque que se materialice se considera una posibilidad poco probable.",
+        "de": "Golden State Warriors wirkt mit einer Gewinnwahrscheinlichkeit von 69% und einem Vorsprung von etwa 6 Punkten auf eigenem Platz deutlich im Vorteil. Die erwartete Gesamtpunktzahl von 216 deutet auf ein kontrolliertes Spiel hin, das unter dem Archivdurchschnitt von 225 liegt. Dass die Sacramento Kings in den letzten drei Spielen im Schnitt 108 Punkte kassiert haben und die Golden State Warriors drei Tage Pause hatten, stützt ein Szenario, in dem die Warriors ihren Vorteil in einen klaren Sieg ummünzen können. Die Wahrscheinlichkeit der Kings von 31% sollte dennoch nicht ignoriert werden, auch wenn das Eintreten dieses Szenarios als unwahrscheinlich gilt.",
+        "fr": "Golden State Warriors apparaît nettement favori à domicile, avec une probabilité de victoire de 69 % et un écart d'environ 6 points. Le total de points attendu de 216 laisse entrevoir un match plus maîtrisé que la moyenne des archives, qui s'établit à 225. Les Sacramento Kings ont encaissé 108 points par match lors de leurs trois dernières rencontres, et les Warriors bénéficient de trois jours de repos, des éléments qui renforcent le scénario d'une victoire aisée pour Golden State. La probabilité de 31 % pour les Kings ne doit pas être ignorée, mais la réalisation de ce scénario reste peu probable.",
+        "it": "Golden State Warriors, 69% di probabilità di vittoria e un vantaggio di circa 6 punti, appare nettamente favorita in casa. Il totale punti atteso di 216 indica una partita più controllata, al di sotto della media di 225 registrata negli archivi. Il fatto che i Sacramento Kings abbiano subito 108 punti di media nelle ultime tre partite e che i Golden State abbiano tre giorni di riposo rafforza uno scenario in cui i Warriors potrebbero trasformare questo vantaggio in una vittoria comoda. La probabilità del 31% dei Kings non va ignorata, ma la realizzazione di questa ipotesi può essere considerata poco probabile.",
+        "pt": "Golden State Warriors, 69% de probabilidade de vitória e uma vantagem de cerca de 6 pontos, parece claramente favorito em casa. O total de pontos esperado de 216 aponta para um jogo mais controlado, abaixo da média de 225 do arquivo. O fato de o Sacramento Kings ter sofrido 108 pontos por jogo nas últimas três partidas e o Golden State ter três dias de descanso reforça um cenário em que os Warriors podem transformar essa vantagem em uma vitória tranquila. A probabilidade de 31% do Kings não deve ser ignorada, mas a concretização desse cenário é considerada baixa."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9aa9f220709533d70d11f85fae886771",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Portland Trail Blazers",
+      "deplasman": "San Antonio Spurs",
+      "baslama_utc": "2026-11-26T03:10:00Z",
+      "gece": "2026-11-25",
+      "olasiliklar": {
+        "1": 0.4293,
+        "2": 0.5707
+      },
+      "tahmin": "2",
+      "guven": 0.1414,
+      "sayi": {
+        "toplam": 225.5,
+        "toplam_kaynak": 16,
+        "fark": -2.5,
+        "fark_kaynak": 14,
+        "ev_sayi": 112,
+        "dep_sayi": 114
+      },
+      "ai_metin": "Maçta deplasman ekibi San Antonio Spurs %57 kazanma olasılığıyla hafif öne çıkıyor; ancak %43'lük Portland payı, sonucun son ana kadar açık kalabileceğini gösteriyor. Beklenen toplam sayı 226, arşivimizin ortalaması olan 225'e çok yakın, dolayısıyla tempolu ama lig normlarında bir maç bekleniyor. Beklenen 2 sayılık fark, galibiyetin dar bir farkla gelebileceğine işaret ediyor. Portland'ın Ja Morant ve Shaedon Sharpe'ın sakatlık listesinde olması, Spurs'ün de Dylan Harper ve Tobias Harris'in eksikliğiyle karşı karşıya olması nedeniyle bu tablo kadro tarafında dengeli görünüyor. Sürpriz ihtimali %43 olduğundan düşük sayılmaz.",
+      "ai_metinler": {
+        "en": "The visiting San Antonio Spurs are slight favorites with a 57% probability of winning, but Portland's 43% share shows the result could stay open until the final moments. The expected total points is 226, very close to our archive average of 225, so a fast-paced game within normal league levels is expected. The expected 2-point margin suggests the win could come by a narrow gap. With Ja Morant and Shaedon Sharpe on Portland's injury list and Dylan Harper and Tobias Harris missing for San Antonio, the roster picture looks balanced. A 43% chance of an upset is not considered low.",
+        "es": "El equipo visitante, San Antonio Spurs, destaca ligeramente con una probabilidad de victoria del 57%; sin embargo, la probabilidad del 43% de Portland indica que el resultado podría mantenerse abierto hasta el último momento. Se espera un total de puntos de 226, muy cercano al promedio de nuestro archivo, que es de 225, por lo que se prevé un partido de ritmo alto pero dentro de las normas de la liga. La diferencia esperada de 2 puntos sugiere que la victoria podría llegar por un margen estrecho. Con Ja Morant y Shaedon Sharpe en la lista de lesionados de Portland, y Dylan Harper y Tobias Harris ausentes en San Antonio, el panorama en cuanto a plantillas se ve equilibrado. Una sorpresa no es improbable, ya que el 43% no es una cifra baja.",
+        "fr": "Lors de ce match, l'équipe visiteuse San Antonio Spurs prend légèrement l'avantage avec une probabilité de victoire de 57 %, mais la part de 43 % de Portland montre que le résultat peut rester ouvert jusqu'au dernier instant. Le total de points attendu est de 226, très proche de la moyenne de nos archives, qui est de 225 ; on peut donc s'attendre à un match rythmé, dans les normes de la ligue. L'écart attendu de 2 points indique que la victoire pourrait se jouer sur une marge serrée. Avec Ja Morant et Shaedon Sharpe sur la liste des blessés côté Portland, et Dylan Harper et Tobias Harris absents côté Spurs, ce tableau apparaît équilibré sur le plan de l'effectif. Une surprise à 43 % ne saurait être considérée comme improbable.",
+        "it": "La squadra in trasferta San Antonio Spurs è leggermente favorita nella partita con una probabilità del 57%, ma la quota del 43% per Portland indica che il risultato potrebbe restare aperto fino all'ultimo momento. Il totale di punti previsto è 226, molto vicino alla media del nostro archivio pari a 225, quindi ci si aspetta una partita ritmata ma nella norma del campionato. La differenza prevista di 2 punti suggerisce che la vittoria potrebbe arrivare con uno scarto ridotto. Con Ja Morant e Shaedon Sharpe nella lista degli infortunati per Portland e Dylan Harper e Tobias Harris assenti per San Antonio, il quadro appare equilibrato sul piano delle rose. Una sorpresa con probabilità del 43% non va considerata trascurabile.",
+        "pt": "O jogo tem o time visitante San Antonio Spurs levemente à frente, com 57% de probabilidade de vitória; ainda assim, a fatia de 43% do Portland mostra que o resultado pode permanecer em aberto até o último momento. O total de pontos esperado é 226, muito próximo da média do nosso arquivo, que é 225, então se espera uma partida acelerada, dentro dos padrões da liga. A diferença esperada de 2 pontos indica que a vitória pode vir por uma margem estreita. Com Ja Morant e Shaedon Sharpe na lista de lesionados do Portland, e Dylan Harper e Tobias Harris ausentes do Spurs, esse cenário parece equilibrado do ponto de vista do elenco. Uma zebra com 43% de probabilidade não deve ser considerada improvável.",
+        "de": "Im Spiel liegt das Auswärtsteam San Antonio Spurs mit 57% Siegwahrscheinlichkeit leicht vorne; die 43%-Chance für Portland zeigt jedoch, dass das Ergebnis bis zur letzten Minute offen bleiben kann. Die erwartete Gesamtpunktzahl liegt bei 226 und damit sehr nahe am Archivdurchschnitt von 225, es ist also ein temporeiches, aber für die Liga normales Spiel zu erwarten. Der erwartete Abstand von 2 Punkten deutet darauf hin, dass ein Sieg knapp ausfallen könnte. Dass bei Portland Ja Morant und Shaedon Sharpe verletzt auf der Ausfallliste stehen und bei den Spurs Dylan Harper und Tobias Harris fehlen, lässt die Lage im Kader ausgeglichen erscheinen. Eine Überraschung ist bei 43% nicht als unwahrscheinlich einzustufen."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam": null,
+      "fark": null,
+      "periyotlar": null,
+      "uzatma": null,
+      "tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "60fd73164f7b0d1848f998d922155d87",
       "lig": "basketball_nba",
@@ -32,13 +110,30 @@
         "it": "Gli Houston Rockets, con il vantaggio del campo, sono i netti favoriti con una probabilità del 76%; la differenza attesa di circa 10 punti indica che questa superiorità si traduce in una vittoria tranquilla. Il totale punti atteso è di circa 222, vicino alla media NBA del nostro archivio (225), quindi lo scenario più probabile è quello di una partita ritmata ma senza un'esplosione eccessiva di punti. Il fatto che Mark Williams dei Phoenix Suns compaia nella lista degli infortunati rappresenta un'assenza che potrebbe rendere più difficile per la squadra ospite mantenere l'equilibrio in trasferta. La probabilità di una sorpresa è del 24%: non trascurabile, ma al di fuori dell'esito atteso.",
         "pt": "Houston Rockets, mandante com vantagem de jogar em casa, é um favorito claro, com probabilidade de 76%; a diferença esperada de cerca de 10 pontos indica que essa superioridade aponta para uma vitória tranquila. O total de pontos esperado gira em torno de 222, próximo da média da NBA em nosso arquivo (225), por isso o cenário mais provável é um jogo com ritmo intenso, mas sem uma explosão de pontos fora do esperado. Mark Williams aparecer na lista de lesionados do Phoenix Suns é uma ausência que pode dificultar o equilíbrio defensivo da equipe visitante em casa. A probabilidade de surpresa é de 24%: não é baixa, mas continua sendo uma possibilidade fora do resultado esperado."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "116-104",
+      "toplam": 220,
+      "fark": 12,
+      "periyotlar": [
+        [
+          29,
+          33
+        ],
+        [
+          37,
+          23
+        ],
+        [
+          26,
+          25
+        ],
+        [
+          24,
+          23
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": true
     },
     {
@@ -71,13 +166,30 @@
         "it": "Milwaukee Bucks, Brooklyn Nets karşısında yalnızca hafif bir üstünlüğe sahip; %52'lik probability ve yaklaşık 2 sayılık beklenen fark dengeli bir karşılaşmaya işaret ediyor. Beklenen total points 234, arşivimizdeki 31 NBA maçının ortalaması olan 225'in belirgin üzerinde, bu yüzden tempolu ve sayı bol bir maç bekleniyor. Brooklyn tarafında Nolan Traore'nin sakatlık listesinde oynamayacak görünmesi, Nets'in rotasyonunu etkileyebilecek bir ayrıntı. Sürpriz probability yaklaşık %48, yani bu maçta Brooklyn'in galibiyeti hiç de uzak bir senaryo değil.",
         "pt": "O Milwaukee Bucks tem apenas uma leve vantagem sobre o Brooklyn Nets; a probabilidade de 52% e a diferença esperada de cerca de 2 pontos indicam um confronto equilibrado. O total de pontos esperado é 234, bem acima da média de 225 nos 31 jogos da NBA em nosso arquivo, por isso se espera uma partida acelerada e com muitos pontos. Do lado do Brooklyn, a ausência de Nolan Traore, que aparece na lista de lesionados e provavelmente não jogará, é um detalhe que pode afetar a rotação do Nets. A probabilidade de surpresa é de cerca de 48%, portanto uma vitória do Brooklyn nesta partida está longe de ser um cenário improvável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "97-104",
+      "toplam": 201,
+      "fark": -7,
+      "periyotlar": [
+        [
+          24,
+          28
+        ],
+        [
+          23,
+          23
+        ],
+        [
+          24,
+          26
+        ],
+        [
+          26,
+          27
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -110,13 +222,30 @@
         "it": "Memphis Grizzlies, in casa, appare favorita con una probabilità del 70%, e la partita sembra chiaramente a loro favore. Il totale di punti atteso, 228, è vicino alla media del campionato (225), quindi ci si aspetta una partita ritmata ma equilibrata; anche il margine previsto di circa 7 punti per Memphis indica uno scenario di vittoria comoda ma con scarto a una sola cifra. Il fatto che Pippen Jr., Boozer, Grant e Jackson compaiano nell'elenco degli infortunati è un aspetto da tenere d'occhio, perché potrebbe creare lacune nella rotazione di Memphis e vale la pena osservare se influenzerà l'andamento del match. La probabilità del 30% per i Clippers indica che una sorpresa è possibile, e non va considerata remota: in una partita equilibrata, l'ultimo quarto potrebbe risultare decisivo.",
         "pt": "Memphis Grizzlies, em casa, aparece como favorito com 70% de probabilidade, e o jogo parece claramente favorável a eles. O total de pontos esperado, 228, fica próximo da média da liga (225), então se espera um jogo com ritmo acelerado, mas equilibrado; a diferença esperada de cerca de 7 pontos para o Memphis também aponta para um cenário de vitória tranquila, porém por uma margem de um dígito. O fato de Pippen Jr., Boozer, Grant e Jackson aparecerem na lista de lesionados é um ponto que cria falta de profundidade na rotação do Memphis, e vale acompanhar se isso vai afetar o andamento da partida. A probabilidade de 30% do Clippers mostra que a surpresa é possível, e essa chance não deve ser considerada baixa; em um jogo equilibrado, o último quarto pode definir o resultado."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "115-97",
+      "toplam": 212,
+      "fark": 18,
+      "periyotlar": [
+        [
+          32,
+          15
+        ],
+        [
+          18,
+          28
+        ],
+        [
+          32,
+          26
+        ],
+        [
+          33,
+          28
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -149,13 +278,30 @@
         "it": "I Knicks, pur portando con sé il vantaggio del campo di casa, appaiono in leggero vantaggio: un equilibrio di probabilità del 53% contro il 47% indica che la partita dovrebbe essere combattuta. I punti totali attesi sono 216, ben al di sotto della media di 225 delle nostre 31 partite NBA archiviate, il che fa pensare a uno scenario a ritmo ridotto, in cui prevale la difesa. Il margine atteso di 2 punti a favore di New York sostiene l'aspettativa di una partita che potrebbe restare aperta fino all'ultimo quarto. L'assenza di Nae'Qwan Tomlin ed Evan Mobley tra i Cavaliers e di Miles McBride, Jordan Clarkson e OG Anunoby tra i Knicks potrebbe modificare l'equilibrio delle rotazioni. La probabilità del 47% dei Cavaliers non è un'ipotesi da trascurare, ma questo quadro indica una possibilità di sorpresa che, per un risultato ribaltato, resta comunque limitata.",
         "pt": "Knicks, mandante, parece ter uma ligeira vantagem, com uma probabilidade de 53% contra 47%, o que indica que a partida deve ser equilibrada. O total de pontos esperado é de 216, bem abaixo da média de 225 de nossos 31 jogos da NBA em arquivo, o que sugere um cenário de ritmo mais lento e defesas em destaque. A diferença esperada de 2 pontos para o New York favorece a expectativa de um jogo que pode ser decidido apenas no último quarto. Com Nae'Qwan Tomlin e Evan Mobley fora do Cavaliers, e Miles McBride, Jordan Clarkson e OG Anunoby fora do Knicks, o equilíbrio do elenco pode mudar. A probabilidade de 47% do Cleveland não deve ser ignorada, mas esse quadro indica uma chance baixa, porém real, de uma virada no resultado."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "121-102",
+      "toplam": 223,
+      "fark": 19,
+      "periyotlar": [
+        [
+          23,
+          34
+        ],
+        [
+          33,
+          27
+        ],
+        [
+          26,
+          24
+        ],
+        [
+          39,
+          17
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -188,13 +334,30 @@
         "it": "Oklahoma City Thunder, %53 olasılıkla ev sahibi olarak hafif önde; bu, dengeli bir karşılaşma beklentisi. Beklenen total points 222 ve beklenen fark yaklaşık 2 sayı, yani son çeyreğe kadar sıkı geçebilecek, skorun yakın seyredeceği bir maç senaryosu öne çıkıyor. Thunder'ın son üç maçtaki 123 sayı yediği savunma tablosu, bu dengeyi destekleyen bir detay. Sürpriz ihtimali yaklaşık %47 olduğu için kayda değer; Minnesota'nın bu olasılığı değerlendirmek için yeterli bir şans olduğu unutulmamalı.",
         "pt": "O Oklahoma City Thunder tem uma leve vantagem como anfitrião, com probabilidade de 53%; isso aponta para um confronto equilibrado. O total de pontos esperado é 222 e a diferença esperada é de aproximadamente 2 pontos, ou seja, um cenário de jogo em que o placar deve permanecer apertado até o último quarto. A defesa do Thunder, que sofreu 123 pontos nos últimos três jogos, é um detalhe que sustenta esse equilíbrio. A probabilidade de uma surpresa é de cerca de 47%, o que é significativo; vale lembrar que o Minnesota tem chances suficientes para aproveitar essa possibilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "106-113",
+      "toplam": 219,
+      "fark": -7,
+      "periyotlar": [
+        [
+          16,
+          26
+        ],
+        [
+          37,
+          21
+        ],
+        [
+          30,
+          40
+        ],
+        [
+          23,
+          26
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -227,13 +390,30 @@
         "it": "Charlotte Hornets, Chicago Bulls karşısında %59'a karşılık %41 olasılıkla hafif bir üstünlükle sahaya çıkıyor; maç dengeli ama ev sahibinin payı belirgin. Beklenen total points yaklaşık 220 olup arşivimizdeki 31 NBA maçının ortalaması olan 225'in biraz altında, bu da temposu düşük, son çeyreğe kadar yakın seyreden bir karşılaşmaya işaret ediyor. Bulls'un son üç maçta maç başına 120 sayı atıp 119 sayı yemesi, Norman Powell ve Caleb Wilson'un sakatlık nedeniyle oynamayacak görünmesiyle birlikte Chicago'nun hücumda istikrar arayacağını gösteriyor. Sürpriz ihtimali %41 olduğundan orta düzeyde ve görmezden gelinmeyecek bir olasılık.",
         "pt": "O Charlotte Hornets entra em quadra com uma leve vantagem sobre o Chicago Bulls, com probabilidade de 59% contra 41%; o jogo está equilibrado, mas a parte do time da casa é evidente. O total de pontos esperado é de cerca de 220, um pouco abaixo da média de 225 dos 31 jogos da NBA em nosso arquivo, o que aponta para um confronto de ritmo mais baixo, equilibrado até o último quarto. A média de 120 pontos marcados e 119 sofridos pelo Bulls nos últimos três jogos, somada à provável ausência de Norman Powell e Caleb Wilson por lesão, indica que Chicago deverá buscar estabilidade no ataque. Como a probabilidade de surpresa é de 41%, trata-se de um cenário de nível médio que não deve ser ignorado."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "105-107",
+      "toplam": 212,
+      "fark": -2,
+      "periyotlar": [
+        [
+          23,
+          21
+        ],
+        [
+          25,
+          25
+        ],
+        [
+          23,
+          27
+        ],
+        [
+          34,
+          34
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
