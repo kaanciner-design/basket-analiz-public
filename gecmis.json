@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-26T05:09:56Z",
+  "guncelleme_utc": "2026-11-26T12:23:15Z",
   "mac_sayisi": 50,
   "maclar": [
     {
@@ -32,13 +32,30 @@
         "it": "Golden State Warriors, 69% di probabilità di vittoria e un vantaggio di circa 6 punti, appare nettamente favorita in casa. Il totale punti atteso di 216 indica una partita più controllata, al di sotto della media di 225 registrata negli archivi. Il fatto che i Sacramento Kings abbiano subito 108 punti di media nelle ultime tre partite e che i Golden State abbiano tre giorni di riposo rafforza uno scenario in cui i Warriors potrebbero trasformare questo vantaggio in una vittoria comoda. La probabilità del 31% dei Kings non va ignorata, ma la realizzazione di questa ipotesi può essere considerata poco probabile.",
         "pt": "Golden State Warriors, 69% de probabilidade de vitória e uma vantagem de cerca de 6 pontos, parece claramente favorito em casa. O total de pontos esperado de 216 aponta para um jogo mais controlado, abaixo da média de 225 do arquivo. O fato de o Sacramento Kings ter sofrido 108 pontos por jogo nas últimas três partidas e o Golden State ter três dias de descanso reforça um cenário em que os Warriors podem transformar essa vantagem em uma vitória tranquila. A probabilidade de 31% do Kings não deve ser ignorada, mas a concretização desse cenário é considerada baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "129-110",
+      "toplam": 239,
+      "fark": 19,
+      "periyotlar": [
+        [
+          44,
+          19
+        ],
+        [
+          28,
+          34
+        ],
+        [
+          29,
+          36
+        ],
+        [
+          28,
+          21
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -71,13 +88,30 @@
         "pt": "O jogo tem o time visitante San Antonio Spurs levemente à frente, com 57% de probabilidade de vitória; ainda assim, a fatia de 43% do Portland mostra que o resultado pode permanecer em aberto até o último momento. O total de pontos esperado é 226, muito próximo da média do nosso arquivo, que é 225, então se espera uma partida acelerada, dentro dos padrões da liga. A diferença esperada de 2 pontos indica que a vitória pode vir por uma margem estreita. Com Ja Morant e Shaedon Sharpe na lista de lesionados do Portland, e Dylan Harper e Tobias Harris ausentes do Spurs, esse cenário parece equilibrado do ponto de vista do elenco. Uma zebra com 43% de probabilidade não deve ser considerada improvável.",
         "de": "Im Spiel liegt das Auswärtsteam San Antonio Spurs mit 57% Siegwahrscheinlichkeit leicht vorne; die 43%-Chance für Portland zeigt jedoch, dass das Ergebnis bis zur letzten Minute offen bleiben kann. Die erwartete Gesamtpunktzahl liegt bei 226 und damit sehr nahe am Archivdurchschnitt von 225, es ist also ein temporeiches, aber für die Liga normales Spiel zu erwarten. Der erwartete Abstand von 2 Punkten deutet darauf hin, dass ein Sieg knapp ausfallen könnte. Dass bei Portland Ja Morant und Shaedon Sharpe verletzt auf der Ausfallliste stehen und bei den Spurs Dylan Harper und Tobias Harris fehlen, lässt die Lage im Kader ausgeglichen erscheinen. Eine Überraschung ist bei 43% nicht als unwahrscheinlich einzustufen."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "116-111",
+      "toplam": 227,
+      "fark": 5,
+      "periyotlar": [
+        [
+          38,
+          35
+        ],
+        [
+          22,
+          22
+        ],
+        [
+          24,
+          30
+        ],
+        [
+          32,
+          24
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
