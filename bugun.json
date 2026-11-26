@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-26T21:39:52Z",
+  "guncelleme_utc": "2026-11-26T23:17:14Z",
   "slot": "aksam",
   "mac_sayisi": 11,
   "maclar": [
@@ -128,11 +128,11 @@
       "sakatlik": {
         "ev_sahibi": [
           {
-            "oyuncu": "OG Anunoby",
+            "oyuncu": "Jordan Clarkson",
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Jordan Clarkson",
+            "oyuncu": "OG Anunoby",
             "durum": "oynamayacak"
           }
         ],
@@ -426,6 +426,14 @@
       "sakatlik": {
         "ev_sahibi": [
           {
+            "oyuncu": "Duncan Robinson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Cade Cunningham",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Jalen Duren",
             "durum": "oynamayacak"
           },
@@ -435,10 +443,6 @@
           },
           {
             "oyuncu": "Taurean Prince",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Duncan Robinson",
             "durum": "oynamayacak"
           }
         ],
@@ -590,6 +594,10 @@
           }
         ],
         "deplasman": [
+          {
+            "oyuncu": "Jaylen Brown",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Ariel Hukporti",
             "durum": "oynamayacak"
