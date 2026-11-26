@@ -1,8 +1,1704 @@
 {
-  "guncelleme_utc": "2026-11-26T12:23:15Z",
-  "slot": "sabah",
-  "mac_sayisi": 0,
-  "maclar": [],
+  "guncelleme_utc": "2026-11-26T18:23:53Z",
+  "slot": "aksam",
+  "mac_sayisi": 11,
+  "maclar": [
+    {
+      "mac_id": "3c522e32c3035d7dc3e1734903b84654",
+      "lig": "basketball_nba",
+      "ev_sahibi": "New York Knicks",
+      "deplasman": "Miami Heat",
+      "baslama_utc": "2026-11-28T00:10:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 1,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 2,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Cleveland Cavaliers",
+              "ic_saha": true,
+              "atilan": 121,
+              "yenilen": 102,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Indiana Pacers",
+              "ic_saha": true,
+              "atilan": 113,
+              "yenilen": 106,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Portland Trail Blazers",
+              "ic_saha": true,
+              "atilan": 97,
+              "yenilen": 96,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 3,
+            "maglubiyet": 0,
+            "atilan_ort": 110.3,
+            "yenilen_ort": 101.3
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 3,
+            "maglubiyet": 0,
+            "atilan_ort": 110.3,
+            "yenilen_ort": 101.3
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Philadelphia 76ers",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 111,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Oklahoma City Thunder",
+              "ic_saha": true,
+              "atilan": 123,
+              "yenilen": 113,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 113.5,
+            "yenilen_ort": 112.0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 123.0,
+            "yenilen_ort": 113.0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 104.0,
+            "yenilen_ort": 111.0
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "OG Anunoby",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jordan Clarkson",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": []
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "709de4f76f95aebf383d180ac3c6f679",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Toronto Raptors",
+      "deplasman": "Brooklyn Nets",
+      "baslama_utc": "2026-11-28T00:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 4,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 1,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Milwaukee Bucks",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 116,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Detroit Pistons",
+              "ic_saha": false,
+              "atilan": 105,
+              "yenilen": 102,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 108.0,
+            "yenilen_ort": 109.0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 111.0,
+            "yenilen_ort": 116.0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 105.0,
+            "yenilen_ort": 102.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Milwaukee Bucks",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 97,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Minnesota Timberwolves",
+              "ic_saha": false,
+              "atilan": 116,
+              "yenilen": 142,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Orlando Magic",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 113,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 110.3,
+            "yenilen_ort": 117.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 111.0,
+            "yenilen_ort": 113.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 110.0,
+            "yenilen_ort": 119.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Kawhi Leonard",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Nate Bittle",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "RJ Barrett",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Moritz Wagner",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Nolan Traore",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "326e8215b0369df0d4d65e5c0afe9ff5",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Detroit Pistons",
+      "deplasman": "Milwaukee Bucks",
+      "baslama_utc": "2026-11-28T00:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 3,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 1,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Orlando Magic",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 86,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Atlanta Hawks",
+              "ic_saha": false,
+              "atilan": 97,
+              "yenilen": 107,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Toronto Raptors",
+              "ic_saha": true,
+              "atilan": 102,
+              "yenilen": 105,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 101.0,
+            "yenilen_ort": 99.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 102.0,
+            "yenilen_ort": 105.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 100.5,
+            "yenilen_ort": 96.5
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Brooklyn Nets",
+              "ic_saha": true,
+              "atilan": 97,
+              "yenilen": 104,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Toronto Raptors",
+              "ic_saha": false,
+              "atilan": 116,
+              "yenilen": 111,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Philadelphia 76ers",
+              "ic_saha": false,
+              "atilan": 129,
+              "yenilen": 132,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 114.0,
+            "yenilen_ort": 115.7
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 97.0,
+            "yenilen_ort": 104.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 122.5,
+            "yenilen_ort": 121.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Jalen Duren",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Ebuka Okorie",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Taurean Prince",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Duncan Robinson",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": []
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Indiana Pacers",
+      "deplasman": "Philadelphia 76ers",
+      "baslama_utc": "2026-11-28T00:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 4,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 2,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Oklahoma City Thunder",
+              "ic_saha": true,
+              "atilan": 125,
+              "yenilen": 120,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "New York Knicks",
+              "ic_saha": false,
+              "atilan": 106,
+              "yenilen": 113,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Cleveland Cavaliers",
+              "ic_saha": false,
+              "atilan": 119,
+              "yenilen": 128,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 116.7,
+            "yenilen_ort": 120.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 125.0,
+            "yenilen_ort": 120.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "maglubiyet": 2,
+            "atilan_ort": 112.5,
+            "yenilen_ort": 120.5
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Miami Heat",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 104,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Portland Trail Blazers",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 128,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Milwaukee Bucks",
+              "ic_saha": true,
+              "atilan": 132,
+              "yenilen": 129,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 118.0,
+            "yenilen_ort": 120.3
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 118.0,
+            "yenilen_ort": 120.3
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Tyrese Haliburton",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Ben Sheppard",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Ariel Hukporti",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c5dc35b4116988de2c1425df17456478",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Boston Celtics",
+      "deplasman": "Atlanta Hawks",
+      "baslama_utc": "2026-11-28T01:10:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 2,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 5,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Washington Wizards",
+              "ic_saha": false,
+              "atilan": 131,
+              "yenilen": 116,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Golden State Warriors",
+              "ic_saha": false,
+              "atilan": 87,
+              "yenilen": 88,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Sacramento Kings",
+              "ic_saha": false,
+              "atilan": 96,
+              "yenilen": 97,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 104.7,
+            "yenilen_ort": 100.3
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 104.7,
+            "yenilen_ort": 100.3
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Detroit Pistons",
+              "ic_saha": true,
+              "atilan": 107,
+              "yenilen": 97,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Charlotte Hornets",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 97,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 109.0,
+            "yenilen_ort": 97.0
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 109.0,
+            "yenilen_ort": 97.0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Mitchell Robinson",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Jock Landale",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Asa Newell",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "CJ McCollum",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Mouhamed Gueye",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Henri Veesaar",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f0bc60d1516d217dba58c1f4fa653a59",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Minnesota Timberwolves",
+      "deplasman": "Memphis Grizzlies",
+      "baslama_utc": "2026-11-28T01:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 2,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 2,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Oklahoma City Thunder",
+              "ic_saha": false,
+              "atilan": 113,
+              "yenilen": 106,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Brooklyn Nets",
+              "ic_saha": true,
+              "atilan": 142,
+              "yenilen": 116,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Memphis Grizzlies",
+              "ic_saha": true,
+              "atilan": 104,
+              "yenilen": 95,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 3,
+            "maglubiyet": 0,
+            "atilan_ort": 119.7,
+            "yenilen_ort": 105.7
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 123.0,
+            "yenilen_ort": 105.5
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 113.0,
+            "yenilen_ort": 106.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Los Angeles Clippers",
+              "ic_saha": true,
+              "atilan": 115,
+              "yenilen": 97,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Charlotte Hornets",
+              "ic_saha": false,
+              "atilan": 117,
+              "yenilen": 111,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Minnesota Timberwolves",
+              "ic_saha": false,
+              "atilan": 95,
+              "yenilen": 104,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 109.0,
+            "yenilen_ort": 104.0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 115.0,
+            "yenilen_ort": 97.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 106.0,
+            "yenilen_ort": 107.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Donte DiVincenzo",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jaylen Clark",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Anthony Edwards",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Scotty Pippen Jr.",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Cameron Boozer",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jerami Grant",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "GG Jackson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Richie Saunders",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "46b1c571cf786a86e800d61fd1d79004",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Phoenix Suns",
+      "deplasman": "Dallas Mavericks",
+      "baslama_utc": "2026-11-28T02:10:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 2,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 2,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Houston Rockets",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 116,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "New Orleans Pelicans",
+              "ic_saha": false,
+              "atilan": 123,
+              "yenilen": 119,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Utah Jazz",
+              "ic_saha": false,
+              "atilan": 111,
+              "yenilen": 101,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 112.7,
+            "yenilen_ort": 112.0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 112.7,
+            "yenilen_ort": 112.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Denver Nuggets",
+              "ic_saha": false,
+              "atilan": 120,
+              "yenilen": 101,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Utah Jazz",
+              "ic_saha": false,
+              "atilan": 116,
+              "yenilen": 114,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Los Angeles Clippers",
+              "ic_saha": true,
+              "atilan": 110,
+              "yenilen": 100,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 3,
+            "maglubiyet": 0,
+            "atilan_ort": 115.3,
+            "yenilen_ort": 105.0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 110.0,
+            "yenilen_ort": 100.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 118.0,
+            "yenilen_ort": 107.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Mark Williams",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Tobi Lawal",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Dereck Lively II",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Sergio de Larrea",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Tarik Biberovic",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "428050645d1dc8b16d84287e21de55fa",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Utah Jazz",
+      "deplasman": "Denver Nuggets",
+      "baslama_utc": "2026-11-28T02:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 3,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 2,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Los Angeles Lakers",
+              "ic_saha": false,
+              "atilan": 94,
+              "yenilen": 109,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Dallas Mavericks",
+              "ic_saha": true,
+              "atilan": 114,
+              "yenilen": 116,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Phoenix Suns",
+              "ic_saha": true,
+              "atilan": 101,
+              "yenilen": 111,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 0,
+            "maglubiyet": 3,
+            "atilan_ort": 103.0,
+            "yenilen_ort": 112.0
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 0,
+            "maglubiyet": 2,
+            "atilan_ort": 107.5,
+            "yenilen_ort": 113.5
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 94.0,
+            "yenilen_ort": 109.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Dallas Mavericks",
+              "ic_saha": true,
+              "atilan": 101,
+              "yenilen": 120,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Chicago Bulls",
+              "ic_saha": false,
+              "atilan": 151,
+              "yenilen": 145,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Houston Rockets",
+              "ic_saha": true,
+              "atilan": 133,
+              "yenilen": 124,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 128.3,
+            "yenilen_ort": 129.7
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 117.0,
+            "yenilen_ort": 122.0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 151.0,
+            "yenilen_ort": 145.0
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Jusuf Nurkic",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Lauri Markkanen",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jaren Jackson Jr.",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": []
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "592a440c590415d43f5ffbfd922cd41e",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Portland Trail Blazers",
+      "deplasman": "Golden State Warriors",
+      "baslama_utc": "2026-11-28T02:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 1,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 1,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "San Antonio Spurs",
+              "ic_saha": true,
+              "atilan": 116,
+              "yenilen": 111,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Philadelphia 76ers",
+              "ic_saha": false,
+              "atilan": 128,
+              "yenilen": 111,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "New York Knicks",
+              "ic_saha": false,
+              "atilan": 96,
+              "yenilen": 97,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 113.3,
+            "yenilen_ort": 106.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 116.0,
+            "yenilen_ort": 111.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 112.0,
+            "yenilen_ort": 104.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Sacramento Kings",
+              "ic_saha": true,
+              "atilan": 129,
+              "yenilen": 110,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Boston Celtics",
+              "ic_saha": true,
+              "atilan": 88,
+              "yenilen": 87,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 108.5,
+            "yenilen_ort": 98.5
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 108.5,
+            "yenilen_ort": 98.5
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Chris Youngblood",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Vit Krejci",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Ja Morant",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Shaedon Sharpe",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Stephen Curry",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Kristaps Porzingis",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Moses Moody",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jimmy Butler III",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "fecbaa4e1973217826262c63d8f52dea",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Los Angeles Clippers",
+      "deplasman": "New Orleans Pelicans",
+      "baslama_utc": "2026-11-28T02:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 2,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 4,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Memphis Grizzlies",
+              "ic_saha": false,
+              "atilan": 97,
+              "yenilen": 115,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Houston Rockets",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 116,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Dallas Mavericks",
+              "ic_saha": false,
+              "atilan": 100,
+              "yenilen": 110,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 0,
+            "maglubiyet": 3,
+            "atilan_ort": 100.3,
+            "yenilen_ort": 113.7
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 0,
+            "maglubiyet": 3,
+            "atilan_ort": 100.3,
+            "yenilen_ort": 113.7
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Phoenix Suns",
+              "ic_saha": true,
+              "atilan": 119,
+              "yenilen": 123,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "San Antonio Spurs",
+              "ic_saha": false,
+              "atilan": 91,
+              "yenilen": 114,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Oklahoma City Thunder",
+              "ic_saha": false,
+              "atilan": 120,
+              "yenilen": 126,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 0,
+            "maglubiyet": 3,
+            "atilan_ort": 110.0,
+            "yenilen_ort": 121.0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 119.0,
+            "yenilen_ort": 123.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "maglubiyet": 2,
+            "atilan_ort": 105.5,
+            "yenilen_ort": 120.0
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [],
+        "deplasman": [
+          {
+            "oyuncu": "Trendon Watford",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Bennedict Mathurin",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Dejounte Murray",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "13d9ca3bcb664829c603755d31401002",
+      "lig": "basketball_nba",
+      "ev_sahibi": "San Antonio Spurs",
+      "deplasman": "Los Angeles Lakers",
+      "baslama_utc": "2026-11-28T02:40:00Z",
+      "gece": "2026-11-27",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 1,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 3,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-27T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Portland Trail Blazers",
+              "ic_saha": false,
+              "atilan": 111,
+              "yenilen": 116,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Sacramento Kings",
+              "ic_saha": false,
+              "atilan": 123,
+              "yenilen": 107,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "New Orleans Pelicans",
+              "ic_saha": true,
+              "atilan": 114,
+              "yenilen": 91,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 116.0,
+            "yenilen_ort": 104.7
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 114.0,
+            "yenilen_ort": 91.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 117.0,
+            "yenilen_ort": 111.5
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Utah Jazz",
+              "ic_saha": true,
+              "atilan": 109,
+              "yenilen": 94,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Sacramento Kings",
+              "ic_saha": true,
+              "atilan": 106,
+              "yenilen": 104,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 107.5,
+            "yenilen_ort": 99.0
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "maglubiyet": 0,
+            "atilan_ort": 107.5,
+            "yenilen_ort": 99.0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "maglubiyet": 0,
+            "atilan_ort": null,
+            "yenilen_ort": null
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Dylan Harper",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Tobias Harris",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jayden Quaintance",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Austin Reaves",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    }
+  ],
   "en_guclu_3": {
     "gunler": [],
     "dun": {
