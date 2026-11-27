@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-26T23:17:14Z",
-  "slot": "aksam",
+  "guncelleme_utc": "2026-11-27T01:55:20Z",
+  "slot": "sabah",
   "mac_sayisi": 11,
   "maclar": [
     {
@@ -1078,11 +1078,11 @@
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Dereck Lively II",
+            "oyuncu": "Sergio de Larrea",
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "Sergio de Larrea",
+            "oyuncu": "Dereck Lively II",
             "durum": "oynamayacak"
           },
           {
