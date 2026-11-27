@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T18:08:48Z",
+  "guncelleme_utc": "2026-11-27T21:25:03Z",
   "slot": "aksam",
   "mac_sayisi": 11,
   "maclar": [
@@ -145,7 +145,11 @@
       "sakatlik": {
         "ev_sahibi": [
           {
-            "oyuncu": "Andre Drummond",
+            "oyuncu": "Miles McBride",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "OG Anunoby",
             "durum": "oynamayacak"
           },
           {
@@ -153,7 +157,7 @@
             "durum": "oynamayacak"
           },
           {
-            "oyuncu": "OG Anunoby",
+            "oyuncu": "Andre Drummond",
             "durum": "oynamayacak"
           }
         ],
@@ -1062,6 +1066,10 @@
       "sakatlik": {
         "ev_sahibi": [
           {
+            "oyuncu": "LaMelo Ball",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Donte DiVincenzo",
             "durum": "oynamayacak"
           },
@@ -1336,7 +1344,8 @@
         "en": "Denver Nuggets are clear favorites on the road, with a 78% probability of winning. The expected total points for the game is 230, and Denver is projected to finish about 10 points ahead. This outlook points to a high-scoring game that Denver could still control throughout. Utah's 0 wins in their last 3 games and allowing 112 points per game suggest their defensive problems persist, though having three days of rest may balance the picture somewhat. The probability of an upset is 22%, which is considered low but cannot be entirely dismissed.",
         "es": "Denver Nuggets, un 78% de probabilidad de ganar, es el claro favorito como visitante; se espera un total de puntos de 230 y que Denver termine unos 10 puntos por delante. Este panorama apunta a un partido de muchos puntos, pero que Denver podría controlar. Las 0 victorias de Utah en sus últimos 3 partidos y las 112 puntos que recibe por partido muestran que el problema defensivo persiste; sin embargo, haber descansado durante 3 días podría equilibrar un poco el panorama. La probabilidad de una sorpresa es de 22%, una posibilidad baja que, aun así, no debe descartarse por completo.",
         "it": "Denver Nuggets, probabilità del 78% di vittoria, è nettamente favorito in trasferta; il totale punti atteso è 230 e ci si aspetta che Denver chiuda circa 10 punti avanti. Questo quadro indica una partita ad alto punteggio che però potrebbe svilupparsi sotto il controllo di Denver. Le 0 vittorie di Utah nelle ultime 3 partite e i 112 punti subiti di media a partita mostrano che il problema difensivo persiste; il fatto di aver riposato per 3 giorni potrebbe tuttavia bilanciare in parte il quadro. La probabilità di una sorpresa è del 22%: una possibilità bassa, ma non del tutto trascurabile.",
-        "pt": "Denver Nuggets, %78 kazanma olasılığıyla deplasmanda net favori; beklenen total points 230 ve Denver'ın yaklaşık 10 sayı önde bitmesi bekleniyor. Bu tablo, yüksek skorlu ama Denver'ın kontrolünde ilerleyebilecek bir maça işaret ediyor. Utah'ın son 3 maçta 0 galibiyeti ve maç başına 112 sayı yemesi, savunma tarafında sorunun sürdüğünü gösteriyor; üç gün dinlenmiş olması ise tabloyu biraz dengeleyebilir. Sürpriz ihtimali %22 seviyesinde ve bu, düşük bir ihtimal olarak görülmekle birlikte tamamen ihmal edilebilir değil."
+        "pt": "Denver Nuggets, %78 kazanma olasılığıyla deplasmanda net favori; beklenen total points 230 ve Denver'ın yaklaşık 10 sayı önde bitmesi bekleniyor. Bu tablo, yüksek skorlu ama Denver'ın kontrolünde ilerleyebilecek bir maça işaret ediyor. Utah'ın son 3 maçta 0 galibiyeti ve maç başına 112 sayı yemesi, savunma tarafında sorunun sürdüğünü gösteriyor; üç gün dinlenmiş olması ise tabloyu biraz dengeleyebilir. Sürpriz ihtimali %22 seviyesinde ve bu, düşük bir ihtimal olarak görülmekle birlikte tamamen ihmal edilebilir değil.",
+        "fr": "Denver Nuggets, %78 kazanma olasılığıyla deplasmanda net favori; beklenen toplam sayı 230 ve Denver'ın yaklaşık 10 sayı önde bitmesi bekleniyor. Bu tablo, yüksek skorlu ama Denver'ın kontrolünde ilerleyebilecek bir maça işaret ediyor. Utah'ın son 3 maçta 0 galibiyeti ve maç başına 112 sayı yemesi, savunma tarafında sorunun sürdüğünü gösteriyor; üç gün dinlenmiş olması ise tabloyu biraz dengeleyebilir. Sürpriz ihtimali %22 seviyesinde ve bu, düşük bir ihtimal olarak görülmekle birlikte tamamen ihmal edilebilir değil.\n\nTranslation (French):\n\nLes Nuggets de Denver, avec une probabilité de victoire de 78 %, sont les grands favoris en déplacement ; le total de points attendu est de 230 et Denver devrait l'emporter d'environ 10 points. Ce scénario laisse présager un match à fort total de points, mais que Denver pourrait contrôler. Les 0 victoire de l'Utah lors des 3 derniers matchs et les 112 points encaissés en moyenne par match montrent que le problème défensif persiste ; le fait d'avoir récupéré pendant trois jours pourrait toutefois atténuer quelque peu ce constat. La probabilité d'une surprise est de 22 %, ce qui reste faible mais ne peut être totalement négligé."
       },
       "kilit_utc": "2026-11-27T18:09:07Z",
       "form": {
@@ -1617,6 +1626,10 @@
       },
       "sakatlik": {
         "ev_sahibi": [
+          {
+            "oyuncu": "Damian Lillard",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Chris Youngblood",
             "durum": "oynamayacak"
@@ -2000,12 +2013,7 @@
             "durum": "oynamayacak"
           }
         ],
-        "deplasman": [
-          {
-            "oyuncu": "Austin Reaves",
-            "durum": "oynamayacak"
-          }
-        ]
+        "deplasman": []
       },
       "hareket": {
         "ilk_utc": "2026-11-26T18:23:53Z",
