@@ -1,10 +1,10 @@
 {
-  "guncelleme_utc": "2026-11-27T12:23:15Z",
+  "guncelleme_utc": "2026-11-27T18:08:48Z",
   "toplam_tahmin": 50,
   "tutan": 30,
   "isabet_orani": 0.6,
   "beklenen_isabet": 0.6644,
-  "sonuc_bekleyen": 0,
+  "sonuc_bekleyen": 11,
   "lig_bazinda": {
     "basketball_euroleague": {
       "toplam_tahmin": 10,
@@ -18,7 +18,7 @@
       "tutan": 26,
       "isabet_orani": 0.65,
       "beklenen_isabet": 0.6761,
-      "sonuc_bekleyen": 0
+      "sonuc_bekleyen": 11
     }
   },
   "guven_araligi_bazinda": {
@@ -27,21 +27,21 @@
       "tutan": 9,
       "isabet_orani": 0.4737,
       "beklenen_isabet": 0.5444,
-      "sonuc_bekleyen": 0
+      "sonuc_bekleyen": 4
     },
     "0.20-0.40": {
       "toplam_tahmin": 12,
       "tutan": 8,
       "isabet_orani": 0.6667,
       "beklenen_isabet": 0.656,
-      "sonuc_bekleyen": 0
+      "sonuc_bekleyen": 2
     },
     "0.40+": {
       "toplam_tahmin": 19,
       "tutan": 13,
       "isabet_orani": 0.6842,
       "beklenen_isabet": 0.7897,
-      "sonuc_bekleyen": 0
+      "sonuc_bekleyen": 5
     }
   },
   "lig_guven_bazinda": {
@@ -74,21 +74,21 @@
         "tutan": 8,
         "isabet_orani": 0.5333,
         "beklenen_isabet": 0.55,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 4
       },
       "0.20-0.40": {
         "toplam_tahmin": 8,
         "tutan": 6,
         "isabet_orani": 0.75,
         "beklenen_isabet": 0.6577,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 2
       },
       "0.40+": {
         "toplam_tahmin": 17,
         "tutan": 12,
         "isabet_orani": 0.7059,
         "beklenen_isabet": 0.7961,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 5
       }
     }
   },
@@ -99,28 +99,28 @@
         "tutan": 30,
         "isabet_orani": 0.6,
         "beklenen_isabet": 0.6644,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 11
       },
       "0-0.20": {
         "toplam_tahmin": 19,
         "tutan": 9,
         "isabet_orani": 0.4737,
         "beklenen_isabet": 0.5444,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 4
       },
       "0.20-0.40": {
         "toplam_tahmin": 12,
         "tutan": 8,
         "isabet_orani": 0.6667,
         "beklenen_isabet": 0.656,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 2
       },
       "0.40+": {
         "toplam_tahmin": 19,
         "tutan": 13,
         "isabet_orani": 0.6842,
         "beklenen_isabet": 0.7897,
-        "sonuc_bekleyen": 0
+        "sonuc_bekleyen": 5
       }
     }
   },
