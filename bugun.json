@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T21:25:03Z",
+  "guncelleme_utc": "2026-11-27T23:17:15Z",
   "slot": "aksam",
   "mac_sayisi": 11,
   "maclar": [
@@ -698,6 +698,10 @@
       },
       "sakatlik": {
         "ev_sahibi": [
+          {
+            "oyuncu": "T.J. McConnell",
+            "durum": "oynamayacak"
+          },
           {
             "oyuncu": "Tyrese Haliburton",
             "durum": "oynamayacak"
