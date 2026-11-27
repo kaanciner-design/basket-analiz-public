@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T05:07:42Z",
+  "guncelleme_utc": "2026-11-27T12:23:15Z",
   "slot": "sabah",
   "mac_sayisi": 11,
   "maclar": [
@@ -1709,49 +1709,7 @@
   ],
   "en_guclu_3": {
     "gunler": [],
-    "dun": {
-      "tarih": "2026-11-25",
-      "maclar": [
-        {
-          "mac_id": "60fd73164f7b0d1848f998d922155d87",
-          "lig": "basketball_nba",
-          "ev_sahibi": "Houston Rockets",
-          "deplasman": "Phoenix Suns",
-          "baslama_utc": "2026-11-26T01:40:00Z",
-          "tahmin": "1",
-          "olasilik": 0.7591,
-          "guven": 0.5182,
-          "skor": "116-104",
-          "tuttu": true
-        },
-        {
-          "mac_id": "b9ad9b132e4fd83592ee6cb62ea5cd46",
-          "lig": "basketball_euroleague",
-          "ev_sahibi": "Real Madrid",
-          "deplasman": "Žalgiris",
-          "baslama_utc": "2026-11-25T19:45:00Z",
-          "tahmin": "1",
-          "olasilik": 0.7131,
-          "guven": 0.4262,
-          "skor": "108-93",
-          "tuttu": true
-        },
-        {
-          "mac_id": "698d6d78acf30f4ff4e4aaf6670249ee",
-          "lig": "basketball_nba",
-          "ev_sahibi": "Memphis Grizzlies",
-          "deplasman": "Los Angeles Clippers",
-          "baslama_utc": "2026-11-26T01:10:00Z",
-          "tahmin": "1",
-          "olasilik": 0.6975,
-          "guven": 0.395,
-          "skor": "115-97",
-          "tuttu": true
-        }
-      ],
-      "tutan": 3,
-      "sonuclanan": 3
-    },
+    "dun": null,
     "genel": {
       "gun": 5,
       "tam_isabet_gun": 2,
