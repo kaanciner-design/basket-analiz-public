@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-28T04:46:25Z",
+  "guncelleme_utc": "2026-11-28T12:23:14Z",
   "slot": "sabah",
   "mac_sayisi": 12,
   "maclar": [
@@ -1442,57 +1442,55 @@
     }
   ],
   "en_guclu_3": {
-    "gunler": [
-      {
-        "tarih": "2026-11-27",
-        "maclar": [
-          {
-            "mac_id": "326e8215b0369df0d4d65e5c0afe9ff5",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Detroit Pistons",
-            "deplasman": "Milwaukee Bucks",
-            "baslama_utc": "2026-11-28T00:40:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7824,
-            "guven": 0.5648,
-            "skor": "113-98",
-            "tuttu": true
-          },
-          {
-            "mac_id": "428050645d1dc8b16d84287e21de55fa",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Utah Jazz",
-            "deplasman": "Denver Nuggets",
-            "baslama_utc": "2026-11-28T02:40:00Z",
-            "tahmin": "2",
-            "olasilik": 0.7778,
-            "guven": 0.5556,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "592a440c590415d43f5ffbfd922cd41e",
-            "lig": "basketball_nba",
-            "ev_sahibi": "Portland Trail Blazers",
-            "deplasman": "Golden State Warriors",
-            "baslama_utc": "2026-11-28T02:40:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7655,
-            "guven": 0.531,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 1,
-        "sonuclanan": 1
-      }
-    ],
-    "dun": null,
+    "gunler": [],
+    "dun": {
+      "tarih": "2026-11-27",
+      "maclar": [
+        {
+          "mac_id": "326e8215b0369df0d4d65e5c0afe9ff5",
+          "lig": "basketball_nba",
+          "ev_sahibi": "Detroit Pistons",
+          "deplasman": "Milwaukee Bucks",
+          "baslama_utc": "2026-11-28T00:40:00Z",
+          "tahmin": "1",
+          "olasilik": 0.7824,
+          "guven": 0.5648,
+          "skor": "113-98",
+          "tuttu": true
+        },
+        {
+          "mac_id": "428050645d1dc8b16d84287e21de55fa",
+          "lig": "basketball_nba",
+          "ev_sahibi": "Utah Jazz",
+          "deplasman": "Denver Nuggets",
+          "baslama_utc": "2026-11-28T02:40:00Z",
+          "tahmin": "2",
+          "olasilik": 0.7778,
+          "guven": 0.5556,
+          "skor": "107-120",
+          "tuttu": true
+        },
+        {
+          "mac_id": "592a440c590415d43f5ffbfd922cd41e",
+          "lig": "basketball_nba",
+          "ev_sahibi": "Portland Trail Blazers",
+          "deplasman": "Golden State Warriors",
+          "baslama_utc": "2026-11-28T02:40:00Z",
+          "tahmin": "1",
+          "olasilik": 0.7655,
+          "guven": 0.531,
+          "skor": "116-94",
+          "tuttu": true
+        }
+      ],
+      "tutan": 3,
+      "sonuclanan": 3
+    },
     "genel": {
-      "gun": 5,
-      "tam_isabet_gun": 2,
-      "tahmin": 15,
-      "tutan": 12
+      "gun": 6,
+      "tam_isabet_gun": 3,
+      "tahmin": 18,
+      "tutan": 15
     }
   },
   "lig_ortalamalari": {

@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-28T04:46:25Z",
+  "guncelleme_utc": "2026-11-28T12:23:14Z",
   "mac_sayisi": 61,
   "maclar": [
     {
@@ -31,13 +31,30 @@
         "pt": "Denver Nuggets, %78 kazanma olasılığıyla deplasmanda net favori; beklenen total points 230 ve Denver'ın yaklaşık 10 sayı önde bitmesi bekleniyor. Bu tablo, yüksek skorlu ama Denver'ın kontrolünde ilerleyebilecek bir maça işaret ediyor. Utah'ın son 3 maçta 0 galibiyeti ve maç başına 112 sayı yemesi, savunma tarafında sorunun sürdüğünü gösteriyor; üç gün dinlenmiş olması ise tabloyu biraz dengeleyebilir. Sürpriz ihtimali %22 seviyesinde ve bu, düşük bir ihtimal olarak görülmekle birlikte tamamen ihmal edilebilir değil.",
         "fr": "Denver Nuggets, %78 kazanma olasılığıyla deplasmanda net favori; beklenen toplam sayı 230 ve Denver'ın yaklaşık 10 sayı önde bitmesi bekleniyor. Bu tablo, yüksek skorlu ama Denver'ın kontrolünde ilerleyebilecek bir maça işaret ediyor. Utah'ın son 3 maçta 0 galibiyeti ve maç başına 112 sayı yemesi, savunma tarafında sorunun sürdüğünü gösteriyor; üç gün dinlenmiş olması ise tabloyu biraz dengeleyebilir. Sürpriz ihtimali %22 seviyesinde ve bu, düşük bir ihtimal olarak görülmekle birlikte tamamen ihmal edilebilir değil.\n\nTranslation (French):\n\nLes Nuggets de Denver, avec une probabilité de victoire de 78 %, sont les grands favoris en déplacement ; le total de points attendu est de 230 et Denver devrait l'emporter d'environ 10 points. Ce scénario laisse présager un match à fort total de points, mais que Denver pourrait contrôler. Les 0 victoire de l'Utah lors des 3 derniers matchs et les 112 points encaissés en moyenne par match montrent que le problème défensif persiste ; le fait d'avoir récupéré pendant trois jours pourrait toutefois atténuer quelque peu ce constat. La probabilité d'une surprise est de 22 %, ce qui reste faible mais ne peut être totalement négligé."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "107-120",
+      "toplam": 227,
+      "fark": -13,
+      "periyotlar": [
+        [
+          22,
+          27
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          32,
+          33
+        ],
+        [
+          22,
+          35
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -70,13 +87,30 @@
         "it": "Portland Trail Blazers, ev sahibi olarak %77 probability ile net favori görünüyor ve beklenen sayı farkı yaklaşık 10 sayı. Beklenen total points yaklaşık 220 civarında; bu, NBA ortalamamız olan 225'in biraz altında. Dolayısıyla maçın dengeli bir tempoda ilerleyeceği ve favorinin kontrollü bir galibiyete yöneleceği senaryo öne çıkıyor. Portland'ın son üç maçta ortalama 113 sayı atıp 106 sayı yemesi bu beklentiyi destekliyor. Golden State'te Curry, Porzingis, Moody ve Butler'ın oynamayacak görünmesi de deplasman ekibinin derinliğini sınayabilir. Sürpriz probability %23 olduğu için düşük sayılmaz, ancak geçmiş tahminlerimizin bu seviyede isabet oranı göz önüne alındığında bu sonuç yine de mümkündür.",
         "pt": "O Portland Trail Blazers, como mandante, aparece como claro favorito com probabilidade de 77%, e a diferença esperada de pontos é de cerca de 10 pontos. O total de pontos esperado gira em torno de 220, um pouco abaixo da nossa média da NBA, que é 225; por isso, o cenário mais destacado é o de um jogo de ritmo equilibrado, em que o favorito caminha para uma vitória controlada. A média de 113 pontos marcados e 106 sofridos nos últimos três jogos do Portland sustenta essa expectativa. A ausência aparente de Curry, Porzingis, Moody e Butler no Golden State também pode colocar à prova a profundidade do time visitante. A probabilidade de surpresa é de 23%, o que não é baixo, mas, considerando a taxa de acerto de nossas previsões anteriores nesse nível, esse resultado ainda é possível."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "116-94",
+      "toplam": 210,
+      "fark": 22,
+      "periyotlar": [
+        [
+          37,
+          11
+        ],
+        [
+          30,
+          33
+        ],
+        [
+          24,
+          34
+        ],
+        [
+          25,
+          16
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -109,13 +143,30 @@
         "it": "I Clippers, in casa, sono leggermente favoriti con una probabilità di vittoria del 56%; tuttavia il margine è stretto e non ci si aspetta una vittoria comoda, con una differenza prevista di 2 punti. Il totale punti atteso è 231, leggermente superiore alla media storica di 225, il che indica una partita ritmata e ricca di punti. L'assenza apparente di Trendon Watford, Bennedict Mathurin e Dejounte Murray per i Pelicans, insieme ai 4 giorni di riposo, crea un equilibrio a loro favore. La probabilità di sorpresa del 44% non è trascurabile: la partita potrebbe restare in equilibrio fino all'ultimo quarto.",
         "pt": "Clippers, em casa, estão ligeiramente à frente com 56% de probabilidade de vitória; no entanto, a diferença é apertada e não se espera uma vitória tranquila, com uma diferença prevista de 2 pontos. O total de pontos esperado é 231, um pouco acima da média de 225 no arquivo, o que aponta para um jogo acelerado e com muitos pontos. O fato de Trendon Watford, Bennedict Mathurin e Dejounte Murray aparentemente não jogarem pelo Pelicans, que também chega com 4 dias de descanso, traz um equilíbrio a favor deles. A probabilidade de surpresa, de 44%, não é baixa; o jogo pode continuar equilibrado até o último quarto."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "104-105",
+      "toplam": 209,
+      "fark": -1,
+      "periyotlar": [
+        [
+          28,
+          29
+        ],
+        [
+          22,
+          25
+        ],
+        [
+          27,
+          26
+        ],
+        [
+          27,
+          25
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
@@ -148,13 +199,30 @@
         "it": "San Antonio Spurs, ev sahibi olarak %66 kazanma probabilità ile belirgin bir favori; maçın beklenen farkı yaklaşık 6 sayı ile orta düzeyde bir üstünlüğe işaret ediyor. Beklenen total points 226 olup arşivimizdeki ortalama olan 225'e çok yakın, dolayısıyla tempolu ama dengeli bir maç senaryosu öne çıkıyor. Lakers'ın 3 günlük dinlenme avantajı ile Austin Reaves'in sakatlığı birbirini dengeleyen faktörler olarak görülebilir. Sürpriz probabilità ise %34 seviyesinde, yani göz ardı edilmeyecek kadar yüksek.",
         "pt": "San Antonio Spurs, jogando em casa, é um favorito claro, com probabilidade de vitória de 66%; a diferença esperada para o jogo, cerca de 6 pontos, indica uma vantagem de nível moderado. O total de pontos esperado é 226, muito próximo da média do nosso arquivo, que é 225, por isso se destaca um cenário de jogo intenso, mas equilibrado. A vantagem de 3 dias de descanso dos Lakers e a lesão de Austin Reaves podem ser vistas como fatores que se compensam. A probabilidade de uma surpresa é de 34%, ou seja, alta o suficiente para não ser ignorada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "99-96",
+      "toplam": 195,
+      "fark": 3,
+      "periyotlar": [
+        [
+          14,
+          27
+        ],
+        [
+          24,
+          27
+        ],
+        [
+          30,
+          14
+        ],
+        [
+          31,
+          28
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": true,
       "ucretsiz": false
     },
     {
@@ -187,13 +255,30 @@
         "it": "I Phoenix Suns sono in leggero vantaggio come squadra di casa, con una probabilità del 53%; la partita appare equilibrata. Il totale di punti atteso è di circa 228, vicino alla media del campionato e in linea con la capacità di segnare di entrambe le squadre, con uno scenario ritmato ma controllato. La differenza punti prevista è di circa 2 punti, quindi è ragionevole aspettarsi una sfida molto combattuta fino all'ultimo quarto. La presenza di Mark Williams nell'elenco degli infortunati è un elemento da monitorare da parte dei Suns. La probabilità di una sorpresa è di circa il 47%, quindi la vittoria dei Dallas è piuttosto realistica.",
         "pt": "O Phoenix Suns, com uma probabilidade de 53%, está levemente à frente como time da casa; o jogo parece equilibrado. O total de pontos esperado gira em torno de 228, ou seja, próximo da média da liga e compatível com a capacidade de pontuação das duas equipes, indicando um cenário com ritmo acelerado, mas controlado. A diferença esperada no placar é de aproximadamente 2 pontos, então é de se esperar uma disputa acirrada até o último quarto. A presença de Mark Williams na lista de lesionados é um fator que o lado do Suns deve observar com atenção. A probabilidade de uma surpresa é de cerca de 47%, o que torna a vitória do Dallas bastante realista."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam": null,
-      "fark": null,
-      "periyotlar": null,
-      "uzatma": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "109-113",
+      "toplam": 222,
+      "fark": -4,
+      "periyotlar": [
+        [
+          29,
+          28
+        ],
+        [
+          34,
+          25
+        ],
+        [
+          32,
+          25
+        ],
+        [
+          14,
+          35
+        ]
+      ],
+      "uzatma": false,
+      "tuttu": false,
       "ucretsiz": false
     },
     {
