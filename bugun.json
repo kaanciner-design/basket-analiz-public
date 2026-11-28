@@ -1,930 +1,14 @@
 {
-  "guncelleme_utc": "2026-11-27T23:17:15Z",
-  "slot": "aksam",
-  "mac_sayisi": 11,
+  "guncelleme_utc": "2026-11-28T01:40:29Z",
+  "slot": "sabah",
+  "mac_sayisi": 10,
   "maclar": [
-    {
-      "mac_id": "3c522e32c3035d7dc3e1734903b84654",
-      "lig": "basketball_nba",
-      "ev_sahibi": "New York Knicks",
-      "deplasman": "Miami Heat",
-      "baslama_utc": "2026-11-28T00:10:00Z",
-      "gece": "2026-11-27",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5882,
-        "2": 0.4118
-      },
-      "tahmin": "1",
-      "guven": 0.1764,
-      "sayi": {
-        "toplam": 222.5,
-        "toplam_kaynak": 16,
-        "fark": 3.0,
-        "fark_kaynak": 14,
-        "ev_sayi": 113,
-        "dep_sayi": 110
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 1,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 2,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "New York Knicks, ev sahibi avantajıyla Miami Heat karşısında %59'a varan olasılıkla hafif favori görünüyor; yine de bu, net bir üstünlükten çok dengeli bir karşılaşmaya işaret ediyor. Beklenen toplam sayının 222 ve beklenen farkın yaklaşık 3 sayı olması, maçın son dakikalara kadar açık kalabileceği, tempolu ama yoğun bir senaryoya işaret ediyor. Knicks'in son 3 iç saha maçını kazanmış olması ve Andre Drummond, Jordan Clarkson, OG Anunoby'nin sakatlık listesinde görünmesi, ev sahibi tarafın formuna dikkat çekiyor. Miami'nin %41'lik olasılığı, sürpriz ihtimalinin de gerçekçi olduğunu gösteriyor.",
-      "ai_metinler": {
-        "en": "New York Knicks, home-court advantage, appears to be a slight favorite against the Miami Heat with a probability of up to 59%; still, this points to a balanced matchup rather than a clear advantage. An expected total of 222 points and an expected margin of roughly 3 points suggest a fast-paced, intense game that could remain open until the final minutes. The Knicks winning their last 3 home games, and Andre Drummond, Jordan Clarkson, and OG Anunoby appearing on the injury report, highlight the home side's form. Miami's 41% probability shows that an upset is also a realistic possibility.",
-        "es": "Los New York Knicks aparecen como ligeros favoritos frente a los Miami Heat, con una probabilidad de hasta el 59%, gracias a la ventaja de jugar en casa; aun así, esto apunta a un duelo equilibrado más que a una superioridad clara. Un total de puntos esperado de 222 y una diferencia esperada de unos 3 puntos sugieren un partido de ritmo alto pero muy disputado, que podría seguir abierto hasta los minutos finales. La racha de los Knicks, con victorias en sus últimos 3 partidos como local, y la presencia de Andre Drummond, Jordan Clarkson y OG Anunoby en la lista de lesionados llaman la atención sobre la forma del equipo local. La probabilidad del 41% para Miami muestra que una sorpresa también es un resultado realista.",
-        "de": "New York Knicks erscheint dank des Heimvorteils mit einer Wahrscheinlichkeit von bis zu 59% als leichter Favorit gegen die Miami Heat; dennoch deutet dies eher auf eine ausgeglichene Begegnung als auf eine klare Überlegenheit hin. Die erwartete Gesamtpunktzahl von 222 und die erwartete Differenz von etwa 3 Punkten lassen ein tempogeladenes, intensives Spiel erwarten, das bis in die letzten Minuten offen bleiben könnte. Dass die Knicks die letzten 3 Heimspiele gewonnen haben und Andre Drummond, Jordan Clarkson sowie OG Anunoby auf der Verletztenliste stehen, unterstreicht die Form der Gastgeber. Die Wahrscheinlichkeit von 41% für Miami zeigt zugleich, dass eine Überraschung durchaus realistisch ist.",
-        "fr": "New York Knicks, ev sahibi avantajıyla Miami Heat karşısında %59'a varan olasılıkla hafif favori görünüyor; yine de bu, net bir üstünlükten çok dengeli bir karşılaşmaya işaret ediyor. Beklenen toplam sayının 222 ve beklenen farkın yaklaşık 3 sayı olması, maçın son dakikalara kadar açık kalabileceği, tempolu ama yoğun bir senaryoya işaret ediyor. Knicks'in son 3 iç saha maçını kazanmış olması ve Andre Drummond, Jordan Clarkson, OG Anunoby'nin sakatlık listesinde görünmesi, ev sahibi tarafın formuna dikkat çekiyor. Miami'nin %41'lik olasılığı, sürpriz ihtimalinin de gerçekçi olduğunu gösteriyor.",
-        "it": "New York Knicks, ev sahibi avantajıyla Miami Heat karşısında %59'a varan olasılıkla hafif favori görünüyor; yine de bu, net bir üstünlükten çok dengeli bir karşılaşmaya işaret ediyor. Beklenen toplam sayının 222 ve beklenen farkın yaklaşık 3 sayı olması, maçın son dakikalara kadar açık kalabileceği, tempolu ama yoğun bir senaryoya işaret ediyor. Knicks'in son 3 iç saha maçını kazanmış olması ve Andre Drummond, Jordan Clarkson, OG Anunoby'nin sakatlık listesinde görünmesi, ev sahibi tarafın formuna dikkat çekiyor. Miami'nin %41'lik olasılığı, sürpriz ihtimalinin de gerçekçi olduğunu gösteriyor.",
-        "pt": "New York Knicks, ev sahibi avantajıyla Miami Heat karşısında %59'a varan probabilidade ile leve favorito aparece; ainda assim, isso indica um confronto equilibrado, e não uma superioridade clara. O total de pontos esperado de 222 e a diferença esperada de cerca de 3 pontos sugerem um cenário acelerado, mas intenso, em que a partida pode permanecer aberta até os minutos finais. O fato de o Knicks ter vencido seus últimos 3 jogos em casa e de Andre Drummond, Jordan Clarkson e OG Anunoby constarem na lista de lesionados chama a atenção para a forma do time da casa. A probabilidade de 41% para o Miami mostra que a possibilidade de uma surpresa também é realista."
-      },
-      "kilit_utc": "2026-11-27T18:08:51Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-26",
-              "lig": "basketball_nba",
-              "rakip": "Cleveland Cavaliers",
-              "ic_saha": true,
-              "atilan": 121,
-              "yenilen": 102,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-23",
-              "lig": "basketball_nba",
-              "rakip": "Indiana Pacers",
-              "ic_saha": true,
-              "atilan": 113,
-              "yenilen": 106,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Portland Trail Blazers",
-              "ic_saha": true,
-              "atilan": 97,
-              "yenilen": 96,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 3,
-            "maglubiyet": 0,
-            "atilan_ort": 110.3,
-            "yenilen_ort": 101.3
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 3,
-            "maglubiyet": 0,
-            "atilan_ort": 110.3,
-            "yenilen_ort": 101.3
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-25",
-              "lig": "basketball_nba",
-              "rakip": "Philadelphia 76ers",
-              "ic_saha": false,
-              "atilan": 104,
-              "yenilen": 111,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Oklahoma City Thunder",
-              "ic_saha": true,
-              "atilan": 123,
-              "yenilen": 113,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 113.5,
-            "yenilen_ort": 112.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 123.0,
-            "yenilen_ort": 113.0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 104.0,
-            "yenilen_ort": 111.0
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Miles McBride",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "OG Anunoby",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jordan Clarkson",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Andre Drummond",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": []
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.6009,
-          "2": 0.3991
-        },
-        "son": {
-          "1": 0.5882,
-          "2": 0.4118
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "709de4f76f95aebf383d180ac3c6f679",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Toronto Raptors",
-      "deplasman": "Brooklyn Nets",
-      "baslama_utc": "2026-11-28T00:40:00Z",
-      "gece": "2026-11-27",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7531,
-        "2": 0.2469
-      },
-      "tahmin": "1",
-      "guven": 0.5062,
-      "sayi": {
-        "toplam": 219.0,
-        "toplam_kaynak": 16,
-        "fark": 9.5,
-        "fark_kaynak": 14,
-        "ev_sayi": 114,
-        "dep_sayi": 105
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 4,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 1,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "Toronto Raptors, evinde %75 kazanma olasılığıyla net favori; beklenen fark yaklaşık 10 sayı, toplam sayı ise 219 civarında. Bu tablo, Raptors'ın rahat bir galibiyet alacağı ama toplam sayının lig ortalamasının belirgin altında kalabileceği bir maça işaret ediyor. Raptors'ın 4 gün dinlenmiş olması ve Kawhi Leonard, Nate Bittle ile RJ Barrett'in oynamayacak görünmesi bu senaryoyu destekliyor. Nets'in son üç maçta maç başına 117 sayı yemesi de savunma tarafındaki zayıflığına dikkat çekiyor. Sürpriz ihtimali %25 olarak düşük değil, ancak beklenenden farklı bir sonuç için yine de yer var.",
-      "ai_metinler": {
-        "en": "Toronto Raptors, at home, are the clear favorite with a 75% probability of winning; the expected margin is about 10 points, and the total points are around 219. This picture points to a comfortable Raptors win, but a game where the total points could fall well below the league average. The Raptors being rested for 4 days and Kawhi Leonard, Nate Bittle and RJ Barrett appearing unlikely to play supports this scenario. The Nets conceding 117 points per game over their last three matches also highlights their weakness on defense. A 25% probability of an upset is not low, so there is still room for a result different from what is expected.",
-        "es": "Toronto Raptors, en casa, es el claro favorito con una probabilidad del 75%; la diferencia esperada ronda los 10 puntos y el total de puntos se sitúa en torno a 219. Este panorama apunta a un partido en el que los Raptors deberían imponerse con comodidad, aunque el total de puntos podría quedarse claramente por debajo del promedio de la liga. Que los Raptors lleven 4 días de descanso y que Kawhi Leonard, Nate Bittle y RJ Barrett no parezcan disponibles respalda este escenario. Además, que los Nets hayan recibido una media de 117 puntos en sus últimos tres partidos evidencia su debilidad defensiva. La probabilidad de una sorpresa, del 25%, no es baja, por lo que sigue existiendo margen para un resultado distinto al esperado.",
-        "de": "Die Toronto Raptors sind mit einer Siegwahrscheinlichkeit von 75% auf eigenem Platz klarer Favorit; der erwartete Abstand liegt bei etwa 10 Punkten, die Gesamtpunktzahl bei rund 219. Dieses Bild deutet auf ein Spiel hin, in dem die Raptors einen komfortablen Sieg einfahren, die Gesamtpunktzahl aber deutlich unter dem Ligadurchschnitt bleiben könnte. Dass die Raptors 4 Tage Pause hatten und Kawhi Leonard, Nate Bittle sowie RJ Barrett voraussichtlich nicht spielen werden, untermauert dieses Szenario. Dass die Nets in den letzten drei Spielen im Schnitt 117 Punkte kassiert haben, verweist außerdem auf ihre Schwäche in der Verteidigung. Die Überraschungswahrscheinlichkeit von 25% ist nicht gering, doch ein vom Erwarteten abweichendes Ergebnis bleibt durchaus möglich.",
-        "fr": "Toronto Raptors, à domicile, sont largement favoris avec une probabilité de victoire de 75 %; l'écart attendu est d'environ 10 points et le total points avoisine 219. Ce scénario laisse entrevoir une victoire confortable pour les Raptors, mais dans un match dont le total points devrait rester nettement en dessous de la moyenne de la ligue. Le fait que les Raptors aient récupéré 4 jours et que Kawhi Leonard, Nate Bittle et RJ Barrett semblent absents conforte cette lecture. Par ailleurs, les Nets ont encaissé en moyenne 117 points par match lors de leurs trois dernières rencontres, ce qui souligne leur fragilité défensive. La probabilité d'une surprise, fixée à 25 %, n'est pas négligeable : un résultat différent de celui attendu reste donc tout à fait envisageable.",
-        "it": "Toronto Raptors, in casa, sono nettamente favoriti con una probabilità del 75% di vittoria; il margine atteso è di circa 10 punti e il totale di punti previsto è intorno a 219. Questo quadro indica una partita in cui i Raptors dovrebbero ottenere una vittoria comoda, ma in cui il total points potrebbe restare sensibilmente al di sotto della media del campionato. A sostegno di questo scenario ci sono il fatto che i Raptors abbiano riposato per 4 giorni e che Kawhi Leonard, Nate Bittle e RJ Barrett non sembrino destinati a scendere in campo. Anche il fatto che i Nets abbiano subito 117 punti a partita nelle ultime tre gare evidenzia la loro fragilità difensiva. La probabilità di una sorpresa, pari al 25%, non è trascurabile, quindi resta spazio per un esito diverso da quello atteso.",
-        "pt": "Toronto Raptors, em casa, é claramente o favorito com uma probabilidade de vitória de 75%; a diferença esperada é de cerca de 10 pontos, e o total de pontos deve ficar por volta de 219. Esse cenário aponta para um jogo em que o Raptors deve vencer com tranquilidade, mas em que o total de pontos pode ficar bem abaixo da média da liga. O fato de o Raptors ter descansado 4 dias e de Kawhi Leonard, Nate Bittle e RJ Barrett aparentemente não jogarem reforça essa leitura. Além disso, o Nets sofrendo 117 pontos por jogo nas últimas três partidas chama atenção para a fragilidade defensiva da equipe. A probabilidade de uma surpresa, de 25%, não é baixa, mas ainda há espaço para um resultado diferente do esperado."
-      },
-      "kilit_utc": "2026-11-27T18:08:54Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-24",
-              "lig": "basketball_nba",
-              "rakip": "Milwaukee Bucks",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 116,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Detroit Pistons",
-              "ic_saha": false,
-              "atilan": 105,
-              "yenilen": 102,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 108.0,
-            "yenilen_ort": 109.0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 111.0,
-            "yenilen_ort": 116.0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 105.0,
-            "yenilen_ort": 102.0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-26",
-              "lig": "basketball_nba",
-              "rakip": "Milwaukee Bucks",
-              "ic_saha": false,
-              "atilan": 104,
-              "yenilen": 97,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-24",
-              "lig": "basketball_nba",
-              "rakip": "Minnesota Timberwolves",
-              "ic_saha": false,
-              "atilan": 116,
-              "yenilen": 142,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Orlando Magic",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 113,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "maglubiyet": 2,
-            "atilan_ort": 110.3,
-            "yenilen_ort": 117.3
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 111.0,
-            "yenilen_ort": 113.0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 110.0,
-            "yenilen_ort": 119.5
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Kawhi Leonard",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Nate Bittle",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "RJ Barrett",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": [
-          {
-            "oyuncu": "Moritz Wagner",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Nolan Traore",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.7369,
-          "2": 0.2631
-        },
-        "son": {
-          "1": 0.7531,
-          "2": 0.2469
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "326e8215b0369df0d4d65e5c0afe9ff5",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Detroit Pistons",
-      "deplasman": "Milwaukee Bucks",
-      "baslama_utc": "2026-11-28T00:40:00Z",
-      "gece": "2026-11-27",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7824,
-        "2": 0.2176
-      },
-      "tahmin": "1",
-      "guven": 0.5648,
-      "sayi": {
-        "toplam": 219.5,
-        "toplam_kaynak": 16,
-        "fark": 10.5,
-        "fark_kaynak": 14,
-        "ev_sayi": 115,
-        "dep_sayi": 104
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 3,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 1,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "Detroit Pistons, ev sahibi avantajıyla belirgin biçimde önde: kazanma olasılığı %78, beklenen fark yaklaşık 10 sayı. Beklenen toplam sayı 220, arşivdeki ortalama 225'e yakın olduğundan dengeli, orta tempolu bir maç bekleniyor. Pistons'ın 3 gün dinlenmiş olması ve Cade Cunningham, Jalen Duren ile Duncan Robinson'ın sakatlık listesinde görünmemesi bu tabloyu destekliyor. Bucks'ın tek eksik oyuncusu Kasparas Jakucionis. Sürpriz ihtimali %22; bu düşük olmayan bir olasılık ama tahmin edilen senaryonun dışında kalıyor.",
-      "ai_metinler": {
-        "en": "The Detroit Pistons hold a clear advantage as the home team, with a probability of 78% to win and an expected margin of roughly 10 points. The expected total points is 220, close to the archive average of 225, so a balanced, medium-paced game is anticipated. The Pistons' 3 days of rest and the absence of Cade Cunningham, Jalen Duren and Duncan Robinson from the injury report support this picture. For the Bucks, Kasparas Jakucionis is the only player missing. The probability of an upset is 22%; this is not a low probability, but it falls outside the predicted scenario.",
-        "es": "Detroit Pistons, ventaja de local, aparecen claramente por delante: probabilidad de victoria del 78% y una diferencia esperada de unos 10 puntos. El total de puntos esperado es de 220, cercano al promedio de 225 registrado en el archivo, por lo que se prevé un partido equilibrado y de ritmo medio. Que los Pistons hayan descansado durante 3 días y que Cade Cunningham, Jalen Duren y Duncan Robinson no figuren en la lista de lesionados respalda este escenario. El único ausente en los Bucks es Kasparas Jakucionis. La probabilidad de sorpresa es del 22%; no es una cifra baja, pero queda fuera del escenario previsto.",
-        "de": "Die Detroit Pistons liegen dank ihres Heimvorteils deutlich vorn: Die Wahrscheinlichkeit für einen Sieg beträgt 78 %, der erwartete Vorsprung liegt bei etwa 10 Punkten. Die erwartete Gesamtpunktzahl liegt bei 220. Da sie nahe am Archivdurchschnitt von 225 liegt, wird ein ausgeglichenes Spiel mit mittlerem Tempo erwartet. Dass die Pistons 3 Tage Pause hatten und Cade Cunningham, Jalen Duren sowie Duncan Robinson nicht auf der Verletztenliste stehen, unterstützt dieses Bild. Bei den Bucks fehlt lediglich Kasparas Jakucionis. Die Wahrscheinlichkeit für eine Überraschung liegt bei 22 %. Das ist kein geringer Wert, doch dieses Szenario liegt außerhalb des erwarteten Verlaufs.",
-        "fr": "Les Detroit Pistons sont nettement en tête grâce à l'avantage du terrain : probabilité de victoire de 78 %, écart attendu d'environ 10 points. Le total de points attendu est de 220, proche de la moyenne d'archive de 225, ce qui laisse présager un match équilibré à rythme modéré. Le fait que les Pistons aient 3 jours de repos et que Cade Cunningham, Jalen Duren et Duncan Robinson n'apparaissent pas sur la liste des blessés soutient ce scénario. Chez les Bucks, le seul joueur absent est Kasparas Jakucionis. La probabilité de surprise est de 22 %; ce n'est pas une probabilité faible, mais elle sort du scénario prévu.",
-        "it": "I Detroit Pistons sono nettamente in vantaggio grazie al fattore campo: probabilità di vittoria del 78%, con uno scarto atteso di circa 10 punti. I total points previsti sono 220, un valore vicino alla media d'archivio di 225, per cui si attende una partita equilibrata e a ritmo medio. A supportare questo quadro c'è il fatto che i Pistons hanno riposato per 3 giorni e che Cade Cunningham, Jalen Duren e Duncan Robinson non compaiono nella lista degli infortunati. Per i Bucks l'unico assente è Kasparas Jakucionis. La probabilità di una sorpresa è del 22%: non è un valore trascurabile, ma resta al di fuori dello scenario previsto.",
-        "pt": "Detroit Pistons, mandante vantagem, está claramente à frente: probabilidade de vitória de 78%, com diferença esperada de cerca de 10 pontos. O total de pontos esperado é 220, próximo da média do arquivo de 225, por isso se espera um jogo equilibrado, de ritmo moderado. O fato de o Pistons ter descansado 3 dias e de Cade Cunningham, Jalen Duren e Duncan Robinson não aparecerem na lista de lesionados reforça esse cenário. O único desfalque do Bucks é Kasparas Jakucionis. A probabilidade de surpresa é de 22%; não é um valor baixo, mas fica fora do cenário previsto."
-      },
-      "kilit_utc": "2026-11-27T18:08:56Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-25",
-              "lig": "basketball_nba",
-              "rakip": "Orlando Magic",
-              "ic_saha": false,
-              "atilan": 104,
-              "yenilen": 86,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Atlanta Hawks",
-              "ic_saha": false,
-              "atilan": 97,
-              "yenilen": 107,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Toronto Raptors",
-              "ic_saha": true,
-              "atilan": 102,
-              "yenilen": 105,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "maglubiyet": 2,
-            "atilan_ort": 101.0,
-            "yenilen_ort": 99.3
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 102.0,
-            "yenilen_ort": 105.0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 100.5,
-            "yenilen_ort": 96.5
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-26",
-              "lig": "basketball_nba",
-              "rakip": "Brooklyn Nets",
-              "ic_saha": true,
-              "atilan": 97,
-              "yenilen": 104,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-24",
-              "lig": "basketball_nba",
-              "rakip": "Toronto Raptors",
-              "ic_saha": false,
-              "atilan": 116,
-              "yenilen": 111,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Philadelphia 76ers",
-              "ic_saha": false,
-              "atilan": 129,
-              "yenilen": 132,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "maglubiyet": 2,
-            "atilan_ort": 114.0,
-            "yenilen_ort": 115.7
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "maglubiyet": 1,
-            "atilan_ort": 97.0,
-            "yenilen_ort": 104.0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "maglubiyet": 1,
-            "atilan_ort": 122.5,
-            "yenilen_ort": 121.5
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Duncan Robinson",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Cade Cunningham",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Jalen Duren",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Ebuka Okorie",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Taurean Prince",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": [
-          {
-            "oyuncu": "Kasparas Jakucionis",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.8082,
-          "2": 0.1918
-        },
-        "son": {
-          "1": 0.7824,
-          "2": 0.2176
-        }
-      },
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Indiana Pacers",
-      "deplasman": "Philadelphia 76ers",
-      "baslama_utc": "2026-11-28T00:40:00Z",
-      "gece": "2026-11-27",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.406,
-        "2": 0.594
-      },
-      "tahmin": "2",
-      "guven": 0.188,
-      "sayi": {
-        "toplam": 230.0,
-        "toplam_kaynak": 16,
-        "fark": -3.5,
-        "fark_kaynak": 14,
-        "ev_sayi": 113,
-        "dep_sayi": 117
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 4,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 2,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "76ers, deplasmanda olmasına rağmen belirgin biçimde önde: kazanma olasılığı %59. Beklenen toplam sayı 230 civarı ve lig ortalamasına yakın, yani tempolu ama sayının rahat aktığı bir maç bekleniyor. Philadelphia'nın yaklaşık 4 sayılık farkı son çeyreğe kadar taşıması mümkün, Pacers'ın 4 gün dinlenmiş olması ise bu dengeyi bir ölçüde esnetebilir. Sürpriz ihtimali yaklaşık %41; bu, düşük sayılmayacak kadar gerçekçi bir ihtimal.",
-      "ai_metinler": {
-        "en": "Despite playing away, the 76ers are clearly ahead: their probability of winning is 59%. The expected total points is around 230, close to the league average, so the game is expected to be fast-paced but with scoring flowing comfortably. Philadelphia could carry a lead of about 4 points into the final quarter, though Indiana's 4 days of rest could loosen that balance somewhat. The probability of an upset is about 41%, a realistic chance that should not be considered small.",
-        "es": "Aunque juega de visitante, los 76ers están claramente por delante: su probabilidad de ganar es del 59%. Se espera un total de puntos cercano a 230, en línea con la media de la liga, así que se prevé un partido con ritmo alto pero con anotación fluida. Es posible que Philadelphia mantenga una ventaja de unos 4 puntos hasta el último cuarto, aunque el hecho de que los Pacers hayan descansado 4 días podría suavizar un poco este equilibrio. La probabilidad de una sorpresa es de alrededor del 41%, un escenario lo bastante realista como para no considerarlo improbable.",
-        "de": "Die 76ers liegen trotz Auswärtsspiel deutlich vorn: Die Siegwahrscheinlichkeit beträgt 59%. Die erwartete Gesamtpunktzahl liegt bei etwa 230 und damit nahe am Ligadurchschnitt, es ist also ein temporeiches Spiel mit einem flüssigen Punkteverlauf zu erwarten. Es ist möglich, dass Philadelphia seinen Vorsprung von etwa 4 Punkten bis ins letzte Viertel hält, während die vier Tage Erholung der Pacers dieses Gleichgewicht etwas verschieben könnten. Die Überraschungswahrscheinlichkeit liegt bei etwa 41%; das ist ein realistisches Szenario, das nicht gering ausfällt.",
-        "fr": "Les 76ers, malgré le fait de jouer à l'extérieur, prennent nettement l'avantage : probabilité de victoire de 59 %. Le total de points attendu est d'environ 230, proche de la moyenne de la ligue, ce qui laisse présager un match rythmé où les points devraient tomber régulièrement. Philadelphie pourrait conserver son avance d'environ 4 points jusqu'au dernier quart-temps, mais les Pacers, reposés depuis 4 jours, pourraient en partie remettre cet équilibre en question. La probabilité d'une surprise est d'environ 41 %, ce qui reste un scénario tout à fait réaliste et non négligeable.",
-        "it": "I 76ers, nonostante giochino in trasferta, sono nettamente avanti: probabilità di vittoria del 59%. Il totale punti atteso è intorno a 230, vicino alla media della lega, quindi ci si aspetta una partita dal ritmo elevato in cui i punti scorrono con facilità. È plausibile che Philadelphia mantenga un vantaggio di circa 4 punti fino all'ultimo quarto, mentre il fatto che i Pacers abbiano riposato per 4 giorni potrebbe in parte ridimensionare questo equilibrio. La probabilità di una sorpresa è di circa il 41%, un'ipotesi realistica che non va considerata trascurabile.",
-        "pt": "Os 76ers, mesmo jogando fora de casa, aparecem claramente à frente: probabilidade de vitória de 59%. O total de pontos esperado gira em torno de 230, próximo da média da liga, o que indica um jogo acelerado, mas com pontuação fluindo com facilidade. É possível que o Philadelphia mantenha uma vantagem de cerca de 4 pontos até o último quarto, e o fato de o Indiana Pacers estarem descansados há 4 dias pode diminuir um pouco essa diferença. A probabilidade de surpresa é de aproximadamente 41%, um cenário realista o suficiente para não ser considerado baixo."
-      },
-      "kilit_utc": "2026-11-27T18:08:58Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-24",
-              "lig": "basketball_nba",
-              "rakip": "Oklahoma City Thunder",
-              "ic_saha": true,
-              "atilan": 125,
-              "yenilen": 120,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-23",
-              "lig": "basketball_nba",
-              "rakip": "New York Knicks",
-              "ic_saha": false,
-              "atilan": 106,
-              "yenilen": 113,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Cleveland Cavaliers",
-              "ic_saha": false,
-              "atilan": 119,
-              "yenilen": 128,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "maglubiyet": 2,
-            "atilan_ort": 116.7,
-            "yenilen_ort": 120.3
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "maglubiyet": 0,
-            "atilan_ort": 125.0,
-            "yenilen_ort": 120.0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 0,
-            "maglubiyet": 2,
-            "atilan_ort": 112.5,
-            "yenilen_ort": 120.5
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-25",
-              "lig": "basketball_nba",
-              "rakip": "Miami Heat",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 104,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-24",
-              "lig": "basketball_nba",
-              "rakip": "Portland Trail Blazers",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 128,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Milwaukee Bucks",
-              "ic_saha": true,
-              "atilan": 132,
-              "yenilen": 129,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 2,
-            "maglubiyet": 1,
-            "atilan_ort": 118.0,
-            "yenilen_ort": 120.3
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 2,
-            "maglubiyet": 1,
-            "atilan_ort": 118.0,
-            "yenilen_ort": 120.3
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "T.J. McConnell",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Tyrese Haliburton",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Ben Sheppard",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": [
-          {
-            "oyuncu": "Jaylen Brown",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Ariel Hukporti",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.3996,
-          "2": 0.6004
-        },
-        "son": {
-          "1": 0.406,
-          "2": 0.594
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c5dc35b4116988de2c1425df17456478",
-      "lig": "basketball_nba",
-      "ev_sahibi": "Boston Celtics",
-      "deplasman": "Atlanta Hawks",
-      "baslama_utc": "2026-11-28T01:10:00Z",
-      "gece": "2026-11-27",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7467,
-        "2": 0.2533
-      },
-      "tahmin": "1",
-      "guven": 0.4934,
-      "sayi": {
-        "toplam": 224.5,
-        "toplam_kaynak": 16,
-        "fark": 8.5,
-        "fark_kaynak": 16,
-        "ev_sayi": 116,
-        "dep_sayi": 108
-      },
-      "dinlenme": {
-        "ev": {
-          "gun": 2,
-          "arka_arkaya": false
-        },
-        "dep": {
-          "gun": 5,
-          "arka_arkaya": false
-        }
-      },
-      "ai_metin": "Boston Celtics, ev sahibi olarak %75 kazanma olasılığıyla maçın net favorisi görünüyor; beklenen 8 sayılık fark bu üstünlüğü destekliyor. Beklenen toplam 224 sayı ise lig ortalamasına yakın, dengeli ve orta tempolu bir maç senaryosuna işaret ediyor. Celtics'in son 3 maçta 1 galibiyet alması ve Atlanta'nın 5 gün dinlenmiş olması bu tabloyu bir miktar dengeliyor. Atlanta'nın kadrosunda dört oyuncunun sakat olması, Hawks'ın olasılığını %25'te tutan bir etken. Sürpriz ihtimali %25 olsa da bu, yüksek bir olasılık sayılmaz.",
-      "ai_metinler": {
-        "en": "Boston Celtics, home-court advantage with a 75% probability of winning, appears to be the clear favorite; the expected 8-point margin supports this edge. The expected total of 224 points points to a balanced, medium-tempo game close to the league average. Celtics winning just 1 of their last 3 games and Atlanta being rested for 5 days offset this picture somewhat. Four injured players on Atlanta's roster are a factor keeping the Hawks' probability at 25%. Although the upset chance is 25%, this is not considered a high probability.",
-        "es": "Los Boston Celtics aparecen como claros favoritos para ganar como anfitriones, con una probabilidad del 75%, y la diferencia esperada de 8 puntos respalda esta ventaja. El total de puntos esperado de 224 apunta a un escenario de partido equilibrado y de ritmo medio, cercano al promedio de la liga. Que los Celtics hayan ganado solo 1 de sus últimos 3 partidos y que los Hawks hayan descansado 5 días suaviza un poco este panorama. La ausencia de cuatro jugadores en la plantilla de Atlanta es un factor que mantiene la probabilidad de los Hawks en 25%. Aunque la probabilidad de una sorpresa es del 25%, no se considera una cifra alta.",
-        "de": "Boston Celtics ist als Gastgeber mit einer Wahrscheinlichkeit von 75% der klare Favorit für dieses Spiel; der erwartete Vorsprung von 8 Punkten unterstützt diese Überlegenheit. Die erwarteten total points von 224 deuten dagegen auf ein ausgeglichenes Spiel mit mittlerem Tempo hin, das nahe am Ligadurchschnitt liegt. Dass die Celtics in ihren letzten 3 Spielen nur 1 Sieg verbuchen konnten und Atlanta 5 Tage Pause hatte, relativiert dieses Bild etwas. Dass vier Spieler im Kader der Hawks verletzt fehlen, ist ein Faktor, der die Wahrscheinlichkeit für Atlanta auf 25% begrenzt. Die Überraschungswahrscheinlichkeit von 25% ist dennoch nicht gering, auch wenn sie keinen hohen Wert darstellt.",
-        "fr": "Boston Celtics, ev sahibi olarak %75 kazanma olasılığıyla maçın net favorisi görünüyor; beklenen 8 sayılık fark bu üstünlüğü destekliyor. Beklenen toplam 224 sayı ise lig ortalamasına yakın, dengeli ve orta tempolu bir maç senaryosuna işaret ediyor. Celtics'in son 3 maçta 1 galibiyet alması ve Atlanta'nın 5 gün dinlenmiş olması bu tabloyu bir miktar dengeliyor. Atlanta'nın kadrosunda dört oyuncunun sakat olması, Hawks'ın olasılığını %25'te tutan bir etken. Sürpriz ihtimali %25 olsa da bu, yüksek bir olasılık sayılmaz.",
-        "it": "Boston Celtics, ev sahibi olarak %75 kazanma olasılığıyla maçın net favorisi görünüyor; beklenen 8 sayılık fark bu üstünlüğü destekliyor. Beklenen toplam 224 sayı ise lig ortalamasına yakın, dengeli ve orta tempolu bir maç senaryosuna işaret ediyor. Celtics'in son 3 maçta 1 galibiyet alması ve Atlanta'nın 5 gün dinlenmiş olması bu tabloyu bir miktar dengeliyor. Atlanta'nın kadrosunda dört oyuncunun sakat olması, Hawks'ın olasılığını %25'te tutan bir etken. Sürpriz ihtimali %25 olsa da bu, yüksek bir olasılık sayılmaz.",
-        "pt": "Boston Celtics, ev sahibi olarak %75 kazanma olasılığıyla maçın net favorisi görünüyor; beklenen 8 sayılık fark bu üstünlüğü destekliyor. Beklenen toplam 224 sayı ise lig ortalamasına yakın, dengeli ve orta tempolu bir maç senaryosuna işaret ediyor. Celtics'in son 3 maçta 1 galibiyet alması ve Atlanta'nın 5 gün dinlenmiş olması bu tabloyu bir miktar dengeliyor. Atlanta'nın kadrosunda dört oyuncunun sakat olması, Hawks'ın olasılığını %25'te tutan bir etken. Sürpriz ihtimali %25 olsa da bu, yüksek bir olasılık sayılmaz."
-      },
-      "kilit_utc": "2026-11-27T18:09:00Z",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-25",
-              "lig": "basketball_nba",
-              "rakip": "Washington Wizards",
-              "ic_saha": false,
-              "atilan": 131,
-              "yenilen": 116,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-23",
-              "lig": "basketball_nba",
-              "rakip": "Golden State Warriors",
-              "ic_saha": false,
-              "atilan": 87,
-              "yenilen": 88,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Sacramento Kings",
-              "ic_saha": false,
-              "atilan": 96,
-              "yenilen": 97,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "maglubiyet": 2,
-            "atilan_ort": 104.7,
-            "yenilen_ort": 100.3
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          },
-          "deplasman": {
-            "mac": 3,
-            "galibiyet": 1,
-            "maglubiyet": 2,
-            "atilan_ort": 104.7,
-            "yenilen_ort": 100.3
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "basketball_nba",
-              "rakip": "Detroit Pistons",
-              "ic_saha": true,
-              "atilan": 107,
-              "yenilen": 97,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-21",
-              "lig": "basketball_nba",
-              "rakip": "Charlotte Hornets",
-              "ic_saha": true,
-              "atilan": 111,
-              "yenilen": 97,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 2,
-            "maglubiyet": 0,
-            "atilan_ort": 109.0,
-            "yenilen_ort": 97.0
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 2,
-            "maglubiyet": 0,
-            "atilan_ort": 109.0,
-            "yenilen_ort": 97.0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "maglubiyet": 0,
-            "atilan_ort": null,
-            "yenilen_ort": null
-          }
-        }
-      },
-      "sakatlik": {
-        "ev_sahibi": [
-          {
-            "oyuncu": "Mitchell Robinson",
-            "durum": "oynamayacak"
-          }
-        ],
-        "deplasman": [
-          {
-            "oyuncu": "Jock Landale",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Asa Newell",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "CJ McCollum",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Mouhamed Gueye",
-            "durum": "oynamayacak"
-          },
-          {
-            "oyuncu": "Henri Veesaar",
-            "durum": "oynamayacak"
-          }
-        ]
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.7597,
-          "2": 0.2403
-        },
-        "son": {
-          "1": 0.7467,
-          "2": 0.2533
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "f0bc60d1516d217dba58c1f4fa653a59",
       "lig": "basketball_nba",
       "ev_sahibi": "Minnesota Timberwolves",
       "deplasman": "Memphis Grizzlies",
-      "baslama_utc": "2026-11-28T01:40:00Z",
+      "baslama_utc": "2026-11-28T01:42:00Z",
       "gece": "2026-11-27",
       "durum": "ok",
       "olasiliklar": {
@@ -1088,6 +172,10 @@
         ],
         "deplasman": [
           {
+            "oyuncu": "Isaiah Stewart",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Scotty Pippen Jr.",
             "durum": "oynamayacak"
           },
@@ -1109,18 +197,7 @@
           }
         ]
       },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.5719,
-          "2": 0.4281
-        },
-        "son": {
-          "1": 0.6014,
-          "2": 0.3986
-        }
-      },
+      "hareket": null,
       "ucretsiz": false
     },
     {
@@ -1280,6 +357,10 @@
         ],
         "deplasman": [
           {
+            "oyuncu": "Kyrie Irving",
+            "durum": "oynamayacak"
+          },
+          {
             "oyuncu": "Tobi Lawal",
             "durum": "oynamayacak"
           },
@@ -1299,14 +380,14 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
+        "son_utc": "2026-11-28T01:40:29Z",
         "ilk": {
           "1": 0.558,
           "2": 0.442
         },
         "son": {
-          "1": 0.5329,
-          "2": 0.4671
+          "1": 0.604,
+          "2": 0.396
         }
       },
       "ucretsiz": false
@@ -1475,18 +556,7 @@
         ],
         "deplasman": []
       },
-      "hareket": {
-        "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
-        "ilk": {
-          "1": 0.2329,
-          "2": 0.7671
-        },
-        "son": {
-          "1": 0.2222,
-          "2": 0.7778
-        }
-      },
+      "hareket": null,
       "ucretsiz": false
     },
     {
@@ -1672,14 +742,14 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
+        "son_utc": "2026-11-28T01:40:29Z",
         "ilk": {
           "1": 0.7488,
           "2": 0.2512
         },
         "son": {
-          "1": 0.7655,
-          "2": 0.2345
+          "1": 0.7378,
+          "2": 0.2622
         }
       },
       "ucretsiz": false
@@ -1836,10 +906,6 @@
         "ev_sahibi": [],
         "deplasman": [
           {
-            "oyuncu": "Trendon Watford",
-            "durum": "oynamayacak"
-          },
-          {
             "oyuncu": "Bennedict Mathurin",
             "durum": "oynamayacak"
           },
@@ -1851,14 +917,14 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
+        "son_utc": "2026-11-28T01:40:29Z",
         "ilk": {
           "1": 0.5669,
           "2": 0.4331
         },
         "son": {
-          "1": 0.5573,
-          "2": 0.4427
+          "1": 0.5482,
+          "2": 0.4518
         }
       },
       "ucretsiz": false
@@ -2021,16 +1087,702 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-26T18:23:53Z",
-        "son_utc": "2026-11-27T18:08:49Z",
+        "son_utc": "2026-11-28T01:40:29Z",
         "ilk": {
           "1": 0.6494,
           "2": 0.3506
         },
         "son": {
-          "1": 0.6647,
-          "2": 0.3353
+          "1": 0.6585,
+          "2": 0.3415
         }
       },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2f2c60fafdc3fd106d71517a9de4f2b1",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Washington Wizards",
+      "deplasman": "Orlando Magic",
+      "baslama_utc": "2026-11-28T22:10:00Z",
+      "gece": "2026-11-28",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 3,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 3,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-28T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Boston Celtics",
+              "ic_saha": true,
+              "atilan": 116,
+              "yenilen": 131,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Orlando Magic",
+              "ic_saha": true,
+              "atilan": 116,
+              "yenilen": 96,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Chicago Bulls",
+              "ic_saha": false,
+              "atilan": 98,
+              "yenilen": 94,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 2,
+            "maglubiyet": 1,
+            "atilan_ort": 110.0,
+            "yenilen_ort": 107.0
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 116.0,
+            "yenilen_ort": 113.5
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 98.0,
+            "yenilen_ort": 94.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-25",
+              "lig": "basketball_nba",
+              "rakip": "Detroit Pistons",
+              "ic_saha": true,
+              "atilan": 86,
+              "yenilen": 104,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Washington Wizards",
+              "ic_saha": false,
+              "atilan": 96,
+              "yenilen": 116,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Brooklyn Nets",
+              "ic_saha": false,
+              "atilan": 113,
+              "yenilen": 111,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 98.3,
+            "yenilen_ort": 110.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 86.0,
+            "yenilen_ort": 104.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 104.5,
+            "yenilen_ort": 113.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Tristan Vukcevic",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Reece Beekman",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Justin Champagnie",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jamir Watkins",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Kevin Porter Jr.",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jonathan Isaac",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Izaiyah Nelson",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Noah Penda",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Paolo Banchero",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a05c295062d5e2b8e9fa633c2797880e",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Charlotte Hornets",
+      "deplasman": "Brooklyn Nets",
+      "baslama_utc": "2026-11-28T23:10:00Z",
+      "gece": "2026-11-28",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 2,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 0,
+          "arka_arkaya": true
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-28T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Chicago Bulls",
+              "ic_saha": true,
+              "atilan": 105,
+              "yenilen": 107,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Memphis Grizzlies",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 117,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Atlanta Hawks",
+              "ic_saha": false,
+              "atilan": 97,
+              "yenilen": 111,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 0,
+            "maglubiyet": 3,
+            "atilan_ort": 104.3,
+            "yenilen_ort": 111.7
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 0,
+            "maglubiyet": 2,
+            "atilan_ort": 108.0,
+            "yenilen_ort": 112.0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 97.0,
+            "yenilen_ort": 111.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Milwaukee Bucks",
+              "ic_saha": false,
+              "atilan": 104,
+              "yenilen": 97,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Minnesota Timberwolves",
+              "ic_saha": false,
+              "atilan": 116,
+              "yenilen": 142,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Orlando Magic",
+              "ic_saha": true,
+              "atilan": 111,
+              "yenilen": 113,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 110.3,
+            "yenilen_ort": 117.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 111.0,
+            "yenilen_ort": 113.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 110.0,
+            "yenilen_ort": 119.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Grayson Allen",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Dennis Schroder",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Kon Knueppel",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Moritz Wagner",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Nolan Traore",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1ef1f5b9c8c88c584772f64a0d9a9435",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Chicago Bulls",
+      "deplasman": "Indiana Pacers",
+      "baslama_utc": "2026-11-29T01:10:00Z",
+      "gece": "2026-11-28",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 3,
+          "arka_arkaya": false
+        },
+        "dep": {
+          "gun": 1,
+          "arka_arkaya": true
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-28T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Charlotte Hornets",
+              "ic_saha": false,
+              "atilan": 107,
+              "yenilen": 105,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Cleveland Cavaliers",
+              "ic_saha": true,
+              "atilan": 122,
+              "yenilen": 108,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "Denver Nuggets",
+              "ic_saha": true,
+              "atilan": 145,
+              "yenilen": 151,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Washington Wizards",
+              "ic_saha": true,
+              "atilan": 94,
+              "yenilen": 98,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 2,
+            "maglubiyet": 2,
+            "atilan_ort": 117.0,
+            "yenilen_ort": 115.5
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 120.3,
+            "yenilen_ort": 119.0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 107.0,
+            "yenilen_ort": 105.0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Oklahoma City Thunder",
+              "ic_saha": true,
+              "atilan": 125,
+              "yenilen": 120,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-23",
+              "lig": "basketball_nba",
+              "rakip": "New York Knicks",
+              "ic_saha": false,
+              "atilan": 106,
+              "yenilen": 113,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Cleveland Cavaliers",
+              "ic_saha": false,
+              "atilan": 119,
+              "yenilen": 128,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 116.7,
+            "yenilen_ort": 120.3
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "maglubiyet": 0,
+            "atilan_ort": 125.0,
+            "yenilen_ort": 120.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "maglubiyet": 2,
+            "atilan_ort": 112.5,
+            "yenilen_ort": 120.5
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Norman Powell",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Caleb Wilson",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "T.J. McConnell",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Tyrese Haliburton",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Ben Sheppard",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "638cefeed67cdd691e1686e024981563",
+      "lig": "basketball_nba",
+      "ev_sahibi": "Milwaukee Bucks",
+      "deplasman": "Oklahoma City Thunder",
+      "baslama_utc": "2026-11-29T01:10:00Z",
+      "gece": "2026-11-28",
+      "durum": "kilit_bekliyor",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "sayi": null,
+      "dinlenme": {
+        "ev": {
+          "gun": 1,
+          "arka_arkaya": true
+        },
+        "dep": {
+          "gun": 3,
+          "arka_arkaya": false
+        }
+      },
+      "ai_metin": null,
+      "ai_metinler": null,
+      "kilit_utc": "2026-11-28T18:45:00Z",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Brooklyn Nets",
+              "ic_saha": true,
+              "atilan": 97,
+              "yenilen": 104,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Toronto Raptors",
+              "ic_saha": false,
+              "atilan": 116,
+              "yenilen": 111,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "Philadelphia 76ers",
+              "ic_saha": false,
+              "atilan": 129,
+              "yenilen": 132,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 3,
+            "galibiyet": 1,
+            "maglubiyet": 2,
+            "atilan_ort": 114.0,
+            "yenilen_ort": 115.7
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "maglubiyet": 1,
+            "atilan_ort": 97.0,
+            "yenilen_ort": 104.0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 122.5,
+            "yenilen_ort": 121.5
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-26",
+              "lig": "basketball_nba",
+              "rakip": "Minnesota Timberwolves",
+              "ic_saha": true,
+              "atilan": 106,
+              "yenilen": 113,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-24",
+              "lig": "basketball_nba",
+              "rakip": "Indiana Pacers",
+              "ic_saha": false,
+              "atilan": 120,
+              "yenilen": 125,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-22",
+              "lig": "basketball_nba",
+              "rakip": "Miami Heat",
+              "ic_saha": false,
+              "atilan": 113,
+              "yenilen": 123,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "basketball_nba",
+              "rakip": "New Orleans Pelicans",
+              "ic_saha": true,
+              "atilan": 126,
+              "yenilen": 120,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 1,
+            "maglubiyet": 3,
+            "atilan_ort": 116.2,
+            "yenilen_ort": 120.2
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 1,
+            "maglubiyet": 1,
+            "atilan_ort": 116.0,
+            "yenilen_ort": 116.5
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "maglubiyet": 2,
+            "atilan_ort": 116.5,
+            "yenilen_ort": 124.0
+          }
+        }
+      },
+      "sakatlik": {
+        "ev_sahibi": [
+          {
+            "oyuncu": "Kasparas Jakucionis",
+            "durum": "oynamayacak"
+          }
+        ],
+        "deplasman": [
+          {
+            "oyuncu": "Nikola Topic",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Aday Mara",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jaylin Williams",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Jalen Williams",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Thomas Sorber",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Cason Wallace",
+            "durum": "oynamayacak"
+          },
+          {
+            "oyuncu": "Chet Holmgren",
+            "durum": "oynamayacak"
+          }
+        ]
+      },
+      "hareket": null,
       "ucretsiz": false
     }
   ],
